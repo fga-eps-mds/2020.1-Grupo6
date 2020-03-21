@@ -19,7 +19,7 @@ Esta introdução fornece uma visão geral de todo o documento de visão. Ela in
 
 ###	2: Posicionando
 ####	2.1 Oportunidade de Negócios:
-	Com a pandemia do vírus COVID-19, surge a necessidade de se obter rapidamente informações sobre o vírus para se instrumentalizar formas de combatê-lo, desta forma é necessário uma forma de levantar dados e achar as correlações necessárias para trazer as devidas soluções ao problema.
+Com a pandemia do vírus COVID-19, surge a necessidade de se obter rapidamente informações sobre o vírus para se instrumentalizar formas de combatê-lo, desta forma é necessário uma forma de levantar dados e achar as correlações necessárias para trazer as devidas soluções ao problema.
 ####	2.2 Instrução do Problema:
 O problema da pandemia do vírus COVID-19 gera a necessidade de análise de dados sobre este vírus para encontrar correlações importantes ao caso, tal problema afeta a população mundial. O impacto do problema se extende na morte de milhares de pessoas, principalmente idosos, e pessoas com doenças crônicas, e pessoas com imunidade baixa. Uma solução bem sucedida para o problema dos dados incluiria uma plataforma de fácil acesso a dados do relativos ao vírus; outros dados que possam gerar corelações como renda e escolaridade de pessoas afetadas, lugares onde pessoas foram infectadas, entre outros; possibilidade de comparar os dados na plataforma. 
 

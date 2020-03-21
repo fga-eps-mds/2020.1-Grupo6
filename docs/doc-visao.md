@@ -19,19 +19,12 @@ Esta introdução fornece uma visão geral de todo o documento de visão. Ela in
 
 ###	2: Posicionando
 ####	2.1 Oportunidade de Negócios:
- Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
-
+	Com a pandemia do vírus COVID-19, surge a necessidade de se obter rapidamente informações sobre o vírus para se instrumentalizar formas de combatê-lo, desta forma é necessário uma forma de levantar dados e achar as correlações necessárias para trazer as devidas soluções ao problema.
 ####	2.2 Instrução do Problema:
- Resume o problema que este projeto resolve. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
-
-O problema de (descreva o problema) afeta (as partes interessadas afetadas pelo problema). O impacto do problema é (qual é o impacto do problema). Uma solução bem sucedida incluiria (lista alguns principais benefícios de uma solução bem sucedida).
+O problema da pandemia do vírus COVID-19 gera a necessidade de análise de dados sobre este vírus para encontrar correlações importantes ao caso, tal problema afeta a população mundial. O impacto do problema se extende na morte de milhares de pessoas, principalmente idosos, e pessoas com doenças crônicas, e pessoas com imunidade baixa. Uma solução bem sucedida para o problema dos dados incluiria uma plataforma de fácil acesso a dados do relativos ao vírus; outros dados que possam gerar corelações como renda e escolaridade de pessoas afetadas, lugares onde pessoas foram infectadas, entre outros; possibilidade de comparar os dados na plataforma. 
 
 ####	2.3 Instrução de Posição do Produto:
- Fornece uma instrução geral resumida no nível mais alto, a posição exclusiva que o produto pretende preencher no mercado de trabalho. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
-
-Para o (cliente alvo) quem (instrução da necessidade ou oportunidade). O (nome do produto) é uma (categoria do produto) que (instrução do principal benefício, isto é, o motivo convincente para comprar). De outro modo (principal alternativa competitiva), nosso produto (instrução da principal diferenciação).
-
-Uma instrução de posição do produto comunica o intento do aplicativo e a importância do projeto para todas as partes interessadas.
+Para o população que necessita de uma solução que minimize os efeitos da pandemia. O (nome do produto) é uma aplicação que permite a visualização de dados do COVID-19 em forma de mapa de calor. Há aplicações que disponibilizam a visualização de casos de COVID-19 em forma de mapa de calor, nosso produto no entanto se diferencia pela capacidade de cruzar diversos dados de diferentes fontes para se observar possíveis correlações.
 
 ###	3: Descrições da Parte Interessada e do Usuário
 Para fornecer produtos e serviços que atendam às necessidades das partes interessadas e dos usuários, você deve identificar e envolver todas as partes interessadas como parte do processo de definição dos requisitos. Você deve também identificar os usuários do sistema e assegurar que a comunidade das partes interessadas os represente adequadamente.

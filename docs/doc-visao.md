@@ -89,6 +89,7 @@ Descreve cada parte interessada no projeto, preenchendo a seguinte tabela para c
 - Quais soluções a parte interessada deseja?
 Você deve entender a importância relativa que a parte interessada coloca na solução de cada problema. A classificação e técnicas de votos acumulativos indicam os problemas que devem ser resolvidos versus os problemas que as partes interessadas gostariam de tratar. Use esta tabela para capturar as necessidades da parte interessada.
 Tabela 1. Necessidades da Parte Interessada
+
 |Necessidade|Prioridade|Interesses|Solução atual|Solução proposta|
 |-|-|-|-|-|
 | | | | | |

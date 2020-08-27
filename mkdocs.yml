@@ -1,0 +1,22 @@
+site_name: GRUPO 6 MDS/EPS
+
+repo_name: 'fga-eps-mds/2020.1-Grupo6'
+repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+  font:
+    text: 'Barlow'
+  logo: ''
+  feature:
+    tabs: true
+
+nav:
+  - Início: 
+    - Home: README.md
+    - Sobre: sobre.md
+  - Roadmap: Roadmaps/roadmap.md
+  - Documento de Visão: doc-visao.md

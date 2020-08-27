@@ -10,7 +10,7 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 
 ## Instalação
 
-> * ``` git clone https://github.com/ads-unigrade-2019-1/Wiki.git ``` <br> <br>
+> * ``` git clone https://github.com/fga-eps-mds/2020.1-Grupo6.git``` <br> <br>
 > * ``` pip install mkdocs```
 
 ## Execução

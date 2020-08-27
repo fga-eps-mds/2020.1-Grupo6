@@ -1,0 +1,12 @@
+site_name: GRUPO 6 MDS/EPS
+
+repo_name: 'fga-eps-mds/2020.1-Grupo6'
+repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
+
+nav:
+  - Documentação do Projeto: 
+    - Sobre: sobre.md
+    - Roadmap: Roadmaps/roadmap.md
+    - Documento de Visão: doc-visao.md
+
+theme: readthedocs

@@ -8,5 +8,7 @@ nav:
     - Sobre: sobre.md
     - Roadmap: Roadmaps/roadmap.md
     - Documento de Visão: doc-visao.md
+    - Artefatos Organizacionais:
+      - Documento de Gestão e Configuração de Software: artefatos_organizacionais/DGC.md
 
 theme: readthedocs

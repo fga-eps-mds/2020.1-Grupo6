@@ -1,7 +1,7 @@
 ---
-name: Template ata
+name: Template de ata
 about: Template padrão para criação de atas de reunião
-title: Issue US
+title: Template de ata
 labels: ''
 assignees: ''
 

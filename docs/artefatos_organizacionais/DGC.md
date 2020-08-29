@@ -5,6 +5,7 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |27/08/2020|   0.1    | Criação do Documento        |   Guilherme  |
+|29/08/2020|   0.2   | Correção na política de branch       |   Guilherme  |
 
 ## Sumário
 
@@ -35,13 +36,13 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 
 ### 3.1 Política de Commits
 
-* <p align = "justify">Os commits devem ser criados após alterações relevantes feitas em relação ao material original e devem ser descritos forma sucinta e atômica. O texto deve descrever o que foi produzido, de forma resumida e em português, com o tempo verbal no particípio. Como no seguinte formato:
+* <p align = "justify">Os commits devem ser criados após alterações relevantes feitas em relação ao material original e devem ser descritos forma sucinta e atômica. O texto deve descrever o que foi produzido, de forma resumida e em inglẽs, com o tempo verbal no particípio. Como no seguinte formato:
 
    ```<Texto começando com letra maiúscula e com o verbo no particípio>.```
 
 * Exemplo:
 
-   ```Criado estrutura de login```
+   ```Created user structure```
 
 </p>
 

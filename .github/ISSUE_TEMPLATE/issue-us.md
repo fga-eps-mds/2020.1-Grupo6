@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-US X - Título da issue
+US X - Título da issue  [User Story]
+TS X - Título da issue  [Technical Story]
+HF X - Título da issue  [Hotfix]
 
 **Descrição**
 
@@ -15,6 +17,9 @@ US X - Título da issue
 Caso haja necessidade, adicione screenshots para ajudá-lo a explicar.
 
 **Tarefas**
+- [ ] tarefa 1
+- [ ] ... 
 
 **Critérios de Aceitação**
--
+- [ ] critério 1
+- [ ] ... 

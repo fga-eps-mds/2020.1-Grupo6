@@ -7,6 +7,8 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 | Nome                          | Matrícula  | GitHub             | Email                                |
 |-------------------------------|------------|--------------------|--------------------------------------|
 | Mateus Augusto Sousa e Silva | 150062869 | [Mateusas3s](https://github.com/Mateusas3s)           | mateusaugusto-2009@hotmail.com               |
+| Bruno Carmo Nunes            | 180117548 | [brunocmo](https://github.com/brunocmo)               | brunocmo.nunes@gmail.com                     |
+
 
 ## Instalação
 

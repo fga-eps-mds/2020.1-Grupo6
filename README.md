@@ -7,6 +7,7 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 | Nome                          | Matrícula  | GitHub             | Email                                |
 |-------------------------------|------------|--------------------|--------------------------------------|
 | Mateus Augusto Sousa e Silva | 150062869 | [Mateusas3s](https://github.com/Mateusas3s)           | mateusaugusto-2009@hotmail.com               |
+| Tomás Veloso Peixoto Matutino | 180138596 | [tomasvelos0](https://github.com/tomasvelos0)           | tomasvelozo@hotmail.com               |
 
 ## Instalação
 

@@ -11,6 +11,7 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 | Hércules Ismael de Abreu Santos | 160124450 | [ismaelg456g](https://github.com/ismaelg456g) | ismael-456@hotmail.com |
 | Juliana Pereira Valle Gonçalves | 180124099 | [julianavalle](https://github.com/julianavalle)           | juju.pvg@gmail.com               |
 | Vitor Jacinto Sulzbach          | 150065591 | [Vitorsulzbach](https://github.com/Vitorsulzbach)        | vjsulzbach@gmail.com               |
+| Tomás Veloso Peixoto Matutino | 180138596 | [tomasvelos0](https://github.com/tomasvelos0)           | tomasvelozo@hotmail.com               |
 
 ## Instalação
 

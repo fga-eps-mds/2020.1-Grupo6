@@ -18,6 +18,7 @@
 [8. Precedência e Prioridade](#8-precedencia-e-prioridade) <br>
 [9. Outros Requisitos do Produto](#9-outros-requisitos-do-produto) <br>
 [10.  Requisitos de Documentação](#10-requisitos-de-documentacao) <br>
+[11.  Referências](#11-referencias) <br>
 
 
 ###	1: Introdução
@@ -187,3 +188,7 @@ Esta seção descreve a documentação que deve ser desenvolvida para suportar a
  Um documento que inclui instalação, configuração e instruções de atualização como parte da oferta de solução integral.
 ####	10.4 Rótulo e Embalagem:
  Uma aparência consistente começa com a embalagem do produto e se aplica aos menus de instalação, telas iniciais, sistemas de ajuda, caixas de diálogo de GUI e assim por diante. Esta seção define as necessidades e tipos de rótulos a serem incorporados no código. Os exemplos incluem copyright e avisos de patentes, logotipos corporativos, ícones padronizados e outros elementos gráficos.
+
+### 11: Referências
+
+ Seção de referencias

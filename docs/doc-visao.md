@@ -6,6 +6,7 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |20/03/2020|   0.1    | Criação do Documento        |   Hercules  |
 |29/08/2020|   0.2   | Restruturação do Documento     |   Guilherme  |
+|01/08/2020|   0.3   | Restruturação do Documento     |   Guilherme  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -14,11 +15,7 @@
 [4. Visão Geral do Produto](#4-visao-geral-do_produto) <br>
 [5. Recursos do Produto](#5-recursos-do-produto) <br>
 [6. Restrições](#6-restriçoes) <br>
-[7. Faixas de Qualidade](#7-faixas-de-qualidade) <br>
-[8. Precedência e Prioridade](#8-precedencia-e-prioridade) <br>
-[9. Outros Requisitos do Produto](#9-outros-requisitos-do-produto) <br>
-[10.  Requisitos de Documentação](#10-requisitos-de-documentacao) <br>
-[11.  Referências](#11-referencias) <br>
+[7.  Referências](#7-referencias) <br>
 
 
 ###	1: Introdução
@@ -156,39 +153,7 @@ Em toda esta seção, torne cada recurso relevante para usuários, operadores ou
 
 ###	6: Restrições
 Observe todas as restrições de design, restrições externas, como requisitos operacionais ou regulamentares) ou outras dependências.
-###	7: Faixas de Qualidade
-Defina as faixas de qualidade para desempenho, robustez, tolerância a falhas, usabilidade e características similares que o conjunto de recursos não descreve.
-###	8: Precedência e Prioridade
-Define a prioridade dos diferentes recursos do sistema.
-###	9: Outros Requisitos do Produto
-Em um alto nível, lista os padrões aplicáveis, os requisitos de hardware ou plataforma, os requisitos de desempenho e os requisitos ambientais.
 
-####	9.1 Padrões Aplicáveis:
- Lista todos os padrões que o produto deve estar em conformidade. A lista pode incluir estes padrões:
-- Padrões jurídicos e regulamentares (FDA, UCC)
-- Padrões de comunicações (TCP/IP, ISDN)
-- Padrões de conformidade da plataforma (Windows, UNIX, etc.)
-- Padrões de qualidade e segurança (UL, ISO, CMM)
-####	9.2 Requisitos do Sistema:
- Define os requisitos do sistema para o aplicativo. Eles incluem os sistemas operacionais do host suportados e as plataformas de rede, configurações, memória, dispositivos periféricos e software de parceiros.
-
-####	9.3 Requisitos de Desempenho:
- Detalha os requisitos de desempenho. Os problemas de desempenho podem incluir itens como fatores de carga do usuário, largura de banda ou capacidade de comunicação, rendimento, exatidão, confiabilidade ou tempos de resposta em uma variedade de condições de carregamento.
-
-####	9.4 Requisitos Ambientais:
- Detalha os requisitos ambientais conforme necessário. Para sistemas baseados em hardware, os problemas ambientais podem incluir temperatura, choque elétrico, umidade e radiação. Para aplicativos de software, os fatores ambientais podem incluir condições de uso, ambiente do usuário, disponibilidade do recurso, problemas de manutenção, manipulação de erros e recuperação.
-
-###	10: Requisitos de Documentação
-Esta seção descreve a documentação que deve ser desenvolvida para suportar a implementação bem sucedida do aplicativo.
-####	10.1 Notas sobre a liberação, arquivo Leia-me:
- As notas sobre a liberação ou um arquivo Leia-me abreviado podem incluir uma seção "O que Há de Novo", uma discussão sobre problemas de compatibilidade com liberações anteriores, e alertas de instalação e atualização. O documento pode também conter ou vincular correções na liberação e quaisquer problemas ou soluções alternativas conhecidos.
-####	10.2 Ajuda On-line:
- Muitos aplicativos fornecem um sistema de ajuda on-line para ajudar o usuário. A natureza desses sistemas é exclusiva para desenvolvimento de aplicativo, pois eles combinam aspectos de programação (centros de informações pesquisáveis e navegação do tipo Web) com aspectos de composição técnica (organização, apresentação). Muitas equipes consideram que o desenvolvimento do sistema de ajuda on-line é um projeto dentro de um projeto que se beneficia do gerenciamento de escopo e planejamento no início do projeto.
-####	10.3 Guias de Instalação:
- Um documento que inclui instalação, configuração e instruções de atualização como parte da oferta de solução integral.
-####	10.4 Rótulo e Embalagem:
- Uma aparência consistente começa com a embalagem do produto e se aplica aos menus de instalação, telas iniciais, sistemas de ajuda, caixas de diálogo de GUI e assim por diante. Esta seção define as necessidades e tipos de rótulos a serem incorporados no código. Os exemplos incluem copyright e avisos de patentes, logotipos corporativos, ícones padronizados e outros elementos gráficos.
-
-### 11: Referências
+### 7: Referências
 
  Seção de referencias

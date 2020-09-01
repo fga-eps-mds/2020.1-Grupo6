@@ -1,4 +1,4 @@
-# Wiki
+# Wiki HAzzzzzzzzzz
 
 Repositório contendo a Wiki do projeto. Ela está disponível em forma compilada por meio do MkDocs no site: [https://fga-eps-mds.github.io/2020.1-Grupo6/](https://fga-eps-mds.github.io/2020.1-Grupo6/)
 

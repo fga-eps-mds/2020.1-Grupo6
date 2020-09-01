@@ -1,4 +1,25 @@
 #	A Estrutura de Tópicos do Documento de Visão
+
+## Histórico de Revisão
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+|20/03/2020|   0.1    | Criação do Documento        |   Hercules  |
+|29/08/2020|   0.2   | Restruturação do Documento     |   Guilherme  |
+
+## Sumário
+[1. Introdução](#1-introducao) <br>
+[2. Posicionando](#2-posicionando) <br>
+[3. Descrições da Parte Interessada e do Usuário](#3-descricoes-da-parte-interessada-e-do-usuario) <br>
+[4. Visão Geral do Produto](#4-visao-geral-do_produto) <br>
+[5. Recursos do Produto](#5-recursos-do-produto) <br>
+[6. Restrições](#6-restriçoes) <br>
+[7. Faixas de Qualidade](#7-faixas-de-qualidade) <br>
+[8. Precedência e Prioridade](#8-precedencia-e-prioridade) <br>
+[9. Outros Requisitos do Produto](#9-outros-requisitos-do-produto) <br>
+[10.  Requisitos de Documentação](#10-requisitos-de-documentacao) <br>
+
+
 ###	1: Introdução
 Esta introdução fornece uma visão geral de todo o documento de visão. Ela inclui o propósito, escopo, definições, acrônimos, abreviações, referências e visão geral de todo o documento.
 
@@ -166,33 +187,3 @@ Esta seção descreve a documentação que deve ser desenvolvida para suportar a
  Um documento que inclui instalação, configuração e instruções de atualização como parte da oferta de solução integral.
 ####	10.4 Rótulo e Embalagem:
  Uma aparência consistente começa com a embalagem do produto e se aplica aos menus de instalação, telas iniciais, sistemas de ajuda, caixas de diálogo de GUI e assim por diante. Esta seção define as necessidades e tipos de rótulos a serem incorporados no código. Os exemplos incluem copyright e avisos de patentes, logotipos corporativos, ícones padronizados e outros elementos gráficos.
-###	11: Apêndice 1 - Atributos do Recurso
-Fornece aos recursos atributos que podem ser usados para avaliar, controlar, priorizar e gerenciar os itens de produtos propostos para implementação. Descreve todos os tipos de requisitos e atributos em um plano de gerenciamento de requisitos. No entanto, você pode listar e descrever brevemente os atributos para os recursos que foram escolhidos. As subseções a seguir representam um conjunto de atributos de recursos sugeridos.
-####	11.1 Status:
- As equipes configuram o status do recurso após negociação e revisão pela equipe de gerenciamento do projeto. O status controla o progresso enquanto durar o projeto. A tabela a seguir fornece um exemplo de valores típicos do atributo de status.
-Tabela 3. Exemplos de Valores do Status
-|Status|Descrição|
-|-|-|
-|Proposta|	Descreve os recursos que estão em discussão, mas não foram revistos e aceitos pelo "canal oficial", O canal oficial pode ser um grupo de trabalho que consiste em representantes da equipe do projeto, gerenciamento do produto e comunidade do usuário ou do cliente.|
-|Aprovado	|Capacidades que são consideradas úteis e factíveis e que foram aprovadas para implementação pelo canal oficial.|
-|Incorporado|	Os recursos que foram incorporados na linha de base do produto.|
-####	11.2 Benefício:
- O grupo de marketing, o gerente de produto ou o analista de negócios configura os benefícios do recurso. Todos os requisitos não são criados igualmente. A classificação de requisitos por seu benefício relativo para o usuário final abre um diálogo com clientes, analistas e membros da equipe de desenvolvimento. Use os benefícios no gerenciamento de escopo e na determinação da prioridade de desenvolvimento. A tabela a seguir fornece um exemplo de valores de atributos típicos de benefício ou prioridade.
-Tabela 4. Exemplos de Prioridades do Benefício
-|Prioridade|	Descrição|
-|-|-|
-|Crítico|	Recursos essenciais. A falha na implementação de um recurso crítico significa que o sistema não atenderá às necessidades do cliente. Todos os recursos críticos devem ser implementados na liberação ou a programação falhará.|
-|Importante	|Recursos importantes para a eficácia e eficiência do sistema para a maioria dos aplicativos. As funções não podem ser facilmente fornecidas de alguma outra maneira. Omitir um recurso importante pode afetar a satisfação do cliente ou do usuário, ou até mesmo a receita. No entanto, a liberação não será atrasada porque um recurso importante não foi incluído.|
-|Útil	|Os recursos que são úteis em menos aplicativos típicos, são usados menos frequentemente, ou podem corresponder às soluções alternativas razoavelmente eficientes. Nenhuma receita significativa ou impacto na satisfação do cliente poderá ser esperada se tal item não for incluído em uma liberação.|
-####	11.3 Esforço:
- A equipe de desenvolvimento estima o esforço necessário para implementar os recursos. Alguns recursos requerem mais tempo e recursos do que outros. A estimativa de tempo, código necessário ou funções, ajuda a calibrar a complexidade e definir expectativas do que pode ser realizado em um determinado período de tempo. Use a estimativa para gerenciar o escopo e determinar a prioridade de desenvolvimento.
-####	11.4 Risco:
- A equipe de desenvolvimento estabelece os níveis de risco, com base na probabilidade do projeto experimentar eventos indesejados, como saturações de custos, atrasos na programação ou até cancelamento. A maioria dos gerentes de projetos consideram os riscos de categorização como alto, médio e suficientemente baixo, embora as gradações mais finas sejam possíveis. Em geral, o risco pode ser avaliado indiretamente medindo-se a incerteza (faixa) da estimativa de programação da equipes de projetos.
-####	11.5 Estabilidade:
- O analista e a equipe de desenvolvimento estabelece a estabilidade do recurso com base na probabilidade do recurso ser alterado ou no entendimento da equipe do recurso ser alterado. A estabilidade é usada para ajudar a estabelecer prioridades de desenvolvimento e determinar esses itens para os quais a descoberta adicional é a próxima ação apropriada.
-####	11.6 Liberação de destino:
- As equipes registram a versão anterior do produto pretendido que incluirá o recurso. É possível usar esse campo para alocar recursos de um documento de visão para um release de base de linha específico. Quando combinado com o campo de status, sua equipe pode propor, registrar e discutir vários recursos da liberação sem comprometer o desenvolvimento deles. Somente os recursos cujo status é definido como "incorporado" e cuja liberação de destino é definida serão implementados. Com o gerenciamento de escopo, o número da versão da liberação de destino poderá ser aumentado para que o item permaneça no documento de visão, mas seja programado para uma liberação posterior.
-####	11.7 Designado Para:
- Na maioria dos projetos, os recursos serão designados para equipes de recursos que são responsáveis pela descoberta adicional, compondo os requisitos e a implementação do software. O processo ajuda todos na equipe do projeto a entenderem melhor as responsabilidades.
-####	11.8 Motivo:
- As equipes usam esse campo de texto para controlar a origem do recurso solicitado. Os requisitos existem por motivos específicos. Esse campo registra uma explicação ou uma referência a uma explicação. Por exemplo, a referência pode apontar para uma página e número da linha de uma especificação de requisito do produto, ou apontar para um marcador de minuto no vídeo de entrevista de um cliente importante.

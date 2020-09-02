@@ -6,7 +6,7 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |27/08/2020|   0.1    | Criação do Documento        |   Guilherme  |
 |29/08/2020|   0.2   | Correção na política de branch       |   Guilherme  |
-|02/09/2020|   0.2   | Atualização do DGC       |   Gabriel  |
+|02/09/2020|   0.3   | Atualização do DGC       |   Gabriel  |
 
 ## Sumário
 

@@ -10,7 +10,7 @@
 
 <br>
 
-[![PoliticaBranchs.png](img/branches.png)](img/branches.png)
+[![BranchPolicy.png](img/branches.png)](img/branches.png)
 
 <br>
 

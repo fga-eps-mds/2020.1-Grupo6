@@ -1,6 +1,6 @@
 ---
-name: Issue US
-about: Template padrão para a criação de issues referentes à US's
+name: Template de issues
+about: Template padrão para a criação de issues.
 title: ''
 labels: ''
 assignees: ''

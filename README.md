@@ -6,6 +6,7 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 
 | Nome                          | Matrícula  | GitHub             | Email                                |
 |-------------------------------|------------|--------------------|--------------------------------------|
+| Gabriel Filipe Manso Araujo | 160121019 | [gabrielfilipe7unb](https://github.com/gabrielfilipe7unb)           | gabrielfilipe7unb@gmail.com              |
 | Mateus Augusto Sousa e Silva | 150062869 | [Mateusas3s](https://github.com/Mateusas3s)           | mateusaugusto-2009@hotmail.com               |
 | Hércules Ismael de Abreu Santos | 160124450 | [ismaelg456g](https://github.com/ismaelg456g) | ismael-456@hotmail.com |
 | Juliana Pereira Valle Gonçalves | 180124099 | [julianavalle](https://github.com/julianavalle)           | juju.pvg@gmail.com               |

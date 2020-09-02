@@ -1,6 +1,6 @@
 ---
-name: Template de _issues_.
-about: Template padrão para a criação de _issues_.
+name: Template de issues.
+about: Template padrão para a criação de issues.
 title: ''
 labels: ''
 assignees: ''

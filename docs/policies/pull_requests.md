@@ -2,7 +2,9 @@
 
 |Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
+| 29/08/2020 | 0.1 | Correção na política de branch       |   Guilherme  |
 | 02/09/2020 | 1.0 | Criação do documento de polílica de pull requests  | Gabriel Filipe |
+| 02/09/2020 | 1.1 | Adiciona referências  | Gabriel Filipe |
 
 # Criação de _Pull Request_
 
@@ -61,3 +63,19 @@ Considere uma situação hipotética onde estamos querendo criar um PR de uma _b
 | Issue a ser _linkada_ | Sintaxe | Examplo |
 |:----------:|:------:|:--------------------:|
 |Issue dentro deste repositório|KEYWORD #ISSUE-NUMBER|**Closes #10**|
+
+#### Conflitos
+
+* Se um pull request causar algum tipo de conflito, deve ser resolvido primeiro pela equipe que desenvolveu o que está causando conflito, prezando pela integridade e organização do histórico de commits, e então deve ser refeito o pedido para avaliação do merge.
+
+### Política de Aprovação do Código
+
+* Para a aprovação do código, este deve ser aprovado por ao menos um dos integrantes do time de gestão (_EPS_)
+
+### Referências
+
+* Lino. Disponível em <https://github.com/BotLino/Lino>
+
+* Como fazer bons commits no Git, Ruan Brandão. Disponível em <https://ruanbrandao.com.br/2020/02/04/como-fazer-um-bom-commit/>
+
+* Git branch naming conventions, Sanket. Disponível em <https://deepsource.io/blog/git-branch-naming-conventions/>

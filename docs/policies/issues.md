@@ -32,3 +32,7 @@
 
 <img src="./img/issue_milestone.png" alt="IssueMilestone" width="300"/>
 
+
+### Referências
+
+* Lino. Disponível em <https://github.com/BotLino/Lino>

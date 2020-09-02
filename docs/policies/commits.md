@@ -38,3 +38,9 @@ Cria um novo documento
 ```
 [Issue_11] Updates something
 ```
+
+### Referências
+
+* Lino. Disponível em <https://github.com/BotLino/Lino>
+
+* Git branch naming conventions, Sanket. Disponível em <https://deepsource.io/blog/git-branch-naming-conventions/>

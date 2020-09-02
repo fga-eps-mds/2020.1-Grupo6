@@ -3,7 +3,7 @@ name: Template de issues
 about: Template padrão para a criação de issues
 title: ''
 labels: ''
-assignees: 'Gabriel Filipe'
+assignees: ''
 
 ---
 

@@ -6,9 +6,12 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 
 | Nome                          | Matrícula  | GitHub             | Email                                |
 |-------------------------------|------------|--------------------|--------------------------------------|
-| Mateus Augusto Sousa e Silva | 150062869 | [Mateusas3s](https://github.com/Mateusas3s)           | mateusaugusto-2009@hotmail.com               |
+| Mateus Augusto Sousa e Silva  | 150062869 | [Mateusas3s](https://github.com/Mateusas3s)           | mateusaugusto-2009@hotmail.com               |
+| Bruno Carmo Nunes             | 180117548 | [brunocmo](https://github.com/brunocmo)               | brunocmo.nunes@gmail.com                     |
 | Hércules Ismael de Abreu Santos | 160124450 | [ismaelg456g](https://github.com/ismaelg456g) | ismael-456@hotmail.com |
 | Juliana Pereira Valle Gonçalves | 180124099 | [julianavalle](https://github.com/julianavalle)           | juju.pvg@gmail.com               |
+| Vitor Jacinto Sulzbach          | 150065591 | [Vitorsulzbach](https://github.com/Vitorsulzbach)        | vjsulzbach@gmail.com               |
+| Tomás Veloso Peixoto Matutino | 180138596 | [tomasvelos0](https://github.com/tomasvelos0)           | tomasvelozo@hotmail.com               |
 
 ## Instalação
 

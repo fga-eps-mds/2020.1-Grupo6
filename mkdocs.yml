@@ -12,4 +12,4 @@ nav:
     - Artefatos Organizacionais:
       - Documento de Gestão e Configuração de Software: org_artifacts/software_configuration_management.md
 
-theme: readthedocs
+theme: material

@@ -8,6 +8,7 @@ nav:
     - Sobre: index.md
     - Roadmap: Roadmaps/roadmap.md
     - Documento de Visão: org_artifacts/vision_doc.md
+    - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Artefatos Organizacionais:
       - Documento de Gestão e Configuração de Software: org_artifacts/software_configuration_management.md
 

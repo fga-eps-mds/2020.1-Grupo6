@@ -7,6 +7,7 @@
 |20/03/2020|   0.1    | Criação do Documento        |   Hercules  |
 |29/08/2020|   0.2   | Restruturação do Documento     |   Guilherme  |
 |01/08/2020|   0.3   | Restruturação do Documento     |   Guilherme  |
+|10/09/2020|   0.4   | Atualização da Visão Geral do Produto    |  Bruno  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -110,32 +111,28 @@ Tabela 1. Necessidades da Parte Interessada
  Identifica as alternativas que a parte interessada percebe como disponíveis. Essas alternativas podem incluir a compra do produto de um concorrente, a criação de uma solução desenvolvida internamente ou manter o status quo. Listam todas as opções disponíveis e conhecidas. Elas incluem os principais pontos fortes e fracos de cada concorrente como observados pela parte interessada.
 
 ###	4: Visão Geral do Produto
-Esta seção fornece uma visualização de alto nível das capacidades do produto, interfaces para outros aplicativos e configurações dos sistemas. Esta seção, em geral, consiste em três subseções:
-- Perspectiva do Produto
-- Funções do Produto
-- Suposições e Dependências
+
 ####	4.1 Perspectiva do Produto:
- Coloca o produto em perspectiva com respeito a outros produtos relacionados e ao ambiente do usuário. Se o produto for independente e totalmente autocontido, indique-o aqui. Se o produto for um componente de um sistema maior, relacione como esses sistemas interagem e identificam as interfaces relevantes entre os sistemas. Uma maneira de exibir os principais componentes do maior sistema, interconexões e interfaces externas é usar um processo de negócios ou diagrama de casos de uso.
+ O produto possui aplicações semelhantes , de uma maneira análoga, de um relatório sobre o uso das funcionalidade de um aplicativo com o gerenciamento de informações do mesmo. O sistema gerenciador do Vamos Cuidar, é independente e auto contido.
 
 ####	4.2 Resumo das Capacidades:
- Resume os principais benefícios e recursos que o produto fornecerá. Por exemplo, um sistema de suporte ao cliente pode usar essa parte para endereçar a documentação do problema, o roteamento e o relato de status sem elaborar em detalhes o que essas funções requerem. Organize as funções de modo que a lista seja compreensível para o cliente ou para qualquer outra pessoa que leia o documento pela primeira vez. Uma simples tabela que lista os principais benefícios cujos recursos de suporte são suficientes, como no exemplo a seguir.
-Tabela 2. Exemplo de Benefícios e Recursos
 
 |Benefício para o Cliente|Recursos de Suporte|
 |-|-|
-|A nova equipe de suporte pode aprender rapidamente como usar o produto.|	A base de conhecimento ajuda a equipe de suporte a identificar rapidamente as correções e soluções alternativas conhecidas.|
-|A satisfação do cliente é melhorada porque não há falhas.|	Os problemas são exclusivamente detalhados em itens, classificados e controlados em todo o processo de resolução. A notificação automática ocorre para quaisquer problemas anteriores.|
-|O gerenciamento pode identificar as áreas com problema e calibrar a carga de trabalho da equipe.	|Os relatórios de tendência e distribuição permitem a revisão de alto nível do status do problema.|
+| Geração de relatórios sobre o uso das funcionalidades.| O usuário tem acesso e pode tirar informações adicionais sobre as funcionalidades, como por exemplo: número de posts, categorias, votos, metas e rankings.  	|
+| Criação de conteúdo informativo. | Com a criação de notícias tem-se a possibilidade de avisar os usuários do aplicativo mobile, informações referentes aos dados recebidos pelo sistema ou informações da própria rede da UnB	|
+| Sistema de recompensa por postagens e avaliações 	| Com a colaboração de pessoas por meio do aplicativo, temos então a possibilidade de gerenciar recompensas fornecidas pela própria UnB ou empresas parceiras. |
 |Equipes de suporte distribuídas podem trabalhar juntas para resolver problemas.	|Com um servidor de replicação, as informações do banco de dados podem ser compartilhadas em toda a empresa.|
-|Os clientes podem se ajudar, reduzindo os custos de suporte e melhorando o tempo de resposta.|	A base de conhecimento pode ficar disponível na Internet. A base de conhecimento inclui recursos de pesquisa de hipertexto e um mecanismo de consulta gráfica.|
+| Gerenciamento de anúncios. | Após ter um firmamento com empresas parceiras, terá a criação de anúncios da mesma. Com isso, o usuário pode criar e deletar de uma forma fácil suas propagandas. |
 ####	4.3 Suposições e Dependências
- Lista cada um dos fatores que afeta os recursos que o documento de visão inclui. Lista as suposições que, se modificadas, alterarão o documento de visão. Por exemplo, uma suposição pode indicar que um sistema operacional específico fique disponível para o hardware designado para o produto de software. Se o sistema operacional não estiver disponível, será necessário alterar o documento de visão.
+
+ O sistema de gerenciamento do Vamos Cuidar, tem é independente sobre o aplicativo mobile, pois terá um API para as trocas de informações sendo que não prejudicará o funcionamento da mesma. Já a parte onde será disponibilizada o uso do sistema (Aplicação web) não necessita de um sistema de hardware robusto.
 
 ####	4.4 Custo e Precificação
- Registra os impactos e restrições relevantes de custo e precificação. Por exemplo, os custos de distribuição (o número de CDs e CD principal) ou outras restrições de custo de mercadorias vendidas (manuais e embalagem) podem ser material para o sucesso dos projetos, ou irrelevantes, dependendo da natureza do aplicativo.
+  O custo único seria a localização onde o site será hospedado. 
 
 ####	4.5 Licenciamento e Instalação 
-- Os problemas de licenciamento e instalação também podem impactar diretamente o esforço de desenvolvimento. Por exemplo, a necessidade de suportar a serialização, a segurança da senha ou o licenciamento da rede criarão requisitos adicionais do sistema que devem ser considerados no esforço de desenvolvimento. Os requisitos de instalação também podem afetar a codificação ou criar a necessidade de separar o software de instalação.
+  Não há necessidade de instalação, pois a plataforma é uma aplicação web. Já temos como o licenciamento a GNU General Public License v3.0.
 
 ###	5: Recursos do Produto
 Lista e descreve brevemente os recursos do produto. Os recursos são capacidades de alto nível do sistema que são necessários para entregar benefícios aos usuários. Cada recurso é um serviço solicitado que, em geral, requer uma série de entradas para alcançar o resultado desejado. Por exemplo, um recurso de um sistema de rastreamento de problemas pode ser a capacidade de fornecer relatórios de tendências. À medida que o modelo de casos de uso toma forma, atualize a descrição para fazer referência aos casos de uso.

@@ -1,4 +1,4 @@
-site_name: GRUPO 6 MDS/EPS
+site_name: Vamos Cuidar - Gestão
 
 repo_name: 'fga-eps-mds/2020.1-Grupo6'
 repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
@@ -10,6 +10,16 @@ nav:
     - Documento de Visão: org_artifacts/vision_doc.md
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Artefatos Organizacionais:
-      - Documento de Gestão e Configuração de Software: org_artifacts/software_configuration_management.md
+      - Políticas de Branch: policies/branches.md
+      - Políticas de Commit: policies/commits.md
+      - Políticas de Pastas e Arquivos: policies/files_and_folders.md
+      - Políticas de Issues: policies/issues.md
+      - Políticas de Pull Requests: policies/pull_requests.md
 
-theme: material
+theme: 
+  name: material
+  language: 'pt'
+  palette:
+    primary: 'green'
+    accent: 'green'
+

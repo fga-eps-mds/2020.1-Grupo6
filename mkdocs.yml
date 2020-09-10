@@ -5,10 +5,10 @@ repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
 
 nav:
   - Documentação do Projeto: 
-    - Sobre: sobre.md
+    - Sobre: index.md
     - Roadmap: Roadmaps/roadmap.md
-    - Documento de Visão: doc-visao.md
+    - Documento de Visão: org_artifacts/vision_doc.md
     - Artefatos Organizacionais:
-      - Documento de Gestão e Configuração de Software: artefatos_organizacionais/DGC.md
+      - Documento de Gestão e Configuração de Software: org_artifacts/software_configuration_management.md
 
 theme: readthedocs

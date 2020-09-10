@@ -4,9 +4,10 @@
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|20/03/2020|   0.1    | Criação do Documento        |   Hercules  |
+|20/03/2020|   0.1    | Criação do Documento        |   Hércules  |
 |29/08/2020|   0.2   | Restruturação do Documento     |   Guilherme  |
 |01/08/2020|   0.3   | Restruturação do Documento     |   Guilherme  |
+|10/08/2020|   0.6   | Inserção do tópico 1     |   Hércules  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>

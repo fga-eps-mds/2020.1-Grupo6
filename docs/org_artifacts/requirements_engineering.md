@@ -6,7 +6,7 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |09/09/2020|   0.1    | Criação do Documento e Elicitação Adicionada        |   Guilherme  |
 |10/09/2020|   0.2    | Adição do Backlog do Produto        |   Guilherme  |
-
+|10/09/2020|   0.3    | Adição de uma nova história de usuário | Guilherme |
 
 # Sumário
 ----------------
@@ -116,7 +116,7 @@ EP01 | US003 | Membro da equipe | Elaborar o Documento de Arquitetura do Projeto
 EP01 | US004 | Membro da equipe | Especificar as historias de usuários | Dividir as tarefas de implementação da aplicação.
 EP01 | US005 | Membro da equipe | Configurar o reposítorio | Se adequar aos padrões da comunidade open source.
 EP01 | US006 | Membro da equipe | Protótipo de baixa e alta fidelidade | Ter uma noção mais concreta das telas da aplicação.
-EP01 | US007 | Membro da equipe | Elobrar o documento Roadmap | Visualizar as etapas do projeto por tempo.
+EP01 | US007 | Membro da equipe | Elaborar o documento Roadmap | Visualizar as etapas do projeto por tempo.
 EP01 | US008 | Membro da equipe | Elaborar o documento EAP | Dividir o projeto em partes menores, mais gerenciáveis.
 EP01 | US009 | Membro da equipe | Elaborar o documento EVM | Quantificar o projeto financeiramente.
 EP02 | US010 | Usuário | Realizar o login | Acessar as funcionalidades da aplicação.
@@ -143,6 +143,8 @@ EP04 | US033 | Usuário | Criar benefícios | Apresentar benefícios aos usuári
 EP04 | US034 | Usuário | Excluir benefícios | Retirar benefícios do app.
 EP04 | US035 | Usuário | Criar Anúncios | Mostrar esses anúncios aos usuários do app.
 EP04 | US036 | Usuário | Excluir Anúncios | Retirar os anúncios do app.
+EP01 | US037 | Membro da equipe | Elaborar o Termo de Abertura do Projeto | Entender objetivos e benefícios do projeto
+
 
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>
 

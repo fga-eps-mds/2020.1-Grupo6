@@ -37,7 +37,7 @@
 
 ![mind_map](img/mind_map.png)
 
-### 2.2 <a name="2_2">Instrospecção</a>
+### 2.2 <a name="2_2">Introspecção</a>
 
 <p align = "justify">A instrospecção é uma técnica muito rica e profunda. Consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda o Engenheiro de Requisitos imaginar o que ele gostaria, se ele tivesse que desempenhar uma dada tarefa, com os equipamentos disponiveis e demais recursos.</p>
 <p align = "justify">Decidimos fazer a instrospecção nos colocando no papel do funcionário do DAF que ficará responsável por analisar os relatórios do App do Vamos Cuidar e inserir noticias, gerencias anuncios e beneficios.</p>
@@ -117,33 +117,32 @@ EP01 | US004 | Membro da equipe | Especificar as historias de usuários | Dividi
 EP01 | US005 | Membro da equipe | Configurar o reposítorio | Se adequar aos padrões da comunidade open source.
 EP01 | US006 | Membro da equipe | Protótipo de baixa e alta fidelidade | Ter uma noção mais concreta das telas da aplicação.
 EP01 | US007 | Membro da equipe | Elobrar o documento Roadmap | Visualizar as etapas do projeto por tempo.
-EP01 | US008 | Membro da equipe | Elaborar o documento de visão | Ter uma noção melhor do produto.
-EP01 | US009 | Membro da equipe | Elaborar o documento EAP | Dividir o projeto em partes menores, mais gerenciáveis.
-EP01 | US010 | Membro da equipe | Elaborar o documento EVM | Quantificar o projeto financeiramente.
-EP02 | US011 | Usuário | Realizar o login | Acessar as funcionalidades da aplicação.
-EP02 | US012 | Usuário | Navegar pelo menu lateral | Transitar pelas diferentes páginas da aplicação.
-EP03 | US013 | Usuário | Visualizar a seção de relatório geral | Ter um entendimento dos dados sem filtros
-EP03 | US014 | Usuário | Visualizar a seção de relatório por área | Ter um entendimento dos dados por área
-EP03 | US015 | Usuário | Visualizar a seção de relatório diário | Ter um entendimento dos dados por dia
-EP03 | US016 | Usuário | Visualizar a seção de relatório por localização | Ter um entendimento dos dados por localização
-EP03 | US017 | Usuário | Visualizar os posts mais votados | Saber quais são os posts mais populares
-EP03 | US018 | Usuário | Visualizar as categorias mais votadas| Saber quais são as categorias mais populares
-EP03 | US019 | Usuário | Visualizar o número de posts por intervalos de tempo | Entender a distribuição dos posts em um intervalo
-EP03 | US020 | Usuário | Visualizar o número de posts por categoria | Entender a distribuição de dados por categoria
-EP03 | US021 | Usuário | Visualizar o número de posts criados | Ver o total de posts criados na aplicação
-EP03 | US022 | Usuário | Visualizar o número de posts criados anonimamente | Ver o total de posts criados anonimamente na aplicação
-EP03 | US023 | Usuário | Visualizar o número de posts resolvidos | Entender se o App está contribuindo para um ambiente melhor
-EP03 | US024 | Usuário | Visualizar o número de novos usuários | Entender melhor o acolhimento do app pela comunidade
-EP03 | US025 | Usuário | Visualizar o uso do app por intervalo de tempo | Entender em quais momentos o app está sendo mais usado
-EP03 | US026 | Usuário | Visualizar os posts com ocorrências semelhantes | Entender que tipo de ocorrências são mais registradas.
-EP04 | US027 | Usuário | Criar notícias | Compartilhar informações com os usuários do app.
-EP04 | US028 | Usuário | Editar notícias | Corrigir informações na notícia.
-EP04 | US029 | Usuário | Excluir notícias | Retirar a nóticia do app. 
-EP04 | US030 | Usuário | Listar notícias | Ter uma visão geral de todas as notícias. 
-EP04 | US031 | Usuário | Criar benefícios | Apresentar benefícios aos usuários do app.
-EP04 | US032 | Usuário | Excluir benefícios | Retirar benefícios do app.
-EP04 | US033 | Usuário | Criar Anúncios | Mostrar esses anúncios aos usuários do app.
-EP04 | US034 | Usuário | Excluir Anúncios | Retirar os anúncios do app.
+EP01 | US008 | Membro da equipe | Elaborar o documento EAP | Dividir o projeto em partes menores, mais gerenciáveis.
+EP01 | US009 | Membro da equipe | Elaborar o documento EVM | Quantificar o projeto financeiramente.
+EP02 | US010 | Usuário | Realizar o login | Acessar as funcionalidades da aplicação.
+EP02 | US011 | Usuário | Navegar pelo menu lateral | Transitar pelas diferentes páginas da aplicação.
+EP03 | US012 | Usuário | Visualizar a seção de relatório geral | Ter um entendimento dos dados sem filtros
+EP03 | US013 | Usuário | Visualizar a seção de relatório por área | Ter um entendimento dos dados por área
+EP03 | US016 | Usuário | Visualizar a seção de relatório diário | Ter um entendimento dos dados por dia
+EP03 | US018 | Usuário | Visualizar a seção de relatório por localização | Ter um entendimento dos dados por localização
+EP03 | US019 | Usuário | Visualizar os posts mais votados | Saber quais são os posts mais populares
+EP03 | US020 | Usuário | Visualizar as categorias mais votadas| Saber quais são as categorias mais populares
+EP03 | US021 | Usuário | Visualizar o número de posts por intervalos de tempo | Entender a distribuição dos posts em um intervalo
+EP03 | US022 | Usuário | Visualizar o número de posts por categoria | Entender a distribuição de dados por categoria
+EP03 | US023 | Usuário | Visualizar o número de posts criados | Ver o total de posts criados na aplicação
+EP03 | US024 | Usuário | Visualizar o número de posts criados anonimamente | Ver o total de posts criados anonimamente na aplicação
+EP03 | US025 | Usuário | Visualizar o número de posts resolvidos | Entender se o App está contribuindo para um ambiente melhor
+EP03 | US026 | Usuário | Visualizar o número de novos usuários | Entender melhor o acolhimento do app pela comunidade
+EP03 | US027 | Usuário | Visualizar o uso do app por intervalo de tempo | Entender em quais momentos o app está sendo mais usado
+EP03 | US028 | Usuário | Visualizar os posts com ocorrências semelhantes | Entender que tipo de ocorrências são mais registradas.
+EP04 | US029 | Usuário | Criar notícias | Compartilhar informações com os usuários do app.
+EP04 | US030 | Usuário | Editar notícias | Corrigir informações na notícia.
+EP04 | US031 | Usuário | Excluir notícias | Retirar a nóticia do app. 
+EP04 | US032 | Usuário | Listar notícias | Ter uma visão geral de todas as notícias. 
+EP04 | US033 | Usuário | Criar benefícios | Apresentar benefícios aos usuários do app.
+EP04 | US034 | Usuário | Excluir benefícios | Retirar benefícios do app.
+EP04 | US035 | Usuário | Criar Anúncios | Mostrar esses anúncios aos usuários do app.
+EP04 | US036 | Usuário | Excluir Anúncios | Retirar os anúncios do app.
 
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>
 

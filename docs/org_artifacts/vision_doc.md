@@ -124,6 +124,9 @@ Tabela 1. Necessidades da Parte Interessada
 | Sistema de recompensa por postagens e avaliações 	| Com a colaboração de pessoas por meio do aplicativo, temos então a possibilidade de gerenciar recompensas fornecidas pela própria UnB ou empresas parceiras. |
 |Equipes de suporte distribuídas podem trabalhar juntas para resolver problemas.	|Com um servidor de replicação, as informações do banco de dados podem ser compartilhadas em toda a empresa.|
 | Gerenciamento de anúncios. | Após ter um firmamento com empresas parceiras, terá a criação de anúncios da mesma. Com isso, o usuário pode criar e deletar de uma forma fácil suas propagandas. |
+
+</br>
+
 ####	4.3 Suposições e Dependências
 
  O sistema de gerenciamento do Vamos Cuidar, tem é independente sobre o aplicativo mobile, pois terá um API para as trocas de informações sendo que não prejudicará o funcionamento da mesma. Já a parte onde será disponibilizada o uso do sistema (Aplicação web) não necessita de um sistema de hardware robusto.

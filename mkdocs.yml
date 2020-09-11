@@ -16,6 +16,9 @@ nav:
       - Políticas de Pastas e Arquivos: policies/files_and_folders.md
       - Políticas de Issues: policies/issues.md
       - Políticas de Pull Requests: policies/pull_requests.md
+  - Gestão do Projeto:
+    - Plano de Comunicação: org_artifacts/communication_plan.md
+
 
 theme: 
   name: material

@@ -24,11 +24,11 @@ Pontos Entregues:  <br>
 
 **Tarefas Cocluídas** 
 
-- Foi realizado o treinamento de Docker e iniciado o treinamento de ReactJS: Issue #30 e #31
+- Foi realizado o treinamento de Docker e iniciado o treinamento de ReactJS: [Issue #30](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/30) e [Issue #31](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/31)
 
-- Foram atualizados os artefatos organizacionais: políticas de PR, branch, issue, commit, files and folders: Issue #27 
+- Foram atualizados os artefatos organizacionais: políticas de PR, branch, issue, commit, files and folders: [Issue #27](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/27) 
 
-- Documento de visão foi iniciado: issue #23
+- Documento de visão foi iniciado: [Issue #23](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/23)
 
 **Dívidas**
 

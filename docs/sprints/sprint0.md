@@ -21,9 +21,9 @@ Não rastreada
 
 **Tarefas Cocluídas** 
 
-- Elaboração do quadro de conhecimento e Quadro de horários disponíveis: Issue #5
+- Elaboração do quadro de conhecimento e Quadro de horários disponíveis: [Issue #5](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/5)
 
-- Elaboração do Plano de Comunicação: Issue #8
+- Elaboração do Plano de Comunicação: [Issue #8](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/8)
 
 **Dívidas**
 

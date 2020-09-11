@@ -22,13 +22,13 @@ Pontos Entregues:  <br>
 
 **Tarefas Cocluídas** 
 
-- Foram criados issue, pull request template, code of conduct, license, contributing Issue #6
+- Foram criados issue, pull request template, code of conduct, license, contributing [Issue #6](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/6)
 
-- Elaboração e aplicação do treinamento de Git: Issue #7
+- Elaboração e aplicação do treinamento de Git: [Issue #7](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/7)
 
-- Foi definido o tema do projeto
+- Foi definido o tema do projeto [Issue #2](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/2)
 
-- Atualização da wiki foi feita: Issue #10
+- Atualização da wiki foi feita: [Issue #10](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/10)
 
 **Dívidas**
 

@@ -4,10 +4,12 @@
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|20/03/2020|   0.1    | Criação do Documento        |   Hercules  |
+|20/03/2020|   0.1    | Criação do Documento        |   Hércules  |
 |29/08/2020|   0.2   | Restruturação do Documento     |   Guilherme  |
 |01/08/2020|   0.3   | Restruturação do Documento     |   Guilherme  |
-|10/09/2020|   0.4   | Atualização da Visão Geral do Produto    |  Bruno  |
+|10/09/2020|   0.4   | Inserção do tópico 1     |   Hércules  |
+|10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
+
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -23,19 +25,29 @@
 Esta introdução fornece uma visão geral de todo o documento de visão. Ela inclui o propósito, escopo, definições, acrônimos, abreviações, referências e visão geral de todo o documento.
 
 ####	1.1 Propósito:
- Determina o propósito deste documento de visão.
+ Este documento visa definir o escopo e o propósito geral do projeto do sistema de gerenciamento do aplicativo "Vamos Cuidar", especificando o posicionamento em relação ao problema a ser resolvido, descrevendo as partes interessadas, dando uma visão geral do produto, definindo quais serão os recursos do produto, e por fim elencando as possíveis restrições atreladas a este projeto.
 
 ####	1.2 Escopo:
- Descreve brevemente o escopo deste documento de visão, incluindo a quais programas, projetos, aplicativos e processos de negócios o documento está associado. Inclui qualquer outra coisa que este documento afete ou influencie.
+ Este projeto é parte do desenvolvimento do aplicativo "Vamos Cuidar", e tem como objetivo desenvolver um sistema gerenciador para o aplicativo. Este aplicativo é feito em parceria com o DAF da UnB, e tem como objetivo fornecer uma interface para que pessoas vinculadas a UnB possam relatar problemas no ambiente da UnB e assim ter esses relatos entregues aos departamentos responsáveis. O sistema gerenciador, dentro do projeto, visa fornecer uma interface para que se possa gerenciar o conteúdo do aplicativo.
 
 ####	1.3 Definições, acrônimos e abreviações:
- Define todos os termos, acrônimos e abreviações necessários para interpretar a visão corretamente. Essas informações podem ser fornecidas por referência ao glossário do projeto, que pode ser desenvolvido online no repositório do RM.
+ UnB - Universidade de Brasília
+
+ DAF - Decanato de Administração
 
 ####	1.4 Referências:
- Lista todos os documentos aos quais o documento de visão faz referência. Identifique cada documento por título, número de relatório (se aplicável), data e organização de publicação. Especifique as origens a partir das quais os leitores podem obter as referências; as origens estão disponíveis de maneira ideal no RM ou em outros repositórios online. Essas informações podem ser fornecidas por referência para um apêndice ou para outro documento.
+ **Vision document.** Disponível em:
+  <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.
 
 ####	1.5 Visão geral:
- Descreve o conteúdo do documento de visão e explica como o documento é organizado.
+ Este documento traz o escopo e propósito geral deste projeto, e está dividido em 7 tópicos: <br>
+ 1. Introdução: fornece uma visão geral do documento de visão.<br>
+ 2. Posicionando: Descreve o propósito do produto e a importância deste para as partes envolvidas.<br>
+ 3. Descrições da Parte Interessada e do Usuário: Descreve todas as partes interessadas no produto e usuários.<br>
+ 4. Visão Geral do Produto: Essa seção fornece uma visão geral das capacidades, interfaces com outras aplicações, e configurações do sistema.<br>
+ 5. Recursos do Produto: Lista e descreve as funcionalidades do produto.<br>
+ 6. Restrições: Busca elencar quaisquer restrições de projeto externas, ou internas.<br>
+ 7.  Referências: Lista todas as referências que foram utilizadas para elaborar este documento.<br>
 
 ###	2: Posicionando
 ####	2.1 Oportunidade de Negócios:

@@ -28,7 +28,7 @@ Pontos Entregues:  <br>
 
 - Foi definido o tema do projeto
 
-- Atualização da wiki foi feita
+- Atualização da wiki foi feita: Issue #10
 
 **Dívidas**
 

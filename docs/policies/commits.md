@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 02/09/2020 | 1.0 | Criação da política de commits  | Gabriel Filipe |
+| 03/09/2020 |   1.0   | Revisão | Mateus Augusto |
 
 # Criação de _commits_
 

@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 02/09/2020 | 1.0 | Criação da política de adição de novos arquivos e pastas  | Gabriel Filipe |
+| 03/09/2020 |   1.0   | Revisão | Mateus Augusto |
 
 # Adição de novos arquivos e pastas
 

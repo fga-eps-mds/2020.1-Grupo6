@@ -20,6 +20,9 @@ nav:
       - Sprint 0: sprints/sprint0.md
       - Sprint 1: sprints/sprint1.md
       - Sprint 2: sprints/sprint2.md
+    - Gestão do Projeto:
+      - Monitoramento do Time: org_artifacts/team_monitoring.md
+      - Plano de Comunicação: org_artifacts/communication_plan.md
 
 
 theme: 

@@ -6,7 +6,7 @@ repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
 nav:
   - Documentação do Projeto: 
     - Sobre: index.md
-    - Roadmap: Roadmaps/roadmap.md
+    - Roadmap: roadmaps/roadmap.md
     - Documento de Visão: org_artifacts/vision_doc.md
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Termo de Abertura do Projeto: org_artifacts/tap.md
@@ -16,6 +16,11 @@ nav:
       - Políticas de Pastas e Arquivos: policies/files_and_folders.md
       - Políticas de Issues: policies/issues.md
       - Políticas de Pull Requests: policies/pull_requests.md
+    - Sprints:
+      - Sprint 0: sprints/sprint0.md
+      - Sprint 1: sprints/sprint1.md
+      - Sprint 2: sprints/sprint2.md
+
 
 theme: 
   name: material

@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 02/00/2020 | 1.0 | Criação do documento de polílica de issues  | Gabriel Filipe |
+| 03/09/2020 |   1.0   | Revisão | Mateus Augusto |
 
 # Criação de _issues_
 

@@ -5,6 +5,7 @@
 | 29/08/2020 | 0.1 | Correção na política de branch       |   Guilherme  |
 | 02/09/2020 | 1.0 | Criação do documento de polílica de pull requests  | Gabriel Filipe |
 | 02/09/2020 | 1.1 | Adiciona referências  | Gabriel Filipe |
+| 03/09/2020 |   1.0   | Revisão | Mateus Augusto |
 
 # Criação de _Pull Request_
 

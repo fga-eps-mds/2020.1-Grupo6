@@ -5,6 +5,7 @@
 | 27/08/2020 |   0.1   | Criação do Documento            |   Guilherme  |
 | 29/08/2020 |   0.2   | Correção na política de branch  |   Guilherme  |
 | 02/09/2020 |   1.0   | Aprimoramento da política de branches | Gabriel Filipe |
+| 03/09/2020 |   1.0   | Revisão | Mateus Augusto |
 
 # Criação de _Branches_
 

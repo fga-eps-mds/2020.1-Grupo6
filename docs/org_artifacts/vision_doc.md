@@ -9,6 +9,7 @@
 |01/08/2020|   0.3   | Restruturação do Documento     |   Guilherme  |
 |10/09/2020|   0.4   | Inserção do tópico 1     |   Hércules  |
 |10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
+|13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
 
 
 ## Sumário
@@ -150,18 +151,34 @@ Tabela 1. Necessidades da Parte Interessada
   Não há necessidade de instalação, pois a plataforma é uma aplicação web. Já temos como o licenciamento a GNU General Public License v3.0.
 
 ###	5: Recursos do Produto
-Lista e descreve brevemente os recursos do produto. Os recursos são capacidades de alto nível do sistema que são necessários para entregar benefícios aos usuários. Cada recurso é um serviço solicitado que, em geral, requer uma série de entradas para alcançar o resultado desejado. Por exemplo, um recurso de um sistema de rastreamento de problemas pode ser a capacidade de fornecer relatórios de tendências. À medida que o modelo de casos de uso toma forma, atualize a descrição para fazer referência aos casos de uso.
+Os recursos do produto são listados abaixo.
+####	5.1 Sistema de Login.
 
-Como o documento de visão é revisado por uma ampla variedade de equipes envolvidas, mantenha o nível de detalhes gerais suficiente para que todos possam entender. No entanto, ofereça detalhes suficientes para fornecer à equipe as informações que ela precisa para criar um modelo de casos de uso ou outros documentos de design.
+O Sistema deve Permitir que o usuário seja capaz de efetuar login, comprovando sua identidade podendo realizar operações de acordo com sua permissão. Toda notícia deve possuir título, imagem, texto, autor, e tags.
 
-Para gerenciar a complexidade do aplicativo, para um novo sistema ou uma mudança incremental, liste os recursos em um alto nível para que você possa incluir aproximadamente 25 a 99 recursos. Esses recursos fornecem a base para a definição do produto, gerenciamento de escopo e gerenciamento do projeto. Cada recurso será expandido mais detalhadamente no modelo de casos de uso.
+####	5.2 CRUD de Notícias.
 
-Em toda esta seção, torne cada recurso relevante para usuários, operadores ou outros sistemas externos. Inclua uma descrição de funções e problemas de usabilidade que devem ser tratados. As seguintes diretrizes se aplicam:
-- Evite design. Mantenha as descrições do recurso em um nível geral. Foque nas capacidades necessárias e por que (não como) elas devem ser implementadas.
-- Designe todos os recursos como requisitos de um tipo de recurso específico para fácil referência e rastreamento.
-####	5.1 Recurso 1.
+A aplicação deve permitir que o usuário seja capaz de criar, visualizar, ler e excluir notícias. Estas notícias estarão disponíveis para o público geral visualizar e reagir.
 
-####	5.2 Recurso 2.
+####	5.3 Gestão de Benefícios.
+
+Os usuários do sistema de gestão devem ser capazes de criar e excluir benefícios. Os usuários do aplicativo comprarão estes benefícios atravez de ponto adiquiridos por participação e engajamento. Os benefícios devem possuir titulo, nome da empresa e custo de pontos.
+
+
+####	5.4 Disponibilização de Relatórios.
+Deve-se permitir que os usuários visualizem relatórios de quatro classes, listados abaixo
+#####	5.4.1 Relatórios de Localização
+Relatório com mapa de incidencia de posts por região.
+#####	5.4.2 Relatórios de Metas
+Os usuários devem visualizar como está a situação das metas estabelecidas, como meta de novos usuários e post resolvidos por periodo de tempo.
+#####	5.4.3 Relatórios de Usuário
+Estatística de Novos Usúarios por periodo de tempo.
+#####	5.4.4 Relatórios de Posts
+Os usuários do sistema devem conseguir visualizar com clareza as estatísticas dos posts, visualizando as categorias de posts com maior engajamento, post mais votados e números de post por local, por categoria, anonimos, recebidos, Por periodo e dados como esolvidos.
+
+#### 5.5 Gerenciameto de Anúncios
+
+O usuário deve ser capaz de criar e excluir anúncios que serão exibidos para os usuários do aplicativo.
 
 ###	6: Restrições
 Observe todas as restrições de design, restrições externas, como requisitos operacionais ou regulamentares) ou outras dependências.

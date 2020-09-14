@@ -10,6 +10,7 @@
 |10/09/2020|   0.4   | Inserção do tópico 1     |   Hércules  |
 |10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
 |13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
+|14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
 
 
 ## Sumário
@@ -64,14 +65,8 @@ Para o população que necessita de uma solução que minimize os efeitos da pan
 ###	3: Descrições da Parte Interessada e do Usuário
 Esta seção fornece um perfil das partes interessadas e usuários que estão envolvidos no projeto. Esta seção também identifica os principais problemas que as partes interessadas e os usuários consideram que a solução proposta deva tratar.
 
-####	3.1 Demográficos de Mercado:
- Resume os principais demográficos de mercado que motivam suas decisões sobre o produto. Descrevem e posicionam os segmentos do mercado alvo. Estime o tamanho e o crescimento do mercado usando o número de usuários potenciais. Como alternativa, estime a quantia de dinheiro que seus clientes gastam tentando atender às necessidades que seu produto ou aprimoramento preencheria. Revise as principais tendências do segmento de mercado e tecnologias. Responda estas questões estratégicas:
-- Qual é a reputação de sua organização nesses mercados?
-- O que você gostaria que a reputação fosse?
-- Como esse produto ou serviço suporta seus objetivos?
 
-
-####	3.2 Resumo da Parte Interessada:
+####	3.1 Resumo da Parte Interessada:
 
 | Nome      |Descrição | Responsabilidades
 |-----------|----------|------------------|
@@ -79,28 +74,38 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Usuário do aplicativo |Alunos, professores, ou quaisquer servidores da universidade| Utilizar a plataforma, postando eventuais problemas na universidade, fornecendo informações como por exemplo o local do problema, e uma foto. |
 | Equipe de Desenvolvimento| Equipe formada por alunos das disciplinas de métodos de desenvolvimento de software, e engenharia do produto de software| Desenvolver a plataforma |
 
-####	3.3 Resumo do Usuário:
+####	3.2 Resumo do Usuário:
 
 | Nome      |Descrição | Parte Interessada
 |-----------|----------|------------------|
 | Administrador do aplicativo   |Este usuário administra o aplicativo, postando notícias, editando possíveis benefícios para os usuários, e editando anúncios de empresas parceiras, além de ter acesso a relatórios dos posts dos usuários.| Cliente |
 
-####	3.4 Ambiente do Usuário:
+####	3.3 Ambiente do Usuário:
  A aplicação é em forma de aplicação web, e será utilizada em escritório dentro da UnB, no DAF.
 
-####	3.5 Perfis das Partes Interessadas: 
+####	3.4 Perfis das Partes Interessadas: 
 
-| Representante| DAF|
+| Representante| Fernando|
 |:-:|:-:|
-|Descrição | Administrador da plataforma|
-|Tipo| Especialista em contratos |
+|Descrição | Coordenador de contratos|
+|Tipo| Especialista de negócios |
 |Responsabilidades|Administra o aplicativo, postando notícias, analisando dados, e solucionando os problemas elencados por usuários|
 |Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
 |Envolvimento|PO|
 |Entregas||
 |Comentários ou Problemas||
 
-| Representante| mds|
+| Representante| Renata |
+|:-:|:-:|
+|Descrição | Responsável pelo hackathon, de qual o projeto foi vencedor|
+|Tipo| Especialista em negócios |
+|Responsabilidades| Fornece requisitos e informações para fazer a integração do sistema de gestão com o aplicativo|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante| Guilherme Aguiar, Mateus Augusto, Gabriel Filipe |
 |:-:|:-:|
 |Descrição | Equipe de desenvolvimento|
 |Tipo| Desenvolvedor |
@@ -110,20 +115,11 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Entregas||
 |Comentários ou Problemas||
 
-####	3.6 Perfis do Usuário
- Descreve cada usuário do sistema aqui, preenchendo a seguinte tabela para cada tipo de usuário. Lembre-se que os tipos de usuário podem ser especialistas e novatos; por exemplo, um especialista pode precisar de uma ferramenta sofisticada e flexível com suporte para várias plataformas, enquanto um novato pode precisar de uma ferramenta que seja fácil de usar. Um perfil completo abrange esses tópicos para cada tipo de usuário:
-- Representante: Indica quem representa o usuário para o projeto. (Essa informação será opcional se estiver documentada em algum outro lugar.) Esse representante, geralmente refere-se à parte interessada que representa o conjunto de usuários; por exemplo, Parte Interessada: Parte Interessada1.
-- Descrição: Descreve brevemente o tipo de usuário.
-- Tipo: Qualifica o conhecimento do usuário, como "usuário avançado" ou "usuário informal." Essa designação pode sugerir a experiência técnica e o grau de sofisticação.
-- Responsabilidades: Lista as principais responsabilidades do usuário com respeito ao sistema; por exemplo, determina quem captura os detalhes do cliente, produz relatórios e coordena trabalho, etc.
-- Critérios de Sucesso: Determina como o usuário define o sucesso. Como o usuário é recompensado?
-- Envolvimento: Descreve como o usuário está envolvido no projeto. Onde possível, relate o envolvimento nas funções do processo; por exemplo, uma parte interessada pode ser um revisor de requisitos.
-- Entregas: Identifica as entregas que o usuário produz e para quem.
-- Comentários ou Problemas: Determina os problemas que interferem com o sucesso e quaisquer outras informações relevantes. Descreve as tendências que tornam a tarefa do usuário mais fácil ou mais difícil.
+####	3.5 Perfis do Usuário
 
-| Representante| DAF|
+| Representante| Fernando|
 |:-:|:-:|
-|Descrição | Administrador da plataforma|
+|Descrição | Coordenador de contratos|
 |Tipo| Usuário avançado |
 |Responsabilidades|Administra o aplicativo, postando notícias, analisando dados, e solucionando os problemas elencados por usuários|
 |Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
@@ -131,13 +127,13 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Entregas||
 |Comentários ou Problemas||
 
-####	3.7 Principais Necessidades da Parte Interessada ou do Usuário:
+####	3.6 Principais Necessidades da Parte Interessada ou do Usuário:
 
 |Necessidade|Prioridade|Interesses|Solução atual|Solução proposta|
 |-|-|-|-|-|
 | Monitorar problemas relacionados a UnB | 1 | Melhorar o monitoramento dos contratos | Monitoramento por servidores | Utilizar o aplicativo para ter uma melhor e mais ampla visualização dos dados |
  	 	 	 	 
-####	3.8 Alternativas e Concorrência:
+####	3.7 Alternativas e Concorrência:
  A principal alternativa ao nosso produto, que é a alternativa utilizada atualmente, é a de dispor do trabalho de servidores para inspecionar a universidade procurando por defeitos na infraestrutura, ou quaisquer outras falhas no funcionamento da universidade. E além disso, dispor do feedback da comunidade acadêmica que se disponham a relatar problemas, diretamente para o decanato.
 
 ###	4: Visão Geral do Produto

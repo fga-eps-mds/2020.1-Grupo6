@@ -95,6 +95,16 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Entregas||
 |Comentários ou Problemas||
 
+| Representante|  |
+|:-:|:-:|
+|Descrição | Comunidade acadêmica|
+|Tipo| Usuário casual |
+|Responsabilidades| Fornece dados para o aplicativo|
+|Critérios de Sucesso| Manutenção adequada da universidade |
+|Envolvimento| Usuário do aplicativo |
+|Entregas||
+|Comentários ou Problemas| Não possui um representante real |
+
 | Representante| Renata |
 |:-:|:-:|
 |Descrição | Responsável pelo hackathon, de qual o projeto foi vencedor|
@@ -112,7 +122,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades| Trabalhará na parte do aplicativo para celular, que será gerenciado pelo sistema gerenciador, que é o objeto deste documento|
 |Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
 |Envolvimento| Integração do projeto |
-|Entregas||
+|Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
 |Comentários ou Problemas||
 
 | Representante| Carla |
@@ -122,10 +132,9 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades| Orientará a equipe de desenvolvimento do aplicativo|
 |Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
 |Envolvimento| Integração do projeto |
-|Entregas||
+|Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
 |Comentários ou Problemas||
 
-| Representante|  |
 
 | Representante| Hilmer |
 |:-:|:-:|
@@ -134,17 +143,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades| Orientará a equipe de desenvolvimento sistema |
 |Critérios de Sucesso| Aplicativo funcional e bem documentado, aplicando as metodologias de desenvolvimento de software |
 |Envolvimento| Orientação |
-|Entregas||
-|Comentários ou Problemas||
-
-| Representante|  |
-|:-:|:-:|
-|Descrição | Comunidade acadêmica|
-|Tipo| Usuário casual |
-|Responsabilidades| Fornece dados para o aplicativo|
-|Critérios de Sucesso| Manutenção adequada da universidade |
-|Envolvimento| Usuário do aplicativo |
-|Entregas||
+|Entregas| Documentação |
 |Comentários ou Problemas||
 
 | Representante| Guilherme Aguiar, Mateus Augusto, Gabriel Filipe |
@@ -154,7 +153,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades|Desenvolver o produto de software|
 |Critérios de Sucesso|Atender à necessidade das partes interessadas|
 |Envolvimento|Desenvolvimento e gestão do projeto|
-|Entregas||
+|Entregas| Documentação |
 |Comentários ou Problemas||
 
 ####	3.5 Perfis do Usuário

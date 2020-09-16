@@ -105,6 +105,48 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Entregas||
 |Comentários ou Problemas||
 
+| Representante| Bruno |
+|:-:|:-:|
+|Descrição | Equipe de desenvolvimento do aplicativo para celular|
+|Tipo| Equipe de desenvolvimento |
+|Responsabilidades| Trabalhará na parte do aplicativo para celular, que será gerenciado pelo sistema gerenciador, que é o objeto deste documento|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante| Carla |
+|:-:|:-:|
+|Descrição | Orientadora do projeto do aplicativo para smartphone|
+|Tipo| Orientador |
+|Responsabilidades| Orientará a equipe de desenvolvimento do aplicativo|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante|  |
+
+| Representante| Hilmer |
+|:-:|:-:|
+|Descrição | Orientador do projeto do sistema gerenciador |
+|Tipo| Orientador |
+|Responsabilidades| Orientará a equipe de desenvolvimento sistema |
+|Critérios de Sucesso| Aplicativo funcional e bem documentado, aplicando as metodologias de desenvolvimento de software |
+|Envolvimento| Orientação |
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante|  |
+|:-:|:-:|
+|Descrição | Comunidade acadêmica|
+|Tipo| Usuário casual |
+|Responsabilidades| Fornece dados para o aplicativo|
+|Critérios de Sucesso| Manutenção adequada da universidade |
+|Envolvimento| Usuário do aplicativo |
+|Entregas||
+|Comentários ou Problemas||
+
 | Representante| Guilherme Aguiar, Mateus Augusto, Gabriel Filipe |
 |:-:|:-:|
 |Descrição | Equipe de desenvolvimento|
@@ -132,6 +174,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Necessidade|Prioridade|Interesses|Solução atual|Solução proposta|
 |-|-|-|-|-|
 | Monitorar problemas relacionados a UnB | 1 | Melhorar o monitoramento dos contratos | Monitoramento por servidores | Utilizar o aplicativo para ter uma melhor e mais ampla visualização dos dados |
+
  	 	 	 	 
 ####	3.7 Alternativas e Concorrência:
  A principal alternativa ao nosso produto, que é a alternativa utilizada atualmente, é a de dispor do trabalho de servidores para inspecionar a universidade procurando por defeitos na infraestrutura, ou quaisquer outras falhas no funcionamento da universidade. E além disso, dispor do feedback da comunidade acadêmica que se disponham a relatar problemas, diretamente para o decanato.

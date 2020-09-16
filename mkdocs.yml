@@ -8,6 +8,7 @@ nav:
     - Sobre: index.md
     - Roadmap: roadmaps/roadmap.md
     - Documento de Visão: org_artifacts/vision_doc.md
+    - Documento de Arquitetura: org_artifacts/architecture_doc.md
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Termo de Abertura do Projeto: org_artifacts/tap.md
     - Artefatos Organizacionais:

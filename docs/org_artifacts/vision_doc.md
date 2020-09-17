@@ -10,6 +10,7 @@
 |10/09/2020|   0.4   | Inserção do tópico 1     |   Hércules  |
 |10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
 |13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
+|14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
 
 
 ## Sumário
@@ -36,6 +37,8 @@ Esta introdução fornece uma visão geral de todo o documento de visão. Ela in
 
  DAF - Decanato de Administração
 
+ PO - Product Owner (Dono do produto)
+
 ####	1.4 Referências:
  **Vision document.** Disponível em:
   <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.
@@ -60,68 +63,120 @@ O problema da pandemia do vírus COVID-19 gera a necessidade de análise de dado
 Para o população que necessita de uma solução que minimize os efeitos da pandemia. O (nome do produto) é uma aplicação que permite a visualização de dados do COVID-19 em forma de mapa de calor. Há aplicações que disponibilizam a visualização de casos de COVID-19 em forma de mapa de calor, nosso produto no entanto se diferencia pela capacidade de cruzar diversos dados de diferentes fontes para se observar possíveis correlações.
 
 ###	3: Descrições da Parte Interessada e do Usuário
-Para fornecer produtos e serviços que atendam às necessidades das partes interessadas e dos usuários, você deve identificar e envolver todas as partes interessadas como parte do processo de definição dos requisitos. Você deve também identificar os usuários do sistema e assegurar que a comunidade das partes interessadas os represente adequadamente.
+Esta seção fornece um perfil das partes interessadas e usuários que estão envolvidos no projeto. Esta seção também identifica os principais problemas que as partes interessadas e os usuários consideram que a solução proposta deva tratar.
 
-Esta seção fornece um perfil das partes interessadas e usuários que estão envolvidos no projeto. Esta seção também identifica os principais problemas que as partes interessadas e os usuários consideram que a solução proposta deva tratar. Esta seção não descreve as solicitações ou requisitos específicos; um artefato separado de solicitações da parte interessada captura esses itens. A descrição do principal problema fornece o plano de fundo e a justificação para os requisitos.
 
-####	3.1 Demográficos de Mercado:
- Resume os principais demográficos de mercado que motivam suas decisões sobre o produto. Descrevem e posicionam os segmentos do mercado alvo. Estime o tamanho e o crescimento do mercado usando o número de usuários potenciais. Como alternativa, estime a quantia de dinheiro que seus clientes gastam tentando atender às necessidades que seu produto ou aprimoramento preencheria. Revise as principais tendências do segmento de mercado e tecnologias. Responda estas questões estratégicas:
-- Qual é a reputação de sua organização nesses mercados?
-- O que você gostaria que a reputação fosse?
-- Como esse produto ou serviço suporta seus objetivos?
-####	3.2 Resumo da Parte Interessada:
- Lista todas as partes interessadas identificadas. Para cada tipo de parte interessada, forneça estas informações:
-- Nome: Nome do tipo da parte interessada.
-- Representa: Descreve brevemente quais pessoas, equipes ou organizações esse tipo de parte interessada representa.
-- Função: Descreve brevemente a função que esse tipo de parte interessada desempenha no esforço de desenvolvimento.
-####	3.3 Resumo do Usuário:
- Lista todos os tipos de usuários identificados. Para cada tipo de usuário, forneça estas informações:
-- Nome: Nome do tipo de usuário
-- Descrição: Descreve brevemente o relacionamento desse tipo de usuário com o sistema que está em desenvolvimento.
-- Parte Interessada: Lista qual tipo de parte interessada representa esse tipo de usuário.
-####	3.4 Ambiente do Usuário:
- Detalha o ambiente de trabalho do usuário alvo. Aqui estão algumas sugestões:
-- Quantas pessoas estão envolvidas na conclusão da tarefa? Está sendo alterado?
-- Quanto tempo leva um loop de tarefa? Quanto tempo os usuários gastam em cada atividade? Está sendo alterado?
-- Quais restrições de ambiente exclusivas afetam o projeto? Por exemplo, os usuários requerem dispositivos remotos, trabalham externamente ou trabalham durante as viagens?
-- Quais plataformas de sistema estão em uso atualmente? Existem plataformas futuras planejadas?
-- Que outros aplicativos estão em uso? Seu aplicativo precisa se integrar a eles?
-Nesta seção, você pode incluir extrações do modelo de negócio para descrever a tarefa e os trabalhadores envolvidos.
-####	3.5 Perfis das Partes Interessadas: 
-Descreve cada parte interessada no projeto, preenchendo a seguinte tabela para cada parte interessada. Lembre-se: os tipos de partes interessadas podem ser usuários, departamentos estratégicos, departamentos jurídicos ou de conformidade, desenvolvedores técnicos, equipes de operação, entre outros. Um perfil completo abrange os seguintes tópicos para cada tipo de parte interessada:
+####	3.1 Resumo da Parte Interessada:
 
-- Representante: Determina quem representa a parte interessada para o projeto (Essa informação será opcional se estiver documentada em algum outro lugar.) Insira os nomes dos representantes.
-- Descrição: Descreve brevemente o tipo de parte interessada.
-- Tipo: Qualifica o conhecimento da parte interessada, como "usuário avançado", "especialista em negócios", ou "usuário informal". Essa designação pode sugerir a experiência técnica e o grau de sofisticação.
-- Responsabilidades: Lista as principais responsabilidades da parte interessada no sistema em desenvolvimento; lista seus interesses como uma parte interessada.
-- Critérios de Sucesso: Determina como a parte interessada define o sucesso. Como a parte interessada é recompensada?
-- Envolvimento - Descreve como a parte interessada está envolvida no projeto. Onde possível, relate o envolvimento nas funções do processo; por exemplo, uma parte interessada pode ser um revisor de requisitos.
-- Entregas: Identifica as entregas adicionais que a parte interessada requer. Esses itens podem ser entregas do projeto ou saída a partir do sistema em desenvolvimento.
-- Comentários ou Problemas: Determina os problemas que interferem com o sucesso e quaisquer outras informações relevantes.
-####	3.6 Perfis do Usuário
- Descreve cada usuário do sistema aqui, preenchendo a seguinte tabela para cada tipo de usuário. Lembre-se que os tipos de usuário podem ser especialistas e novatos; por exemplo, um especialista pode precisar de uma ferramenta sofisticada e flexível com suporte para várias plataformas, enquanto um novato pode precisar de uma ferramenta que seja fácil de usar. Um perfil completo abrange esses tópicos para cada tipo de usuário:
-- Representante: Indica quem representa o usuário para o projeto. (Essa informação será opcional se estiver documentada em algum outro lugar.) Esse representante, geralmente refere-se à parte interessada que representa o conjunto de usuários; por exemplo, Parte Interessada: Parte Interessada1.
-- Descrição: Descreve brevemente o tipo de usuário.
-- Tipo: Qualifica o conhecimento do usuário, como "usuário avançado" ou "usuário informal." Essa designação pode sugerir a experiência técnica e o grau de sofisticação.
-- Responsabilidades: Lista as principais responsabilidades do usuário com respeito ao sistema; por exemplo, determina quem captura os detalhes do cliente, produz relatórios e coordena trabalho, etc.
-- Critérios de Sucesso: Determina como o usuário define o sucesso. Como o usuário é recompensado?
-- Envolvimento: Descreve como o usuário está envolvido no projeto. Onde possível, relate o envolvimento nas funções do processo; por exemplo, uma parte interessada pode ser um revisor de requisitos.
-- Entregas: Identifica as entregas que o usuário produz e para quem.
-- Comentários ou Problemas: Determina os problemas que interferem com o sucesso e quaisquer outras informações relevantes. Descreve as tendências que tornam a tarefa do usuário mais fácil ou mais difícil.
-####	3.7 Principais Necessidades da Parte Interessada ou do Usuário:
- Lista os principais problemas com soluções existentes como observadas pela parte interessada. Esclarece estas questões para cada problema:
-- Quais são os motivos para esse problema?
-- Como o problema é resolvido agora?
-- Quais soluções a parte interessada deseja?
-Você deve entender a importância relativa que a parte interessada coloca na solução de cada problema. A classificação e técnicas de votos acumulativos indicam os problemas que devem ser resolvidos versus os problemas que as partes interessadas gostariam de tratar. Use esta tabela para capturar as necessidades da parte interessada.
-Tabela 1. Necessidades da Parte Interessada
+| Nome      |Descrição | Responsabilidades
+|-----------|----------|------------------|
+| Cliente.   |DAF da UnB| Administrar a plataforma, criando posts, analisando os dados, e providenciando soluções para problemas postados pelos usuários|
+|Usuário do aplicativo |Alunos, professores, ou quaisquer servidores da universidade| Utilizar a plataforma, postando eventuais problemas na universidade, fornecendo informações como por exemplo o local do problema, e uma foto. |
+| Equipe de Desenvolvimento| Equipe formada por alunos das disciplinas de métodos de desenvolvimento de software, e engenharia do produto de software| Desenvolver a plataforma |
+
+####	3.2 Resumo do Usuário:
+
+| Nome      |Descrição | Parte Interessada
+|-----------|----------|------------------|
+| Administrador do aplicativo   |Este usuário administra o aplicativo, postando notícias, editando possíveis benefícios para os usuários, e editando anúncios de empresas parceiras, além de ter acesso a relatórios dos posts dos usuários.| Cliente |
+
+####	3.3 Ambiente do Usuário:
+ A aplicação é em forma de aplicação web, e será utilizada em escritório dentro da UnB, no DAF.
+
+####	3.4 Perfis das Partes Interessadas: 
+
+| Representante| Fernando|
+|:-:|:-:|
+|Descrição | Coordenador de contratos|
+|Tipo| Especialista de negócios |
+|Responsabilidades|Administra o aplicativo, postando notícias, analisando dados, e solucionando os problemas elencados por usuários|
+|Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
+|Envolvimento|PO|
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante|  |
+|:-:|:-:|
+|Descrição | Comunidade acadêmica|
+|Tipo| Usuário casual |
+|Responsabilidades| Fornece dados para o aplicativo|
+|Critérios de Sucesso| Manutenção adequada da universidade |
+|Envolvimento| Usuário do aplicativo |
+|Entregas||
+|Comentários ou Problemas| Não possui um representante real |
+
+| Representante| Renata |
+|:-:|:-:|
+|Descrição | Responsável pelo hackathon, de qual o projeto foi vencedor|
+|Tipo| Especialista em negócios |
+|Responsabilidades| Fornece requisitos e informações para fazer a integração do sistema de gestão com o aplicativo|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas||
+|Comentários ou Problemas||
+
+| Representante| Bruno |
+|:-:|:-:|
+|Descrição | Equipe de desenvolvimento do aplicativo para celular|
+|Tipo| Equipe de desenvolvimento |
+|Responsabilidades| Trabalhará na parte do aplicativo para celular, que será gerenciado pelo sistema gerenciador, que é o objeto deste documento|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
+|Comentários ou Problemas||
+
+| Representante| Carla |
+|:-:|:-:|
+|Descrição | Orientadora do projeto do aplicativo para smartphone|
+|Tipo| Orientador |
+|Responsabilidades| Orientará a equipe de desenvolvimento do aplicativo|
+|Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
+|Envolvimento| Integração do projeto |
+|Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
+|Comentários ou Problemas||
+
+
+| Representante| Hilmer |
+|:-:|:-:|
+|Descrição | Orientador do projeto do sistema gerenciador |
+|Tipo| Orientador |
+|Responsabilidades| Orientará a equipe de desenvolvimento sistema |
+|Critérios de Sucesso| Aplicativo funcional e bem documentado, aplicando as metodologias de desenvolvimento de software |
+|Envolvimento| Orientação |
+|Entregas| Documentação |
+|Comentários ou Problemas||
+
+| Representante| Guilherme Aguiar, Mateus Augusto, Gabriel Filipe |
+|:-:|:-:|
+|Descrição | Equipe de desenvolvimento|
+|Tipo| Desenvolvedor |
+|Responsabilidades|Desenvolver o produto de software|
+|Critérios de Sucesso|Atender à necessidade das partes interessadas|
+|Envolvimento|Desenvolvimento e gestão do projeto|
+|Entregas| Documentação |
+|Comentários ou Problemas||
+
+####	3.5 Perfis do Usuário
+
+| Representante| Fernando|
+|:-:|:-:|
+|Descrição | Coordenador de contratos|
+|Tipo| Usuário avançado |
+|Responsabilidades|Administra o aplicativo, postando notícias, analisando dados, e solucionando os problemas elencados por usuários|
+|Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
+|Envolvimento|PO|
+|Entregas||
+|Comentários ou Problemas||
+
+####	3.6 Principais Necessidades da Parte Interessada ou do Usuário:
 
 |Necessidade|Prioridade|Interesses|Solução atual|Solução proposta|
 |-|-|-|-|-|
-| | | | | |
+| Monitorar problemas relacionados a UnB | 1 | Melhorar o monitoramento dos contratos | Monitoramento por servidores | Utilizar o aplicativo para ter uma melhor e mais ampla visualização dos dados |
+
  	 	 	 	 
-####	3.8 Alternativas e Concorrência:
- Identifica as alternativas que a parte interessada percebe como disponíveis. Essas alternativas podem incluir a compra do produto de um concorrente, a criação de uma solução desenvolvida internamente ou manter o status quo. Listam todas as opções disponíveis e conhecidas. Elas incluem os principais pontos fortes e fracos de cada concorrente como observados pela parte interessada.
+####	3.7 Alternativas e Concorrência:
+ A principal alternativa ao nosso produto, que é a alternativa utilizada atualmente, é a de dispor do trabalho de servidores para inspecionar a universidade procurando por defeitos na infraestrutura, ou quaisquer outras falhas no funcionamento da universidade. E além disso, dispor do feedback da comunidade acadêmica que se disponham a relatar problemas, diretamente para o decanato.
 
 ###	4: Visão Geral do Produto
 

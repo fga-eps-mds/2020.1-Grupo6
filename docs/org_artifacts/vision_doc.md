@@ -11,6 +11,7 @@
 |10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
 |13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
 |14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
+|18/09/2020|   0.9   | Atualização do item 4.2    |  Bruno  |
 
 
 ## Sumário

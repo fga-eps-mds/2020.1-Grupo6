@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor(es) |
 |:--------:|:--------:|:----------------------:|:------------------:|
 | 14/09/2020 | 0.1 | Criação do Documento e Adição do template e do sumário | Guilherme Aguiar |
+| 18/09/2020 | 0.2 | Criação da visão de casos de uso | Bruno Nunes |
 
 ## Sumário
 

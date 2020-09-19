@@ -136,15 +136,15 @@ Em toda esta seção, torne cada recurso relevante para usuários, operadores ou
 As restrições são todos os fatores que limitam a execução e o funcionamento da aplicabilidade, podendo afetar de forma direta ou indiretamente ao projeto. Porém, não é possível listar todas as restrições do projeto.
 ####	6.1 Restrições externas
 Fatores externos que podem prejudicar o processo de desenvolvimento são aqueles que, de alguma forma, incapacite determinado membro de exercer suas atividades. Como falta de internet, energia, equipamento danificado ou algum fator físico ou social do indivíduo.
-####	6.1 Restrições internas
+####	6.2 Restrições internas
 O estado e a qualidade do produto, dependem diretamente da equipe envolvida, pois trata-se de um sistema de software e o processo de produção e implementação decorem do esforço intelectual dos membros.
-####	6.1 Restrições implementação
+####	6.3 Restrições implementação
 Para minimizar os possíveis impasses que podem surgir no desenvolvimento de um projeto em equipe com ambientes separados, será utilizado a tecnologia Docker, assim criar um servidor de produção padrão para todos os desenvolvedores.
-####	6.1 Restrições de Design
+####	6.4 Restrições de Design
 As restrições do design do sistema desenvolvido, são limitações das tecnologia escolhidas e ferramentas utilizadas.
-####	6.1 Restrições de confiabilidade
+####	6.5 Restrições de confiabilidade
 O sistema desenvolvido terá auxilio ativo dos membros por todas as fases e disciplinas de um desenvolvimento de software na duração de um semestre letivo. Assim, cumprindo todas as fases necessárias para a entrega de uma solução de software funcional, mas posteriormente a entrega, não foram definidos como a manutenção irá ocorrer pelos membros.
-####	6.1 Restrições de regulamentares
+####	6.6 Restrições de regulamentares
 Existem atualmente lei que protegem e patronizam os dados dos usuários, como principal objetivo, garantir transparência no uso de dados das pessoas físicas em quaisquer meios. Em consequência disso, o projeto estará em conformidade com a Lei de proteção de Dados (Lei nº 13.709), LGPD.
 ###	7: Faixas de Qualidade
 Defina as faixas de qualidade para desempenho, robustez, tolerância a falhas, usabilidade e características similares que o conjunto de recursos não descreve.

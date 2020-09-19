@@ -12,7 +12,8 @@
 |13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
 |14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
 |14/09/2020|   0.9   | Atualização do tópico Posicionamento    |  Juliana  |
-
+|18/09/2020|   1.0   | Revisão    |  Mateus Augusto  |
+|18/09/2020|   1.1   | Atualização do item 4.2    |  Bruno  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -39,10 +40,6 @@ Esta introdução fornece uma visão geral de todo o documento de visão. Ela in
  DAF - Decanato de Administração
 
  PO - Product Owner (Dono do produto)
-
-####	1.4 Referências:
- **Vision document.** Disponível em:
-  <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.
 
 ####	1.5 Visão geral:
  Este documento traz o escopo e propósito geral deste projeto, e está dividido em 7 tópicos: <br>
@@ -204,9 +201,9 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Benefício para o Cliente|Recursos de Suporte|
 |-|-|
 | Geração de relatórios sobre o uso das funcionalidades.| O usuário tem acesso e pode tirar informações adicionais sobre as funcionalidades, como por exemplo: número de posts, categorias, votos, metas e rankings.  	|
+| Avaliação dos problemas citados.|  Ao receber a notificação de um problema, o gestor pode avaliar a situação, tendo a opção de modificar o estado da situação. 	|
 | Criação de conteúdo informativo. | Com a criação de notícias tem-se a possibilidade de avisar os usuários do aplicativo mobile, informações referentes aos dados recebidos pelo sistema ou informações da própria rede da UnB	|
 | Sistema de recompensa por postagens e avaliações 	| Com a colaboração de pessoas por meio do aplicativo, temos então a possibilidade de gerenciar recompensas fornecidas pela própria UnB ou empresas parceiras. |
-|Equipes de suporte distribuídas podem trabalhar juntas para resolver problemas.	|Com um servidor de replicação, as informações do banco de dados podem ser compartilhadas em toda a empresa.|
 | Gerenciamento de anúncios. | Após ter um firmamento com empresas parceiras, terá a criação de anúncios da mesma. Com isso, o usuário pode criar e deletar de uma forma fácil suas propagandas. |
 
 </br>
@@ -269,4 +266,5 @@ Existem atualmente lei que protegem e patronizam os dados dos usuários, como pr
 
 ### 7: Referências
 
- Seção de referencias
+ **Vision document.** Disponível em:
+  <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.

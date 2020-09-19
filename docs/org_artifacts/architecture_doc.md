@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor(es) |
 |:--------:|:--------:|:----------------------:|:------------------:|
 | 14/09/2020 | 0.1 | Criação do Documento e Adição do template e do sumário | Guilherme Aguiar |
+| 18/09/2020 | 0.2 | Criação da visão de casos de uso | Bruno Nunes |
 
 ## Sumário
 
@@ -117,17 +118,40 @@ Requisitos e restrições do sistema que influenciam na arquitetura:
 
 | Atores | Descrição |
 |:--------:|:--------:|
-| xxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxx  |
+| Gestor | O administrador da plataforma que gerencia a aplicação Vamos Cuidar  |
+| NodeJS API  | A interface de programação de aplicações que irá se comunicar com outra plataforma  |
 
 ## 4.2 Diagramas UC
 
-
+[![architecture_diagram](img/use_case_diagram.png)](img/use_case_diagram.png)
 
 ### 4.3 Descrição dos Casos de Uso
 
 | Caso de uso | Descrição do caso de uso |
-|:--------:|:--------:|
-| xxxxxxxxxxxxxxx | xxxxxxxxxxxx  |
+|:--------|:--------:|
+| UC01 - Visualizar dashboard | Este caso de uso ocorrerá quando o gestor acessar a página principal ou seção Dashboard  |
+| UC02 - Listar situação do problema | Este caso de uso poderá ocorrer quando o gestor entrar na seção de situações e receber as informações |
+| UC03 - Visualizar situação do problema | Este caso de uso ocorrerá quando o NodeJS API solicitar as situações |
+| UC04 - Atualizar situação do problema | Este caso de uso ocorrerá quando o gestor acessar uma situação |
+| UC05 - Carregar informações | Este caso de uso ocorrerá quando o NodeJS API submeter uma situação |
+| UC06 - Criar anúncios | Este caso de uso ocorrerá quando o gestor clicar na criação de anúncio e inserir dados sobre o anúncio |
+| UC07 - Editar anúncios | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um anúncio |
+| UC08 - Deletar anúncios | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um anúncio |
+| UC09 - Listar anúncios | Este caso de uso ocorrerá quando o gestor entrar no seção de anúncios |
+| UC10 - Visualizar anúncios | Este caso de uso ocorrerá quando o NodeJS API requisitar os anúncios |
+| UC11 - Criar notícia | Este caso de uso ocorrerá quando o gestor clicar na criação de notícias e inserir dados sobre o mesmo |
+| UC12 - Editar notícia | Este caso de uso ocorrerá quando o gestor já tiver criado previamente uma notícia |
+| UC13 - Deletar notícia | Este caso de uso ocorrerá quando o gestor já tiver criado previamente uma notícia |
+| UC14 - Listar notícias | Este caso de uso poderá ocorrer quando o gestor entrar no seção de notícia |
+| UC15 - Visualizar notícia | Este caso de uso ocorrerá quando o NodeJS API requisitar as notícias |
+| UC16 - Criar benefício | Este caso de uso ocorrerá quando o gestor clicar na criação de um benefício e inserir dados sobre o mesmo |
+| UC17 - Editar benefício | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um benefício |
+| UC18 - Deletar benefício | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um benefício |
+| UC19 - Listar benefícios | Este caso de uso ocorrerá quando o gestor entrar no seção de benefícios |
+| UC20 - Visualizar benefício | Este caso de uso ocorrerá quando o NodeJS API requisitar os benefícios |
+
+
+
 
 ## 5. Visão Lógica
 

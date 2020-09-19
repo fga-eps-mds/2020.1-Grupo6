@@ -11,6 +11,7 @@
 |10/09/2020|   0.5   | Atualização da Visão Geral do Produto    |  Bruno  |
 |13/09/2020|   0.7   | Atualização do tópico de recursos    |  Vitor  |
 |14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
+|14/09/2020|   0.9   | Atualização do tópico Posicionamento    |  Juliana  |
 
 
 ## Sumário
@@ -53,14 +54,14 @@ Esta introdução fornece uma visão geral de todo o documento de visão. Ela in
  6. Restrições: Busca elencar quaisquer restrições de projeto externas, ou internas.<br>
  7.  Referências: Lista todas as referências que foram utilizadas para elaborar este documento.<br>
 
-###	2: Posicionando
+###	2: Posicionamento
 ####	2.1 Oportunidade de Negócios:
-Com a pandemia do vírus COVID-19, surge a necessidade de se obter rapidamente informações sobre o vírus para se instrumentalizar formas de combatê-lo, desta forma é necessário uma forma de levantar dados e achar as correlações necessárias para trazer as devidas soluções ao problema.
+O sistema de gerenciamento do aplicativo “Vamos Cuidar” é uma interface para a avaliação dos problemas relatados pelos departamentos responsáveis. Com o sistema de gerenciamento, o DAF da UnB poderá administrar a plataforma com criação de posts, análise de dados e promover soluções para os problemas relatados.
 ####	2.2 Instrução do Problema:
-O problema da pandemia do vírus COVID-19 gera a necessidade de análise de dados sobre este vírus para encontrar correlações importantes ao caso, tal problema afeta a população mundial. O impacto do problema se extende na morte de milhares de pessoas, principalmente idosos, e pessoas com doenças crônicas, e pessoas com imunidade baixa. Uma solução bem sucedida para o problema dos dados incluiria uma plataforma de fácil acesso a dados do relativos ao vírus; outros dados que possam gerar corelações como renda e escolaridade de pessoas afetadas, lugares onde pessoas foram infectadas, entre outros; possibilidade de comparar os dados na plataforma. 
+A dificuldade e demora na resolução de problemas relacionados à UnB gera uma necessidade de um meio de informação rápido e apto no qual aja comunicação entre o relator e o departamento encarregado daquela devida adversidade. Uma solução bem sucedida para se obter uma comunicação mais eficiente é a criação de uma plataforma de fácil acesso para o DAF da UnB gerenciar, analisar e notificar sobre essas questões. No qual a análise será realizada de acordo com as categorias, número de posts sobre determinado assunto, votos e entre outros. 
 
 ####	2.3 Instrução de Posição do Produto:
-Para o população que necessita de uma solução que minimize os efeitos da pandemia. O (nome do produto) é uma aplicação que permite a visualização de dados do COVID-19 em forma de mapa de calor. Há aplicações que disponibilizam a visualização de casos de COVID-19 em forma de mapa de calor, nosso produto no entanto se diferencia pela capacidade de cruzar diversos dados de diferentes fontes para se observar possíveis correlações.
+Para uma solução e notificação ágil aos problemas referentes à UnB informados por estudantes e/ou funcionários. O sistema gerenciador do aplicativo “Vamos Cuidar” é uma aplicação que permite a visualização de questões sobre a UnB. Nosso produto será o primeiro a providenciar uma interação direta entre pessoas da comunidade da UnB e o DAF.
 
 ###	3: Descrições da Parte Interessada e do Usuário
 Esta seção fornece um perfil das partes interessadas e usuários que estão envolvidos no projeto. Esta seção também identifica os principais problemas que as partes interessadas e os usuários consideram que a solução proposta deva tratar.

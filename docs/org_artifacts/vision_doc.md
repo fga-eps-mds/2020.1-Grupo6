@@ -177,6 +177,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
 |Envolvimento|PO|
 |Entregas|Protótipo, Features da aplicação|
+
 |Comentários ou Problemas||
 
 ####	3.6 Principais Necessidades da Parte Interessada ou do Usuário:
@@ -187,6 +188,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 | Facilitar Tomada de decisão | 1 | Apresentação de indicadores| Decisão a partir de relatórios | Utilizar a aplicação para fornecer indicadores |
 | Apresentar feedback dos processos | 1 | Mostrar para a comunidade acadêmica o andamento do processo de resolução| Notícias no site da UnB | Alimentar feed da Aplicação mobile como notícias|
 
+
  	 	 	 	 
 ####	3.7 Alternativas e Concorrência:
  A principal alternativa ao nosso produto, que é a alternativa utilizada atualmente, é a de dispor do trabalho de servidores para inspecionar a universidade procurando por defeitos na infraestrutura, ou quaisquer outras falhas no funcionamento da universidade. E além disso, dispor do feedback da comunidade acadêmica que se disponham a relatar problemas, diretamente para o decanato.
@@ -195,6 +197,7 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 
 ####	4.1 Perspectiva do Produto:
  O produto possui aplicações semelhantes a de um relatório sobre o uso das funcionalidade de um aplicativo com o gerenciamento de informações do mesmo. O sistema gerenciador do Vamos Cuidar, tem uma dependência de uma aplicação mobile que tem o objetivo de enviar dados para a plataforma gestora.
+
 
 ####	4.2 Resumo das Capacidades:
 
@@ -210,10 +213,11 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 
 ####	4.3 Suposições e Dependências
 
- O sistema de gerenciamento do Vamos Cuidar, tem uma dependencia da aplicação mobile, pois irá receber os dados das denúncias dessa aplicação. A parte onde será disponibilizada o uso do sistema (Aplicação web) não necessita de um sistema de hardware robusto.
+ O sistema de gerenciamento do Vamos Cuidar, tem uma dependência da aplicação mobile, pois irá receber os dados das denúncias dessa aplicação. A parte onde será disponibilizada o uso do sistema (Aplicação web) não necessita de um sistema de hardware robusto.
 
 ####	4.4 Custo e Precificação
   O custo único seria o local onde o site será hospedado. 
+
 
 ####	4.5 Licenciamento e Instalação 
   Não há necessidade de instalação, pois a plataforma é uma aplicação web. Já temos como o licenciamento a GNU General Public License v3.0.

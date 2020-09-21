@@ -5,31 +5,26 @@
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|11/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
-|12/09/2020|   0.2   | Adição do histórico    |   Guilherme Aguiar |
+|21/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
 
-Número da Sprint: 3 <br>
-Data de Início:  08/09/2020 <br>
-Data de Término: 14/09/2020 <br>
-Pontos Planejados:  <br>
-Pontos Entregues:  <br>
+Número da Sprint: 4 <br>
+Data de Início:  15/09/2020 <br>
+Data de Término: 21/09/2020 <br>
 
 ## Objetivos
 
 - Continuação do treinamento de ReactJS
-- Definir Escopo do projeto
-- Finalização do documento de Visão
-- Elaboração da EAP
-- Elaboração do TAP
-- Elicitação do Requisitos
+- Reunião com Partes Interessadas para definir Escopo do projeto
+- Elaboração do documento de Arquitetura
+- Revisão da EAP
+- Revisão do Backlog, Histórias de Usuário e Priorização
 - Atualizar Wiki com rastreamento das sprints, plano de comunicação, artefatos de organização do Time
-- Mapeamento de artefatos pendentes
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
-- [Reunião Review da Sprint 3 e Planejamento Sprint 4](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
+- [Reunião Review da Sprint 4 e Planejamento Sprint 5](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
 
-- [Checklist de Artefatos](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/29)
+- [Reunião de Acompanhamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/65)
 
 ## Resultados
 

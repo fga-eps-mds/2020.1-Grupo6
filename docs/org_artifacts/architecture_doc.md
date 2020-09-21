@@ -6,6 +6,7 @@
 |:--------:|:--------:|:----------------------:|:------------------:|
 | 14/09/2020 | 0.1 | Criação do Documento e Adição do template e do sumário | Guilherme Aguiar |
 | 18/09/2020 | 0.2 | Criação da visão de casos de uso | Bruno Nunes |
+| 21/09/2020 | 0.3 | Criação das Metas e Restrições Arquiteturais | Tomás Veloso |
 
 ## Sumário
 
@@ -107,10 +108,39 @@ x
 
 ## 3. Restrições e Metas Arquiteturais
 
-Requisitos e restrições do sistema que influenciam na arquitetura:
+A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
 
-* x
-* y
+### 3.1 Usabilidade
+
+Aplicação Web (site), com interface de um dashboad de fácil entendimento de suas informações e dados visuais intuitivos. Responsivo para se adequar as diferentes formas de acessá-lo.
+
+### 3.2 Manutenibilidade
+
+Um software com alta capacidade de ser modificado para adequar-se a novos requisitos solicitado.
+
+### 3.3 Escalabilidade
+
+Capaz de suportar o crescimento no número de usuários que utilizarem a plataforma.
+
+### 3.4 Portabilidade
+
+Poderá ter acesso à aplicação web, com acesso a internet, por qualquer navegador web.
+
+### 3.5 Segurança
+
+O acesso à aplicação será seguro ao usuário, sendo uma ferramenta confiável para o acesso.
+
+### 3.6 Restrições de design
+
+As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento de software. A elaboração do projeto será realizada utilizando JavaScript, ReactJS, HTML, CSS, Kibana, Logstash, Docker e PostgreSQL.
+
+### 3.7 Restrições operacionais
+
+Para as restrições operacionais referentes à aplicação, está o fato que a tecnologia desenvolvida para sua operação necessita da interação com um servidor disponibilizado por terceiros.
+
+### 3.8 Restrições compatibilidade
+
+A tecnologia será desenvolvida em parceria com outro desenvolvimento de software, portanto, o software devem está de acordo com outro projeto para que a interação entre as tecnologias funcionem corretamente, sem problemas de compatibilidade entre elas.
 
 ## 4. Visão de Casos de Uso
 

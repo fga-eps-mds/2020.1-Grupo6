@@ -141,19 +141,21 @@ A arquitetura deste projeto consiste na já estabelecida "Model-View-Controller"
 
 O "model" consiste de 6 classes que definem o que será armazenado no banco de dados.
 
-[![mvc](img/uml_model.png)](img/uml_model.png)
+[![uml_model](img/uml_model.png)](img/uml_model.png)
 
 ### 5.3 View
 
 A "view" trata dos elementos visuais do projeto. A sua implementação é em React.js, e a estrutura de pastas é da forma:
 
-[![mvc](img/front_end_package.png)](img/front_end_package.png)
+[![front_end_package](img/front_end_package.png)](img/front_end_package.png)
 
 A pasta App contém a aplicação geral, e utiliza componentes da pasta component-name para executar o app.
 
 ### 5.4 Controller
 
+A "controller" faz o gancho entre a a "view" e a "model". Nela temos definidas as rotas para as páginas do aplicativo:
 
+[![routes](img/routes.png)](img/routes.png)
 
 ## 6. Visão de Implementação
 

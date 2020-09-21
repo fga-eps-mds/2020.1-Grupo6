@@ -131,6 +131,29 @@ Requisitos e restrições do sistema que influenciam na arquitetura:
 
 ## 5. Visão Lógica
 
+### 5.1 Visão geral
+
+A arquitetura deste projeto consiste na já estabelecida "Model-View-Controller"(MVC), sendo a "model" responsável pelo banco de dados, a "view" responsável pela interface do software com o usuário, e a "controller" responsável por controlar o aplicativo, fazendo a conexão entre a "view" e a "model".
+
+[![mvc](img/mvc.png)](img/mvc.png)
+
+### 5.2 Model
+
+O "model" consiste de 6 classes que definem o que será armazenado no banco de dados.
+
+[![mvc](img/uml_model.png)](img/uml_model.png)
+
+### 5.3 View
+
+A "view" trata dos elementos visuais do projeto. A sua implementação é em React.js, e a estrutura de pastas é da forma:
+
+[![mvc](img/front_end_package.png)](img/front_end_package.png)
+
+A pasta App contém a aplicação geral, e utiliza componentes da pasta component-name para executar o app.
+
+### 5.4 Controller
+
+
 
 ## 6. Visão de Implementação
 

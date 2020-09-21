@@ -11,9 +11,6 @@
 Número da Sprint: 1 <br>
 Data de Início:  25/08/2020 <br>
 Data de Término: 31/08/2020 <br>
-Pontos Planejados:  <br>
-Pontos Entregues:  <br>
-
 ## Objetivos
 
 - Definir tema do projeto e definição do escopo

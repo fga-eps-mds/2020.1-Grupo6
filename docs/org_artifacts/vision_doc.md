@@ -13,7 +13,8 @@
 |14/09/2020|   0.8   | Atualização do tópico Descrição da Parte Interessada e do Usuário    |  Hércules  |
 |14/09/2020|   0.9   | Atualização do tópico Posicionamento    |  Juliana  |
 |18/09/2020|   1.0   | Revisão    |  Mateus Augusto  |
-|18/09/2020|   1.1   | Atualização do item 4.2    |  Bruno  |
+|18/09/2020|   1.1   | Atualização do item 4.2    |  Bruno  |\
+|21/09/2020|   1.2   | Atualização dos recursos    |  Vitor  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -233,7 +234,6 @@ A aplicação deve permitir que o usuário seja capaz de criar, visualizar, ler 
 
 Os usuários do sistema de gestão devem ser capazes de criar e excluir benefícios. Os usuários do aplicativo comprarão estes benefícios atravez de ponto adiquiridos por participação e engajamento. Os benefícios devem possuir titulo, nome da empresa e custo de pontos.
 
-
 ####	5.4 Disponibilização de Relatórios.
 Deve-se permitir que os usuários visualizem relatórios de quatro classes, listados abaixo
 #####	5.4.1 Relatórios de Localização
@@ -248,6 +248,10 @@ Os usuários do sistema devem conseguir visualizar com clareza as estatísticas 
 #### 5.5 Gerenciameto de Anúncios
 
 O usuário deve ser capaz de criar e excluir anúncios que serão exibidos para os usuários do aplicativo.
+
+#### 5.6 Gestão de Posts
+
+O sistema deve permitir que o gestor atenda aos posts gerados pela comunidade, além do CRUD dos posts e filtro de conteúdo manual de postagens anônimas.
 
 ###	6: Restrições
 As restrições são todos os fatores que limitam a execução e o funcionamento da aplicabilidade, podendo afetar de forma direta ou indiretamente ao projeto. Porém, não é possível listar todas as restrições do projeto.

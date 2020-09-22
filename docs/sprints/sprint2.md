@@ -11,8 +11,6 @@
 Número da Sprint: 2 <br>
 Data de Início:  01/09/2020 <br>
 Data de Término: 07/09/2020 <br>
-Pontos Planejados:  <br>
-Pontos Entregues:  <br>
 
 ## Objetivos
 

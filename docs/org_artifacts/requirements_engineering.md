@@ -94,56 +94,27 @@ RNF002| A aplicação deve ter boa usabilidade e tempo rápido de resposta.
 
 ### 3.1 <a name="3_1"> Épicos</a>
 
-#### EP01: Documentação do Projeto
-Documentação cobrada pela disciplina desenvolvimento no decorrer do projeto. Envolve artefatos de processos de gestão de projeto como PMBOK, RUP e SCRUM.
-
-#### EP02: Login & Navegação
+#### EP01: Sistema de contas
 Funcionalidades da aplicação ligadas á login & navegação.
 
-#### EP03: Relatórios & Visualizações
-Funcionalidades da aplicação ligadas á aba de relatórios e as visualizações, que são carregadas pelos dados do aplicativo que está sendo desenvolvido pelo outro grupo de MDS.
+#### EP02: Dados
+Funcionalidades da aplicação ligadas ás visualizações de dados existente no projeto.
 
-#### EP04: Gestão de elementos do App
-<p align = "justify"> Funcionalidades da aplicação ligadas à elementos do aplicativo mobile que está sendo desenvolvido pelo outro grupo de MDS, essas funcionalidades estão ligadas às abas de notícias, benefícios e anúncios. </p>
+#### EP03: Notícias
+Funcionalidades da aplicação ligadas ao gerenciamento de notícias e suas funcionalidades.
+
+#### EP04: Benefícios
+Funcionalidades da aplicação ligadas ao gerenciamento de benefícios e suas funcionalidades.
+
+#### EP05: Anúncios
+Funcionalidades da aplicação ligadas ao gerenciamento de anúncios e suas funcionalidades.
+
+#### EP06: App
+Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa navegação no app.
 
 ### 3.2 <a name="3_2"> Histórias de Usuário</a>
 
-| Épico | ID | Eu, como | Desejo | Para que eu possa |
--|-|-|-|-
-EP01 | US001 | Membro da equipe | Elaborar o Documento de visão | Ter uma noção melhor do produto.
-EP01 | US002 | Membro da equipe | Elaborar o Planejamento/Comunicação Interna e Externa | Melhorara a organização da equipe.
-EP01 | US003 | Membro da equipe | Elaborar o Documento de Arquitetura do Projeto | Definir a arquitetura da aplicação.
-EP01 | US004 | Membro da equipe | Especificar as historias de usuários | Dividir as tarefas de implementação da aplicação.
-EP01 | US005 | Membro da equipe | Configurar o reposítorio | Se adequar aos padrões da comunidade open source.
-EP01 | US006 | Membro da equipe | Protótipo de baixa e alta fidelidade | Ter uma noção mais concreta das telas da aplicação.
-EP01 | US007 | Membro da equipe | Elaborar o documento Roadmap | Visualizar as etapas do projeto por tempo.
-EP01 | US008 | Membro da equipe | Elaborar o documento EAP | Dividir o projeto em partes menores, mais gerenciáveis.
-EP01 | US009 | Membro da equipe | Elaborar o documento EVM | Quantificar o projeto financeiramente.
-EP02 | US010 | Usuário | Realizar o login | Acessar as funcionalidades da aplicação.
-EP02 | US011 | Usuário | Navegar pelo menu lateral | Transitar pelas diferentes páginas da aplicação.
-EP03 | US012 | Usuário | Visualizar a seção de relatório geral | Ter um entendimento dos dados sem filtros
-EP03 | US013 | Usuário | Visualizar a seção de relatório por área | Ter um entendimento dos dados por área
-EP03 | US016 | Usuário | Visualizar a seção de relatório diário | Ter um entendimento dos dados por dia
-EP03 | US018 | Usuário | Visualizar a seção de relatório por localização | Ter um entendimento dos dados por localização
-EP03 | US019 | Usuário | Visualizar os posts mais votados | Saber quais são os posts mais populares
-EP03 | US020 | Usuário | Visualizar as categorias mais votadas| Saber quais são as categorias mais populares
-EP03 | US021 | Usuário | Visualizar o número de posts por intervalos de tempo | Entender a distribuição dos posts em um intervalo
-EP03 | US022 | Usuário | Visualizar o número de posts por categoria | Entender a distribuição de dados por categoria
-EP03 | US023 | Usuário | Visualizar o número de posts criados | Ver o total de posts criados na aplicação
-EP03 | US024 | Usuário | Visualizar o número de posts criados anonimamente | Ver o total de posts criados anonimamente na aplicação
-EP03 | US025 | Usuário | Visualizar o número de posts resolvidos | Entender se o App está contribuindo para um ambiente melhor
-EP03 | US026 | Usuário | Visualizar o número de novos usuários | Entender melhor o acolhimento do app pela comunidade
-EP03 | US027 | Usuário | Visualizar o uso do app por intervalo de tempo | Entender em quais momentos o app está sendo mais usado
-EP03 | US028 | Usuário | Visualizar os posts com ocorrências semelhantes | Entender que tipo de ocorrências são mais registradas.
-EP04 | US029 | Usuário | Criar notícias | Compartilhar informações com os usuários do app.
-EP04 | US030 | Usuário | Editar notícias | Corrigir informações na notícia.
-EP04 | US031 | Usuário | Excluir notícias | Retirar a nóticia do app. 
-EP04 | US032 | Usuário | Listar notícias | Ter uma visão geral de todas as notícias. 
-EP04 | US033 | Usuário | Criar benefícios | Apresentar benefícios aos usuários do app.
-EP04 | US034 | Usuário | Excluir benefícios | Retirar benefícios do app.
-EP04 | US035 | Usuário | Criar Anúncios | Mostrar esses anúncios aos usuários do app.
-EP04 | US036 | Usuário | Excluir Anúncios | Retirar os anúncios do app.
-EP01 | US037 | Membro da equipe | Elaborar o Termo de Abertura do Projeto | Entender objetivos e benefícios do projeto
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIhwtJk-kRXEPWQFnGBw6V3KFDq9TuldGQ_liFcLGGcEK9KsnhaRRFCi_wKIeNCXkF27gg07pZiRql/pubhtml?gid=0&single=true" width="150px" height="500px"></iframe>
 
 
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>

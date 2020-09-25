@@ -212,8 +212,6 @@ A tecnologia será desenvolvida em parceria com outro desenvolvimento de softwar
 
 ## 5. Visão Lógica
 
-### 5.1 NodeJS
-
 #### 5.1.1 Visão Geral
 
 #### 5.1.2 Diagrama de Pacotes

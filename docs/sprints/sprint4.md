@@ -7,10 +7,34 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |21/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
 |21/09/2020|   0.2    | Atualização do Documento        |   Mateus Sousa   |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
+
 
 Número da Sprint: 4 <br>
 Data de Início:  15/09/2020 <br>
 Data de Término: 21/09/2020 <br>
+
+## Estrutura de Papéis na Equipe
+
+### Scrum Master:
+- Mateus Augusto
+
+### Arquiteto:
+- Guilherme
+
+### Product Owner:
+- Gabriel
+- Mateus Augusto
+
+### Time de Desenvolvimento
+
+- Hércules
+- Ariel:
+- Bruno:
+- Tomás:
+- Vitor:
+- Juliana:
+
 
 ## Objetivos
 
@@ -20,6 +44,8 @@ Data de Término: 21/09/2020 <br>
 - Revisão da EAP
 - Revisão do Backlog, Histórias de Usuário e Priorização
 - Atualizar Wiki com rastreamento das sprints, plano de comunicação
+- Sincronizar Definição dos dados que vão ser trafegados pelas aplicações VCG e VCU
+- Confirmação com o Cliente sobre questões do Projeto
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
@@ -43,6 +69,8 @@ Data de Término: 21/09/2020 <br>
 
 - Documento de Arquitetura não finalizado
 - EAP aguardando Revisão
+- Definição dos dados que vão ser trafegados pelas aplicações VCG e VCU ainda está sendo discutido
+- Aguardando a resposta do cliente sobre as categorias de possíveis problemas na Faculdade
 
 ## Relato do Scrum Master
 

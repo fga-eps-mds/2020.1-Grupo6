@@ -5,7 +5,8 @@
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|21/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
+|24/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
 
 Número da Sprint: 5 <br>
 Data de Início:  22/09/2020 <br>
@@ -16,14 +17,20 @@ Data de Término: 28/09/2020 <br>
 ### Scrum Master:
 - Mateus Augusto
 
+### Product Owner
+- Gabriel
+
 ### Arquiteto:
 - Guilherme
 
-### Product Owner:
-- Gabriel
-- Mateus Augusto
+### DevOps:
+- Guilherme
 
-### Pareamento
+### Quality Assurence:
+- Gabriel
+
+
+### Time de Desenvolvimento
 
 - Hércules e Ariel:
   - [Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
@@ -57,6 +64,10 @@ Pontos Planejados: 21<br>
 - [Reunião de Acompanhamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/65)
 
 ## Resultados
+
+**Pontos Entregues**
+
+-
 
 **Tarefas Cocluídas** 
 

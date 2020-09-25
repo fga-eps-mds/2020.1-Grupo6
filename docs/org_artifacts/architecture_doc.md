@@ -32,9 +32,7 @@
 [4.2 Diagrama UC](#42-diagrama-uc) <br>
 [4.3 Descrição dos Casos de Uso](#43-descricao-dos-casos-de-uso) <br>
 [5. Visão Lógica](#5-visao-logica) <br>
-[6. Visão de Implementação](#6-visao-de-implementacao) <br>
-[6.1 Modelagem de dados](#6.1-modelagem-de-dados) <br>
-[6.2 Diagramas de Pacotes](#6.2-diagramas-de-pacotes) <br>
+
 
 
 ## 1. Introdução
@@ -66,7 +64,10 @@ As Definições, Acrônimos e Abreviações para entendimento do documento são:
 
 As referências aplicáveis são:
 
-* x
+* [https://sce.uhcl.edu/helm/RationalUnifiedProcess/webtmpl/templates/a_and_d/rup_sad.htm#1.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Introduction](https://sce.uhcl.edu/helm/RationalUnifiedProcess/webtmpl/templates/a_and_d/rup_sad.htm#1.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Introduction)
+
+
+* [https://ads-unigrade-2019-1.github.io/Wiki/dinamica06/DAS/](https://ads-unigrade-2019-1.github.io/Wiki/dinamica06/DAS/)
 
 ### 1.5 Visão Geral
 
@@ -79,13 +80,13 @@ Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistem
 
 ## 2. Representação Arquitetural
 
-[![architecture_diagram](img/architecture_diagram.png)](img/architecture_diagram.png)
+[![architecture_diagram](img/architecture_diagram_1.jpg)](img/architecture_diagram_1.jpg)
 
 O sistema é composto de três frentes:
 
-* <p align='justify'>A frente da aplicação, será feita com em Javascript com a biblioteca **ReactJS**, que oferece ao usuário gestor as opções de interação com a plataforma feita da outra turma de MDS (VCU), tais como resolver uma postagem, relatórios sobre a plataforma e a criação de notícias, benefícios e anúncios. Para os relatórios iremos utilizar o **Kibana** para a criação de visualizações, inserindo essas visualizações no React por meio de Iframes.</p>
-* <p align='justify'> A frente das API's, também utilizaremos Javascript, mas no server usaremos o **NodeJS**. Baseando-se na arquitetura de microserviços, é composta por 6 serviços (pacotes), cada um com suas próprias responsabilidades e deveres. </p>
-* <p align='justify'> A frente de dados, onde teremos um banco de dados **PostgreSQL**, hospedado no **Heroku**, onde serão persistidos os dados que iremos receber do VCU e onde iremos salvar os artefatos criados na nossa plataforma. Também contara com um banco de dados orientado a documentos chamado **elastic search**, onde os dados do postgres serão transformados por meio do plugin **logstash** para buscas de dados mais rápidas.</p>
+* <p align='justify'>A frente da aplicação, será feita com em Javascript com a biblioteca **ReactJS**, que oferece ao usuário gestor as opções de interação com a plataforma feita da outra turma de MDS (VCU), tais como resolver uma postagem, relatórios sobre a plataforma e a criação de notícias e benefícios.</p>
+* <p align='justify'> A frente das API's, também utilizaremos Javascript, mas no server usaremos o **NodeJS**. Baseando-se na arquitetura de microserviços, é composta por 5 serviços (pacotes), cada um com suas próprias responsabilidades e deveres. </p>
+* <p align='justify'> A frente de dados, onde teremos um banco de dados **PostgreSQL**, hospedado na infraestrutura da Unb, onde serão persistidos os dados que iremos receber do VCU e onde iremos salvar os artefatos criados na nossa plataforma. Já no ambiente de desenvolvimento, usaremos o postgres localmente com o Docker</p>
 
 
 
@@ -93,22 +94,48 @@ Cada frente possui sua própria arquitetura interna.
 
 ### 2.1 Plataforma ReactJS
 
-x
+[![reactjs](img/reactjs_1.png)](img/reactjs_1.png)
+
+
+<p align='justify'> Em poucas palavras, o React é uma biblioteca JavaScript para criação de interfaces para o usuário, desenvolvida e mantida pelo Facebook, sua primeira release saiu em 2013. É  uma lib open-source com mais de 1k de colaboradores ativos no GitHub.</p>
+
+<p align='justify'>Ela está presente no nosso dia-a-dia mais do que você imagina, em empresas grandes como Facebook, Instagram, AirBnB, NFL, Yahoo e muito mais. O mercado para essa biblioteca só cresce.</p>
+
 
 ### 2.2 API
-x
-#### 2.2.1 User
-#### 2.2.2 Resolution
-#### 2.2.3 Reports
-#### 2.2.4 News
-#### 2.2.5 Benefits
-#### 2.2.6 Adverts
+
+[![architecture_diagram](img/architecture_diagram_2.jpg)](img/architecture_diagram_2.jpg)
+
+Os microserviços da aplicação vão seguir o mesmo padrão, será usado o Nodejs para a lógica no back-end, seguindo a o padrão arquitetural MVC, onde a camada da View fica como o ReactJS. O padrão de organização dos elementos arquiteturais está representado no diagrama acima. 
 
 ### 2.3 Banco de dados
 
+PostgreSQL é um sistema de banco de dados relacional de objeto de código aberto com mais de 30 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho. O banco é divido em schemas, cada microserviço irá interagir com um único esquema, o que contribui para a independência dos microserviços e a diminuição do acoplamento. A seguir serão representadas o diagrama dos esquemas.
+
+#### 2.3.1  Postagem
+
+[![reactjs](img/bd_post_1.png)](img/bd_post_1.png)
+
+#### 2.3.1  Usuário
+
+[![reactjs](img/bd_user_1.png)](img/bd_user_1.png)
+
+#### 2.3.1  Notícias
+
+[![reactjs](img/bd_news_1.png)](img/bd_news_1.png)
+
+#### 2.3.1  Benefícios
+
+[![reactjs](img/bd_benefit_1.png)](img/bd_benefit_1.png)
+
+
+
+
+
+
 ## 3. Restrições e Metas Arquiteturais
 
-A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
+<p align='justify'>A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.</p>
 
 ### 3.1 Usabilidade
 
@@ -185,35 +212,16 @@ A tecnologia será desenvolvida em parceria com outro desenvolvimento de softwar
 
 ## 5. Visão Lógica
 
-### 5.1 Visão geral
+### 5.1 NodeJS
 
-A arquitetura deste projeto consiste na já estabelecida "Model-View-Controller"(MVC), sendo a "model" responsável pelo banco de dados, a "view" responsável pela interface do software com o usuário, e a "controller" responsável por controlar o aplicativo, fazendo a conexão entre a "view" e a "model".
+#### 5.1.1 Visão Geral
 
-[![mvc](img/mvc.png)](img/mvc.png)
+#### 5.1.2 Diagrama de Pacotes
 
-### 5.2 Model
+#### 5.1.2 Diagrama de Classes
 
-O "model" consiste de 6 classes que definem o que será armazenado no banco de dados.
+### 5.2 ReactJS
 
-[![uml_model](img/uml_model.png)](img/uml_model.png)
+#### 5.2.1 Visão Geral
 
-### 5.3 View
-
-A "view" trata dos elementos visuais do projeto. A sua implementação é em React.js, e a estrutura de pastas é da forma:
-
-[![front_end_package](img/front_end_package.png)](img/front_end_package.png)
-
-A pasta App contém a aplicação geral, e utiliza componentes da pasta component-name para executar o app.
-
-### 5.4 Controller
-
-A "controller" faz o gancho entre a a "view" e a "model". Nela temos definidas as rotas para as páginas do aplicativo:
-
-[![routes](img/routes.png)](img/routes.png)
-
-## 6. Visão de Implementação
-
-### 6.1 Modelagem de dados
-
-### 6.2 Diagramas de Pacotes
-
+#### 5.2.2 Diagrama de Pacotes

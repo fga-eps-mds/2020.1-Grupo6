@@ -201,7 +201,7 @@ O "model" consiste de 6 classes que definem o que será armazenado no banco de d
 
 A "view" trata dos elementos visuais do projeto. A sua implementação é em React.js, e a estrutura de pastas é da forma:
 
-[![front_end_package](img/front_end_package.png)](img/front_end_package.png)
+[![front_end_packages](img/front_end_packages.png)](img/front_end_packages.png)
 
 A pasta App contém a aplicação geral, e utiliza componentes da pasta component-name para executar o app.
 

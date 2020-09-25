@@ -6,6 +6,7 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |21/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
+|21/09/2020|   0.2    | Atualização do Documento        |   Mateus Sousa   |
 
 Número da Sprint: 4 <br>
 Data de Início:  15/09/2020 <br>
@@ -18,7 +19,7 @@ Data de Término: 21/09/2020 <br>
 - Elaboração do documento de Arquitetura
 - Revisão da EAP
 - Revisão do Backlog, Histórias de Usuário e Priorização
-- Atualizar Wiki com rastreamento das sprints, plano de comunicação, artefatos de organização do Time
+- Atualizar Wiki com rastreamento das sprints, plano de comunicação
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
@@ -30,12 +31,19 @@ Data de Término: 21/09/2020 <br>
 
 **Tarefas Cocluídas** 
 
-- ...
+- Finalização do Treinamento: [Issue #31](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/31)
+
+- Foi realizada uma reunião com os Principais stackholders: [Issue #55](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/55)
+
+- Revisão do Backlog, Histórias de Usuário e Priorização [Issue #64](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/64)
+
+- Atualizar Wiki com rastreamento das sprints, plano de comunicação [Issue #40](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/40)
 
 **Dívidas**
 
-- ...
+- Documento de Arquitetura não finalizado
+- EAP aguardando Revisão
 
 ## Relato do Scrum Master
 
-Nesta sprint ...
+Nesta sprint foi realizada a reunião com as principais partes interessadas do porjeto, Fernando diretor do DAF, a equipe vencedora do Hackaton, idealizadores do projeto, e a equipe do parque tecnológico. Pudemos validar nossa visãoo do produto e sanar algumas dúvidas. A partir disso foi possivel finalizar a definição do Backlog

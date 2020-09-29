@@ -6,19 +6,16 @@
 | ---------- | ---------- | --------------------------- | -------------- |
 | 18/03/2020 | 0.1        | Criação                     | Guilherme Gabriel   |
 | 19/03/2020 | 0.2        | Alteração de layout e Revisão                  |  Guilherme, Gabriel e Mateus  |
-| 22/03/2020 | 0.2        | Alteração de layout e Revisão  |  Guilherme, Gabriel e Mateus  |
+| 22/03/2020 | 0.3        | Alteração de layout e Revisão  |  Guilherme, Gabriel e Mateus  |
+| 28/09/2020 | 0.4        | Elaboração de Novo RoadMap  |  Mateus  |
 
-### Roadmap de Produto v 0.1
+### Versões Anteriores 
 
-![RmP0.1](product/product_roadmap_v0.png)
+[Versões Anteriores](roadmap_old.md)
 
-### Roadmap de Produto v 0.2
+### Versão Atual do Roadmap de Produto 
 
-![RmP0.1](product/product_roadmap_v1.jpg)
 
-### Roadmap de Produto v 0.3
-
-![RmP0.1](product/product_roadmap_v2.jpg)
 
 ## Roadmap de Papéis
 
@@ -26,11 +23,12 @@
 | ---------- | ---------- | --------------------------- | -------------- |
 | 19/03/2020 | 0.1        | Criação e Revisão                  |  Guilherme, Gabriel e Mateus  |
 | 20/03/2020 | 0.2        | Alteração de layout e correção, adição do papel team developer                  |  Gabriel e Mateus  |
+| 28/09/2020 | 0.4        | Elaboração de Novo RoadMap  |  Mateus  |
 
-### Roadmap de pápeis v 0.1
+### Versões Anteriores 
 
-![RmP0.1](roles/roles_roadmap_v1.jpg)
+[Versões Anteriores](roadmap_roles_old.md)
 
-### Roadmap de pápeis v 0.2
+### Versão Atual do Roadmap de Papéis 
 
-![RmP0.1](roles/roles_roadmap_v2.jpg)
+![Roadmap de Papéis](roles/roadmap_roles.png)

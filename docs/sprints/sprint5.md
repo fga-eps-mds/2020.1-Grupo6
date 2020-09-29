@@ -32,19 +32,14 @@ Data de Término: 28/09/2020 <br>
 
 ### Time de Desenvolvimento
 
-- Hércules e Ariel:
-  - [Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
-  - [Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
+- Pair Programing: Hércules e Ariel
+  
 
-- Bruno e Tomás:
-  - [Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
-  - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
+- Pair Programing: Bruno e Tomás
+  
 
-- Vitor e Juliana:
-  - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
-  - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
-
-Pontos Planejados: 21<br>
+- Pair Programing: Vitor e Juliana
+ 
 
 ## Objetivos
 
@@ -52,22 +47,31 @@ Pontos Planejados: 21<br>
 - Revisão da EAP
 - Atualizar Roadmap
 - Elaborar Cronograma
-- Revisar Qualidade dos Artefatos do Projeto
-- Planejar Monitoramento de Qualidade do projeto
-- Entregar User Storys
-- Elaborar Protótipo
+- Planejar Monitoramento de Qualidade do Projeto
+- Entregar User Storys planejadas na Sprint
+  - [Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
+  - [Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
+  - [Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
+  - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
+   - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
+  - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
+- Comunicação e tomada de decisão com time VCU
+- Comunicação com Cliente do projeto requisitando algumas informações do projeto
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
-- [Reunião Review da Sprint 5 e Planejamento Sprint 6](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
+- [Reunião Review da Sprint 5 e Planejamento Sprint 6](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/88)
 
 - [Reunião de Acompanhamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/65)
 
+- [Reunião de Planejamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/84)
+
 ## Resultados
 
-**Pontos Entregues**
+**Pontos da Sprint**
 
--
+- Pontos Planejados: 21<br>
+- Pontos Entregues: xx<br>
 
 **Tarefas Cocluídas** 
 
@@ -75,7 +79,8 @@ Pontos Planejados: 21<br>
 
 **Dívidas**
 
-- 
+- Cominicação e tomada de decisão com time VCU: [Issue 94 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/94) e [Issue 95 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/95)
+- Comunicação realizada e respondida pelo Cliente do projeto. Além disso o Time VCU foi comunicado sobre essas novas informações: [Feedback com o Cliente](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/108)
 
 ## Relato do Scrum Master
 

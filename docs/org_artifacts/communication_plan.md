@@ -15,7 +15,7 @@ Aqui são apresentadas as ferramentas usadas para a comunicação entre o time d
 
 Nome | Função 
 --|--
-Friday | Daily Meetings
+Telegram | Daily Meetings
 GitHub | Versionamento de código, Comunicação sobre o progresso de resolução de Issues
 Wiki | Versionamenta da documentação
 Google Drive | Versionamento da documentação

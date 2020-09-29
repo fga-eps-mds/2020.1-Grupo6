@@ -27,11 +27,11 @@ Data de Término: 31/08/2020 <br>
 ### Time de Desenvolvimento
 
 - Hércules
-- Ariel:
-- Bruno:
-- Tomás:
-- Vitor:
-- Juliana:
+- Ariel
+- Bruno
+- Tomás
+- Vitor
+- Juliana
 
 ## Objetivos
 

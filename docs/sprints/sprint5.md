@@ -6,7 +6,8 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |24/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
-|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
+|25/09/2020|   0.2   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
+|25/09/2020|   0.3   | Finalização do Relatório de Sprint  |   Mateus Sousa  |
 
 Número da Sprint: 5 <br>
 Data de Início:  22/09/2020 <br>
@@ -57,6 +58,7 @@ Data de Término: 28/09/2020 <br>
   - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
 - Comunicação e tomada de decisão com time VCU
 - Comunicação com Cliente do projeto requisitando algumas informações do projeto
+- Integração Contínua do Back-end
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
@@ -75,9 +77,9 @@ Data de Término: 28/09/2020 <br>
 
 **Tarefas Cocluídas** 
 
-- Cominicação e tomada de decisão com time VCU: [Issue 94 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/94) e [Issue 95 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/95)
+- Cominicação e tomada de decisão com time VCU: [Issue 85 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/85) 
 - Comunicação realizada e respondida pelo Cliente do projeto. Além disso o Time VCU foi comunicado sobre essas novas informações: [Feedback com o Cliente](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/108)
-
+- Integração Contínua do Back-end  [Issue 90](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/90)
 
 **Dívidas**
 - Terminar o documento de Arquitetura
@@ -94,4 +96,4 @@ Data de Término: 28/09/2020 <br>
 
 ## Relato do Scrum Master
 
-Nesta sprint Tivemos muitas dívidas técnicas tanto da gestão do projeto quanto da equipe de desenvolvimento. Isso se deve ao fato de ser a primeira sprint de desenvolvimento do projeto e também da quantidade de artefatos a serem refatorados e aqueles que ainda não foram elaborado por conta das problemáticas do projeto.
+Nesta sprint tivemos muitas dívidas técnicas tanto da gestão do projeto quanto da equipe de desenvolvimento. Isso se deve ao fato de ser a primeira sprint de desenvolvimento do projeto e também da quantidade de artefatos a serem refatorados, além daqueles que ainda não foram elaborado por conta das problemáticas no início do projeto.

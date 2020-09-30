@@ -53,7 +53,7 @@ Data de Término: 28/09/2020 <br>
   - [Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
   - [Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
   - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
-   - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
+  - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
   - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
 - Comunicação e tomada de decisão com time VCU
 - Comunicação com Cliente do projeto requisitando algumas informações do projeto
@@ -71,17 +71,27 @@ Data de Término: 28/09/2020 <br>
 **Pontos da Sprint**
 
 - Pontos Planejados: 21<br>
-- Pontos Entregues: xx<br>
+- Pontos Entregues: 00<br>
 
 **Tarefas Cocluídas** 
-
--
-
-**Dívidas**
 
 - Cominicação e tomada de decisão com time VCU: [Issue 94 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/94) e [Issue 95 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/95)
 - Comunicação realizada e respondida pelo Cliente do projeto. Além disso o Time VCU foi comunicado sobre essas novas informações: [Feedback com o Cliente](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/108)
 
+
+**Dívidas**
+- Terminar o documento de Arquitetura
+- Revisão da EAP
+- Atualizar Roadmap
+- Elaborar Cronograma
+- Entregar User Storys planejadas na Sprint
+  - [Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
+  - [Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
+  - [Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
+  - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
+  - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
+  - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
+
 ## Relato do Scrum Master
 
-Nesta sprint ...
+Nesta sprint Tivemos muitas dívidas técnicas tanto da gestão do projeto quanto da equipe de desenvolvimento. Isso se deve ao fato de ser a primeira sprint de desenvolvimento do projeto e também da quantidade de artefatos a serem refatorados e aqueles que ainda não foram elaborado por conta das problemáticas do projeto.

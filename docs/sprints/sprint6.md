@@ -31,12 +31,13 @@ Data de Término: 05/10/2020 <br>
 
 ### Time de Desenvolvimento
 
-- Hércules e Ariel:
-  - 
-- Bruno e Tomás:
-  - 
+- Pair Programing: Bruno e Ariel
+  
 
-- Vitor e Juliana:
+- Pair Programing: Vitor e Tomás
+  
+
+- Pair Programing: Hércules e Juliana
   - 
 
 Pontos Planejados: Xx<br>

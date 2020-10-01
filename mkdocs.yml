@@ -1,14 +1,38 @@
-site_name: GRUPO 6 MDS/EPS
+site_name: Vamos Cuidar - Gestão
 
 repo_name: 'fga-eps-mds/2020.1-Grupo6'
 repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
 
 nav:
   - Documentação do Projeto: 
-    - Sobre: sobre.md
-    - Roadmap: Roadmaps/roadmap.md
-    - Documento de Visão: doc-visao.md
+    - Sobre: index.md
+    - Roadmap: roadmaps/roadmap.md
+    - Documento de Visão: org_artifacts/vision_doc.md
+    - Documento de Arquitetura: org_artifacts/architecture_doc.md
+    - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
+    - Termo de Abertura do Projeto: org_artifacts/tap.md
     - Artefatos Organizacionais:
-      - Documento de Gestão e Configuração de Software: artefatos_organizacionais/DGC.md
+      - Políticas de Branch: policies/branches.md
+      - Políticas de Commit: policies/commits.md
+      - Políticas de Pastas e Arquivos: policies/files_and_folders.md
+      - Políticas de Issues: policies/issues.md
+      - Políticas de Pull Requests: policies/pull_requests.md
+    - Sprints:
+      - Estrutura de Sprint: sprints/est_sprint.md
+      - Sprint 0: sprints/sprint0.md
+      - Sprint 1: sprints/sprint1.md
+      - Sprint 2: sprints/sprint2.md
+      - Sprint 3: sprints/sprint3.md
+      - Sprint 4: sprints/sprint4.md
+    - Gestão do Projeto:
+      - Monitoramento do Time: org_artifacts/team_monitoring.md
+      - Plano de Comunicação: org_artifacts/communication_plan.md
 
-theme: readthedocs
+
+theme: 
+  name: material
+  language: 'pt'
+  palette:
+    primary: 'green'
+    accent: 'green'
+

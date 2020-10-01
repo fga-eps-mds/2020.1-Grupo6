@@ -10,15 +10,15 @@
 
 ### Roadmap de Produto v 0.1
 
-![RmP0.1](Produto/Product_Roadmap_v0.png)
+![RmP0.1](product/product_roadmap_v0.png)
 
 ### Roadmap de Produto v 0.2
 
-![RmP0.1](Produto/Product_Roadmap_v1.jpg)
+![RmP0.1](product/product_roadmap_v1.jpg)
 
 ### Roadmap de Produto v 0.3
 
-![RmP0.1](Produto/Product_Roadmap_v2.jpg)
+![RmP0.1](product/product_roadmap_v2.jpg)
 
 ## Roadmap de Papéis
 
@@ -29,8 +29,8 @@
 
 ### Roadmap de pápeis v 0.1
 
-![RmP0.1](Papeis/Roles_Roadmap_v1.jpg)
+![RmP0.1](roles/roles_roadmap_v1.jpg)
 
 ### Roadmap de pápeis v 0.2
 
-![RmP0.1](Papeis/Roles_Roadmap_v2.jpg)
+![RmP0.1](roles/roles_roadmap_v2.jpg)

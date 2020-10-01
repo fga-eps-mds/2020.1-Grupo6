@@ -9,4 +9,3 @@
 - Issues que foram resolvidas no PR.
 
 Obrigado!
-

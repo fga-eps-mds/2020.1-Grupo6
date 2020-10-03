@@ -6,12 +6,12 @@ repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo6'
 nav:
   - Documentação do Projeto: 
     - Sobre: index.md
-    - Roadmap: roadmaps/roadmap.md
+    - Visão Geral do Projeto: roadmaps/roadmap.md
     - Documento de Visão: org_artifacts/vision_doc.md
     - Documento de Arquitetura: org_artifacts/architecture_doc.md
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Termo de Abertura do Projeto: org_artifacts/tap.md
-    - Artefatos Organizacionais:
+    - Políticas do Repositório:
       - Políticas de Branch: policies/branches.md
       - Políticas de Commit: policies/commits.md
       - Políticas de Pastas e Arquivos: policies/files_and_folders.md
@@ -29,6 +29,7 @@ nav:
     - Gestão do Projeto:
       - Monitoramento do Time: org_artifacts/team_monitoring.md
       - Plano de Comunicação: org_artifacts/communication_plan.md
+      - Plano de Treinamento: org_artifacts/trainning_plan.md
 
 
 theme: 

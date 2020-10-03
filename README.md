@@ -20,7 +20,7 @@ Repositório contendo a Wiki do projeto. Ela está disponível em forma compilad
 > * ``` git clone https://github.com/fga-eps-mds/2020.1-Grupo6.git``` <br> <br>
 > * ``` pip install mkdocs```
 
-### Guia de Instalção do MkDocs
+### Guia de Instalção e outros comandos do MkDocs
 - [MkDocs Guide](https://www.mkdocs.org/#installation)
 
 ## Execução

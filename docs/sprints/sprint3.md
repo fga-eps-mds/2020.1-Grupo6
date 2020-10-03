@@ -72,7 +72,7 @@ Data de Término: 14/09/2020 <br>
 
 - Foi realizado uma reunião com a equipe de desenvolvimento da frente do projeto responsável pela aplicação mobile, para melhor entendimento do escopo
 
-- EAP ficou pendente aguardando revisão
+- EAP foi elaborada, mas não mapeada no repositório. Ficou pendente aguardando revisão
 
 ## Relato do Scrum Master
 

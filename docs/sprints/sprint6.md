@@ -40,13 +40,13 @@ Data de Término: 05/10/2020 <br>
 
 ## Objetivos
 
-- Terminar o documento de Arquitetura
-- Revisão da EAP
-- Atualizar Roadmap
+- Refatorar o documento de Arquitetura
+- Refatoração da EAP
+- Refatorar Roadmap
 - Elaborar Cronograma
 - Revisar Qualidade dos Artefatos do Projeto
 - Planejar Monitoramento de Qualidade do projeto
-- Plano de Monitoramento de custos
+- Plano de Monitoramento de custos(EVM)
 - Plano de Riscos
 - Plano de Qualidade de Documentos
 - Plano de Qualidade de Código
@@ -58,14 +58,14 @@ Data de Término: 05/10/2020 <br>
   - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
   - [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
   - [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
-- Entregar User Storys
+- Entregar User Storys da Sprint
 - Finalizar Protótipo
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
 - [Reunião Review da Sprint 6 e Planejamento Sprint 7](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
 
-- [Reunião de Acompanhamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
+- [Reunião de Acompanhamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/97)
 
 - [Reunião de Planejamento](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/##)
 
@@ -79,7 +79,7 @@ Data de Término: 05/10/2020 <br>
 
 **Tarefas Cocluídas** 
 
-- Atualizar Roadmap [Issue XX]()
+- Refatorar Roadmap [Issue XX]()
 
 **Dívidas**
 

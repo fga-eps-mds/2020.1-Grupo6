@@ -11,6 +11,7 @@ nav:
     - Documento de Arquitetura: org_artifacts/architecture_doc.md
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Termo de Abertura do Projeto: org_artifacts/tap.md
+    - Documento de Qualidade: org_artifacts/quality_doc.md
     - Artefatos Organizacionais:
       - Políticas de Branch: policies/branches.md
       - Políticas de Commit: policies/commits.md

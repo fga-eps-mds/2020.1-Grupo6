@@ -1,4 +1,4 @@
-# Roadmaps
+# Visão Geral do Produto
 
 ## Roadmap do Produto
 
@@ -33,3 +33,28 @@
 ### Versão Atual do Roadmap de Papéis 
 
 ![Roadmap de Papéis](roles/roadmap_roles.png)
+
+## EAP
+
+| **Data**   | **Versão** | **Descrição**               | **Autor(es)**  |
+| ---------- | ---------- | --------------------------- | -------------- |
+| 16/09/2020 | 0.1        | Criação     e Revisão             |  Gabriel  Mateus |
+| 03/10/2020 | 0.2        | Refatoração              |  Mateus  |
+
+### Versões Anteriores 
+
+[Versões Anteriores](roadmap_roles_old.md)
+
+### Versão Atual da EAP
+
+#### Visão de Projeto
+
+![EAP - Visão de Projeto](eap/eap-Page-3.png)
+
+#### Visão de Gerenciamento do Projeto
+
+![EAP - Visão de Projeto](eap/eap-Page-1.png)
+
+#### Visão de Produto
+
+![EAP - Visão de Projeto](eap/eap-Page-2.png)

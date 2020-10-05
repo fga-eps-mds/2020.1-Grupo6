@@ -74,11 +74,11 @@ Data de Término: 28/09/2020 <br>
 - Pontos Planejados: 21<br>
 - Pontos Entregues: 00<br>
 
-**Tarefas Cocluídas** 
+**Tarefas Concluídas** 
 - Realiazada a Revisão da EAP, mas foi identificado que é necessaria uma refatoração e não foi mapeada por issue essa tarefa
 - Roadmap não refatorado
 - Cronograma não elaborado
-- Cominicação e tomada de decisão com time VCU: [Issue 85 - VCU](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/85) 
+- Cominicação e tomada de decisão com time VCU: [Issue 85](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/85) 
 - Comunicação realizada e respondida pelo Cliente do projeto. Além disso o Time VCU foi comunicado sobre essas novas informações: [Feedback com o Cliente](https://github.com/fga-eps-mds/2020.1-VC_Usuario/issues/108)
 - Integração Contínua do Back-end  [Issue 90](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/90)
 

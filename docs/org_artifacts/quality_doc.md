@@ -1,4 +1,4 @@
-#	Termo de Abertura do Projeto
+#	Documento de Qualidade
 
 ## Histórico de Revisão
 
@@ -20,7 +20,12 @@
 <p align = "justify"> Visando uma boa qualidade de código do projeto, alguns padrões de qualidade de corpos de conhecimentos e de normas foram definidos, tanto quanto as ferramentas que serão utilizadas para monitorar essa qualidade. Neste contexto, a qualidade será afirmada atravéz da aplicação de testes unitários, testes estáticos e testes de usabilidade.</p>
 
 ### 3. Testes Unitários
- <p align = "justify"> A aplicação de testes unitários se dá por meio da implementação de testes da menor parte testável de um programa.</p>
+
+ [![mocha_chai](img/mocha_chai.png)](img/mocha_chai.png)
+
+ <p align = "justify"> A aplicação de testes unitários se dá por meio da implementação de testes da menor parte testável de um programa Para o NodeJS escolhemos o Mocha, que é uma framework que permite rodar testes no nodejs de forma simples. Junto com o Mocha usamos o Chai, que por sua vez é uma biblioteca de asserção que pode ser emparalhada com qualquer framework de testes. Os testes são feitos tanto do escopo das models, como no escopo dos controllers de cada microserviço.</p>
+####  <p align = "center">Testes do serviço de postagem</p>
+ <p align = "center">[![post_unit_test](img/post_unit_test.png)](img/post_unit_test.png)
 
 ### 4. Testes Estáticos
  <p align = "justify">A análise estática de softwares, também conhecida como whitebox, trabalha diretamente com o código. Nesse caso, os componentes são verificados sem que o produto seja executado. No **Vamos Cuidar: Gestor** **foram** usadas ferramentas automatizadas no qual o principal objetivo dessa técnica é identificar erros de programação como práticas ruins, erros de sintaxe, identação entre outros. As ferramentas utilizadas são o  Codacy e o CodeClimate.</p>

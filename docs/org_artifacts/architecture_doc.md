@@ -212,9 +212,26 @@ A tecnologia será desenvolvida em parceria com outro desenvolvimento de softwar
 
 ## 5. Visão Lógica
 
+### 5.1 NodeJS
+
 #### 5.1.1 Visão Geral
 
+Para o back end, cada microserviço tem sua visão geral composta de quatro pacotes:
+
+
+* Controller <br>
+Possui classes que são responsáveis pela execução de código que prepara os dados para sua exibição no React, também são responsáveis por controlar as chamadas à API e despachar o resultado para o local adequado, seja o React que esteja aguardando ou outros objetivos.
+* Models <br>
+Classes que fazem representação dos dados que o aplicativo deve persistir localmente, como os dados das postagens a aplicação deve listar. Essas classes também contém algumas operações específicas aos seus objetos.
+* Routes <br>
+A camada de roteamento define a maneira como as solicitações do cliente são tratadas pelos endpoints do aplicativo.
+* Test <br>
+Pacote da aplicação onde são realizados os testes unitários da lógica da aplicação (controllers) e da estrutura da model.
+
+
 #### 5.1.2 Diagrama de Pacotes
+
+[![nodejs_package](img/nodejs_package.jpg)](img/nodejs_package.jpg)
 
 #### 5.1.2 Diagrama de Classes
 
@@ -222,4 +239,19 @@ A tecnologia será desenvolvida em parceria com outro desenvolvimento de softwar
 
 #### 5.2.1 Visão Geral
 
+Para o front end, cada microserviço tem sua visão geral composta de quatro pacotes:
+
+* Public <br>
+É onde residem seus arquivos estáticos. Se o arquivo não for importado por seu aplicativo JavaScript e precisar manter seu nome de arquivo, coloque-o aqui.
+* Assets <br>
+Na pasta assets ficam as dependências compartilhadas por seu aplicativo - como mixins SASS, imagens, etc. - podem ir para o diretório.
+* Components <br>
+A pasta onde ficam os componentes únicos do react. 
+* Pages <br>
+A pasta pages possuem componentes constituidos por vários componentes, que forman as páginas finais que são exibidas.
+* Utils <br>
+Esta é uma pasta cheia de funções auxiliares que são usadas globalmente. Mantenha seu código DRY (Don Don't Repeat Yourself) exportando a lógica repetida para um único local e importando-o onde for usado.
+
 #### 5.2.2 Diagrama de Pacotes
+
+[![reactjs_package](img/reactjs_package.jpg)](img/reactjs_package.jpg)

@@ -115,6 +115,7 @@ Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa
 ### 3.2 <a name="3_2"> Histórias de Usuário</a>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIhwtJk-kRXEPWQFnGBw6V3KFDq9TuldGQ_liFcLGGcEK9KsnhaRRFCi_wKIeNCXkF27gg07pZiRql/pubhtml?gid=0&single=true" width="100%" height="500px"></iframe>
+Acesse aqui o documento: [Backlog](https://docs.google.com/spreadsheets/d/1ZnxAtnrdqo7PWjcRrh_JN4MN8xZvtoF3992LsYuRAws/edit?usp=sharing)
 
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>
 

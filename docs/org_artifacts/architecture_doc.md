@@ -80,13 +80,13 @@ Este documento visa detalhar as soluções arquiteturais desenvolvidas no sistem
 
 ## 2. Representação Arquitetural
 
-[![architecture_diagram](img/architecture_diagram_1.jpg)](img/architecture_diagram_1.jpg)
+[![architecture_diagram](img/architecture_diagram_3.jpg)](img/architecture_diagram_3.jpg)
 
 O sistema é composto de três frentes:
 
 * <p align='justify'>A frente da aplicação, será feita com em Javascript com a biblioteca **ReactJS**, que oferece ao usuário gestor as opções de interação com a plataforma feita da outra turma de MDS (VCU), tais como resolver uma postagem, relatórios sobre a plataforma e a criação de notícias e benefícios.</p>
 * <p align='justify'> A frente das API's, também utilizaremos Javascript, mas no server usaremos o **NodeJS**. Baseando-se na arquitetura de microserviços, é composta por 5 serviços (pacotes), cada um com suas próprias responsabilidades e deveres. </p>
-* <p align='justify'> A frente de dados, onde teremos um banco de dados **PostgreSQL**, hospedado na infraestrutura da Unb, onde serão persistidos os dados que iremos receber do VCU e onde iremos salvar os artefatos criados na nossa plataforma. Já no ambiente de desenvolvimento, usaremos o postgres localmente com o Docker</p>
+* <p align='justify'> A frente de dados, onde teremos um banco de dados **PostgreSQL**, hospedado na infraestrutura da Unb, onde serão persistidos os dados que iremos receber do VCU e onde iremos salvar os artefatos criados na nossa plataforma. Já no ambiente de desenvolvimento, usaremos o postgres localmente com o Docker. Para facilitar a criação das visualizações, optamos pela utilização da ferramenta Kibana.</p>
 
 
 
@@ -107,7 +107,7 @@ Cada frente possui sua própria arquitetura interna.
 [![architecture_diagram](img/architecture_diagram_2.jpg)](img/architecture_diagram_2.jpg)
 
 Os microserviços da aplicação vão seguir o mesmo padrão, será usado o Nodejs para a lógica no back-end, seguindo a o padrão arquitetural MVC, onde a camada da View fica como o ReactJS. O padrão de organização dos elementos arquiteturais está representado no diagrama acima. 
-
+f
 ### 2.3 Banco de dados
 
 PostgreSQL é um sistema de banco de dados relacional de objeto de código aberto com mais de 30 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho. O banco é divido em schemas, cada microserviço irá interagir com um único esquema, o que contribui para a independência dos microserviços e a diminuição do acoplamento. A seguir serão representadas o diagrama dos esquemas.
@@ -233,7 +233,6 @@ Pacote da aplicação onde são realizados os testes unitários da lógica da ap
 
 [![nodejs_package](img/nodejs_package.jpg)](img/nodejs_package.jpg)
 
-#### 5.1.2 Diagrama de Classes
 
 ### 5.2 ReactJS
 

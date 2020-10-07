@@ -103,4 +103,4 @@ Data de Término: 05/10/2020 <br>
 
 ## Relato do Scrum Master
 
-Nesta sprint ...
+Nesta sprint muitas dívidas técnicas ainda ficaram em aberto. Sendo assim a sprint 7 foi planejada a fim de resolver as dívidas pendentes e praparação para apresentação da Release 1.

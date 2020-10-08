@@ -69,11 +69,6 @@ Data de Término: 28/09/2020 <br>
 
 ## Resultados
 
-**Pontos da Sprint**
-
-- Pontos Planejados: 21<br>
-- Pontos Entregues: 00<br>
-
 **Tarefas Concluídas** 
 
 - Cominicação e tomada de decisão com time VCU: [Issue 85](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/85) 

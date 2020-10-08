@@ -20,18 +20,24 @@ Aqui são apresentadas os treinamentos sobre as tecnologias e conhecimentos nece
 
 ### Docker
 - Duração: Sprint 2 
-- Exercício de Treinamento: []()
+- Exercício de Treinamento: [Issue 30]()
 - Sugestão de Curso: [Docker](https://www.alura.com.br/curso-online-docker-e-docker-compose)
 
 ### NodeJS e ReactJS
 - Duração: Sprint 3
-- Treinamento livre
+- Exercício de Treinamento livre
 - Sugestão de Curso: [NodeJS](https://app.rocketseat.com.br/node/curso-node-js) & [ReactJS](https://app.rocketseat.com.br/node/curso-react-js)
 
 ### Testes
 - Duração: Sprint 7 - Sprint 8
+- Exercício de Treinamento Livre
+- Sugestão de curso: [Mocha + Chai](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha) & [Sinon](https://www.testim.io/blog/sinon-js-tutorial/)
 
-### Elastic Search
+### Elastic Search e Kibana
 - Duração: Sprint 9
+- Exercício de Treinamento Livre
+- Sugestão de curso: [Kibana](https://www.elastic.co/guide/en/kibana/current/getting-started.html) & [ELASTIC]https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html & [ELASTIC](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
+
+
 
 

@@ -69,12 +69,6 @@ Data de Término: 05/10/2020 <br>
 
 ## Resultados
 
-**Pontos da Sprint**
-
-- Pontos de Dívidas: 21</br>
-- Pontos Planejados: 16</br>
-- Pontos Entregues: 00</br>
-
 **Tarefas Cocluídas** 
 
 - Refatorar Roadmap [Issue 95](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/95)
@@ -83,12 +77,11 @@ Data de Término: 05/10/2020 <br>
 - Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
 - Plano de Qualidade de Código [Issue 100](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/100)
 
+
 **Dívidas**
 
-- Refatorar o documento de Arquitetura
-- Plano de Monitoramento de custos(EVM)
 - Sanar Dívidas Técnicas
-    - US01 - Login.[Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
+  - US01 - Login.[Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
   - US02 - Logout.[Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
   - US30 - Alterar status[Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
   - US31 - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
@@ -100,6 +93,9 @@ Data de Término: 05/10/2020 <br>
   - US33 - filtrar lista por anonimato 
 - Finalizar Protótipo
 - Plano de Riscos
+- Refatorar o documento de Arquitetura
+- Plano de Monitoramento de custos(EVM)
+- Plano de Treinamento
 
 ## Relato do Scrum Master
 

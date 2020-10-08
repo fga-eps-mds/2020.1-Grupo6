@@ -6,8 +6,15 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |11/09/2020|   0.1    | Criação do Plano de Comunicação        |   Mateus Augusto  |
 
-## [Quadro de Conhecimento](https://docs.google.com/spreadsheets/d/1naKOL2mzVEno_S0K5nJ2u1xg8xbrJi4-60qs36_W37g/edit?usp=sharing)
+## Quadro de Conhecimento
 
-## [Quadro de Horas Trabalhadas](https://docs.google.com/spreadsheets/d/14qqxAKXJcyuNvBR6LzxUd1FWFbq8KgOvI1LXRr4XVdE/edit?usp=sharing)
+### Início do Projeto
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqYp_q19HN9RNDTPsnUwduZAufA-6y_gEw-xvge9vEyIU7c6J9OK6TP8Sj8lld5YSJkaWSPuFBLaOM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
 
-## [Quadro de Horários disponíveis](https://docs.google.com/spreadsheets/d/1YT4jLGGWyoM--LgBcm6Vq-BSPF0NWb8k6lCc-jtYIKc/edit?usp=sharing)
+### Final da R1
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqYp_q19HN9RNDTPsnUwduZAufA-6y_gEw-xvge9vEyIU7c6J9OK6TP8Sj8lld5YSJkaWSPuFBLaOM/pubhtml?gid=896794362&amp;single=true&amp;widget=true&amp;headers=false"  width="100%" height="500px"></iframe>
+
+## Horas Trabalhadas
+
+## Quadro de Horários disponíveis
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQRHJr12isgB7RIN-NrNfkKUGID5DMixUYjO44tWwUkk8qUUr8YayrHX24tj2gXWGKcIQruqEAsEWDm/pubhtml?gid=1167295766&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px></iframe>

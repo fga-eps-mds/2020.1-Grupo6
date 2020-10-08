@@ -83,16 +83,17 @@ Data de Término: 09/10/2020 <br>
 - Plano de Monitoramento de custos(EVM)
 - Plano de Treinamento
 
+- US30 - Alterar status[Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
+- US31 - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
+- Protótipo. [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
+- US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
+- US24 - Criar benefícios [Issue 89](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/89)
+
 **Dívidas**
 
 - Sanar Dívidas Técnicas
   - US01 - Login.[Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
-  - US02 - Logout.[Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
-  - US30 - Alterar status[Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
-  - US31 - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
-  - Protótipo. [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
-  - US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
-  - US24 - Criar benefícios [Issue 89](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/89)
+  - US02 - Logout.[Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)  
   - US27 - visualizar benefícios [Issue 110](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/110)
   
   - US32 - filtrar lista por status 

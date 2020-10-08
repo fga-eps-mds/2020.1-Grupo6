@@ -7,10 +7,33 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |11/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
 |12/09/2020|   0.2   | Adição do histórico e tarefa   |   Guilherme Aguiar |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
+
 
 Número da Sprint: 2 <br>
 Data de Início:  01/09/2020 <br>
 Data de Término: 07/09/2020 <br>
+
+## Estrutura de Papéis na Equipe
+
+### Scrum Master:
+- Mateus Augusto
+
+### Arquiteto:
+- Gabriel
+
+### Product Owner:
+- Guilherme
+- Mateus Augusto
+
+### Time de Desenvolvimento
+
+- Hércules
+- Ariel
+- Bruno
+- Tomás
+- Vitor
+- Juliana
 
 ## Objetivos
 

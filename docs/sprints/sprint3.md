@@ -6,10 +6,33 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |21/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
+
 
 Número da Sprint: 3 <br>
 Data de Início:  08/09/2020 <br>
 Data de Término: 14/09/2020 <br>
+
+## Estrutura de Papéis na Equipe
+
+### Scrum Master:
+- Mateus Augusto
+
+### Arquiteto:
+- Guilherme
+
+### Product Owner:
+- Gabriel
+- Mateus Augusto
+
+### Time de Desenvolvimento
+
+- Hércules
+- Ariel
+- Bruno
+- Tomás
+- Vitor
+- Juliana
 
 ## Objetivos
 
@@ -49,7 +72,7 @@ Data de Término: 14/09/2020 <br>
 
 - Foi realizado uma reunião com a equipe de desenvolvimento da frente do projeto responsável pela aplicação mobile, para melhor entendimento do escopo
 
-- EAP ficou pendente aguardando revisão
+- EAP foi elaborada, mas não mapeada no repositório. Ficou pendente aguardando revisão
 
 ## Relato do Scrum Master
 

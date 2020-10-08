@@ -32,7 +32,7 @@ nav:
       - Plano de Comunicação: org_artifacts/communication_plan.md
       - Plano de Treinamento: org_artifacts/trainning_plan.md
       - Burndown de Riscos: org_artifacts/risk_burndown.md
-
+      - EVM: org_artifacts/evm.md
 
 theme: 
   name: material

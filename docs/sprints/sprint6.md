@@ -10,7 +10,7 @@
 
 Número da Sprint: 6 <br>
 Data de Início:  29/09/2020 <br>
-Data de Término: 05/10/2020 <br>
+Data de Término: 09/10/2020 <br>
 
 ## Estrutura de Papéis na Equipe
 
@@ -76,7 +76,11 @@ Data de Término: 05/10/2020 <br>
 - Elaborar Cronograma [Issue 98](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/98)
 - Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
 - Plano de Qualidade de Código [Issue 100](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/100)
-
+- Finalizar Protótipo
+- Plano de Riscos
+- Refatorar o documento de Arquitetura
+- Plano de Monitoramento de custos(EVM)
+- Plano de Treinamento
 
 **Dívidas**
 
@@ -88,14 +92,11 @@ Data de Término: 05/10/2020 <br>
   - Protótipo. [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
   - US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
   - US24 - Criar benefícios [Issue 89](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/89)
-  - US27 - visualizar benefícios 
+  - US27 - visualizar benefícios [Issue 110](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/110)
+  
   - US32 - filtrar lista por status 
   - US33 - filtrar lista por anonimato 
-- Finalizar Protótipo
-- Plano de Riscos
-- Refatorar o documento de Arquitetura
-- Plano de Monitoramento de custos(EVM)
-- Plano de Treinamento
+
 
 ## Relato do Scrum Master
 

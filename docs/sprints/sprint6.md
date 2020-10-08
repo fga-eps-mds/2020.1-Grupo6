@@ -59,6 +59,7 @@ Data de Término: 09/10/2020 <br>
   - US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
 - Entregar User Storys da Sprint
 - Finalizar Protótipo
+- Apresentação da R1
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 

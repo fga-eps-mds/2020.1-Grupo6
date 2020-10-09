@@ -5,6 +5,7 @@
 |06/10/2020|   0.1   | Geração de dados |   Gabriel  |
 |07/10/2020|   0.2   | Criação dos Gráficos |   Gabriel  |
 |08/10/2020|   0.2   | Criação do Documento |   Gabriel  |
+|08/10/2020|   1.0    | Adiciona referências | Gabriel |
 
 
 # Gerenciamento de Riscos

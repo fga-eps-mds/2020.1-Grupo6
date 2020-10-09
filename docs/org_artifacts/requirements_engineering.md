@@ -11,6 +11,7 @@
 |25/09/2020|   1.1    | Adição de novos épicos | Gabriel |
 |30/09/2020|   1.2    | Atualização do Backlog com os novos épicos | Gabriel |
 |07/10/2020|   1.3    | Atualização dos Requisitos | Gabriel |
+|08/10/2020|   1.4    | Adiciona referências | Gabriel |
 
 # Sumário
 ----------------
@@ -113,3 +114,9 @@ Acesse aqui o documento: [Backlog](https://docs.google.com/spreadsheets/d/e/2PAC
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>
 
 Definir especificidades, como qual tipo de gráfico utilizar.
+
+### Referências
+
+* Over26. Disponível em <https://fga-eps-mds.github.io/2019.2-Over26/#/>
+* Lino. Disponível em <https://github.com/BotLino/Lino>
+* Backlog do Produto - Passo a passo como construir e priorizar - Cultura Ágil. Disponível em <https://www.gp4us.com.br/backlog-do-produto/>

@@ -4,7 +4,7 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 02/00/2020 | 1.0 | Criação do documento de polílica de issues  | Gabriel Filipe |
 | 03/09/2020 |   1.1   | Revisão | Mateus Augusto |
-| 05/10/2020 |   1.2   | Revisão | Gabriel Filipe |
+| 03/09/2020 |   1.2   | Adiciona as imagens | Gabriel |
 
 # Criação de _issues_
 

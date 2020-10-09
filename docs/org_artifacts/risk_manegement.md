@@ -6,7 +6,7 @@
 |07/10/2020|   0.2   | Criação dos Gráficos |   Gabriel  |
 |08/10/2020|   0.2   | Criação do Documento |   Gabriel  |
 |08/10/2020|   1.0    | Adiciona referências | Gabriel |
-
+|08/10/2020|   1.1    | Adiciona Velocity | Gabriel |
 
 # Gerenciamento de Riscos
 
@@ -82,6 +82,12 @@ Seguindo um dos pilares do Scrum que diz respeito à transparência e baseando-s
 As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de Risco Burndown. Isto descreve a gravidade de risco do projeto cumulativo ao longo do tempo.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=796969171&single=true" width="100%" height="1500px"></iframe>
+
+### Velocity
+
+Trata-se de uma métrica, geralmente associada a metodologias ágeis, que mede a quantidade de entregas, aderentes ao negócio, que um time de tecnologia consegue realizar em um determinado intervalo de tempo. Quanto mais alta for essa medida, maior a produtividade.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubchart?oid=484951517&format=interactive" width="90%" height="440x"></iframe>
 
 ### Referências
 

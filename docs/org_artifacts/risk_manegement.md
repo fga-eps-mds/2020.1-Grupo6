@@ -82,3 +82,7 @@ As informações coletadas durante a avaliação de risco podem ser usadas para 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=796969171&single=true" width="100%" height="1500px"></iframe>
 
+### Referências
+
+* Lino. Disponível em <https://github.com/BotLino/Lino>
+* Gerenciamento de riscos em projetos ágeis - Cultura Ágil. Disponível em <https://www.culturaagil.com.br/gerenciamento-de-riscos-em-projetos-ageis/>

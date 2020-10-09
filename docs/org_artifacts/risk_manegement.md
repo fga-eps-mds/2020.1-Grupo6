@@ -1,3 +1,12 @@
+## Histórico de Revisão
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+|06/10/2020|   0.1   | Geração de dados |   Gabriel  |
+|07/10/2020|   0.2   | Criação dos Gráficos |   Gabriel  |
+|08/10/2020|   0.2   | Criação do Documento |   Gabriel  |
+
+
 # Gerenciamento de Riscos
 
 Amplamente divulgado através do PMBOK, o Gerenciamento de Riscos propõe a identificação de riscos e planos de ação para mitigá-los, eliminá-los, ou mesmo transferi-los. Dentre eles enfatizamos os seguintes:
@@ -62,12 +71,12 @@ O risco foi definido da seguinte forma:
 
 ### Quadro de Riscos
 
-Seguindo um dos pilares do Scrum que diz respeito à Transparência e baseando-se em um dos artefatos utilizados, podemos também realizar o gerenciamento ágil de riscos mantendo-os visíveis a todas as Partes Interessadas é através do quadro de tarefas da Sprint.
+Seguindo um dos pilares do Scrum que diz respeito à transparência e baseando-se em um dos artefatos utilizados, todos os riscos estão explicitados (e pontuados) na tabela abaixo.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=869326400&single=true" width="100%" height="550px"></iframe>
 
 
-### Gráfico de Risco Burndown
+### Burndown de Riscos
 
 As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de Risco Burndown. Isto descreve a gravidade de risco do projeto cumulativo ao longo do tempo.
 

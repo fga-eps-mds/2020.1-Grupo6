@@ -208,8 +208,6 @@ A tecnologia será desenvolvida em parceria com outro desenvolvimento de softwar
 | UC20 - Visualizar benefício | Este caso de uso ocorrerá quando o NodeJS API requisitar os benefícios |
 
 
-
-
 ## 5. Visão Lógica
 
 ### 5.1 NodeJS

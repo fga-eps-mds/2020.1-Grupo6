@@ -75,7 +75,6 @@ Data de Término: 09/10/2020 <br>
 - Refatorar Roadmap [Issue 95](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/95)
 - Refatorar EAP [Issue 96](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/96)
 - Elaborar Cronograma [Issue 98](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/98)
-- Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
 - Plano de Qualidade de Código [Issue 100](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/100)
 - Finalizar Protótipo
 - Plano de Riscos
@@ -98,6 +97,7 @@ Data de Término: 09/10/2020 <br>
   
   - US32 - filtrar lista por status 
   - US33 - filtrar lista por anonimato 
+  - Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
 
 
 ## Relato do Scrum Master

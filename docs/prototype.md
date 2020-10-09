@@ -19,6 +19,6 @@ Figma é um editor gráfico de vetor e prototipagem de projetos de design basead
 ![](https://j.gifs.com/ZYLLqg.gif)
 
 O protótipo também pode ser acessado em:
-[Protótipo](https://www.figma.com/file/hWBoi1yAKRQ9jswlBqUwDR/Vamos-Cuidar-Colors?node-id=233%3A280)
+[Protótipo](https://www.figma.com/proto/hWBoi1yAKRQ9jswlBqUwDR/Vamos-Cuidar-Colors?node-id=233%3A280&scaling=contain)
 
 

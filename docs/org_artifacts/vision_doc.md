@@ -91,18 +91,14 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades|Administra o aplicativo, postando notícias, analisando dados, e solucionando os problemas elencados por usuários|
 |Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
 |Envolvimento|PO|
-|Entregas||
-|Comentários ou Problemas||
 
-| Representante|  |
+| Representante| Comunidade acadêmica |
 |:-:|:-:|
-|Descrição | Comunidade acadêmica|
+|Descrição | Alunos, professores, terceirizados|
 |Tipo| Usuário casual |
 |Responsabilidades| Fornece dados para o aplicativo|
 |Critérios de Sucesso| Manutenção adequada da universidade |
 |Envolvimento| Usuário do aplicativo |
-|Entregas||
-|Comentários ou Problemas| Não possui um representante real |
 
 | Representante| Renata |
 |:-:|:-:|
@@ -111,8 +107,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Responsabilidades| Fornece requisitos e informações para fazer a integração do sistema de gestão com o aplicativo|
 |Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
 |Envolvimento| Integração do projeto |
-|Entregas||
-|Comentários ou Problemas||
 
 | Representante| Bruno |
 |:-:|:-:|
@@ -122,7 +116,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
 |Envolvimento| Integração do projeto |
 |Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
-|Comentários ou Problemas||
 
 | Representante| Carla |
 |:-:|:-:|
@@ -132,7 +125,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Critérios de Sucesso| Integração bem sucedida do sistema gerenciador com o projeto |
 |Envolvimento| Integração do projeto |
 |Entregas| Interface para comunicação entre o aplicativo e o sistema gerenciador |
-|Comentários ou Problemas||
 
 
 | Representante| Hilmer |
@@ -143,17 +135,15 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Critérios de Sucesso| Aplicativo funcional e bem documentado, aplicando as metodologias de desenvolvimento de software |
 |Envolvimento| Orientação |
 |Entregas| Documentação |
-|Comentários ou Problemas||
 
 | Representante| Guilherme Aguiar, Mateus Augusto, Gabriel Filipe |
 |:-:|:-:|
-|Descrição | Equipe de desenvolvimento|
+|Descrição | Equipe de Gerência do Projeto|
 |Tipo| Desenvolvedor |
 |Responsabilidades|Desenvolver o produto de software|
 |Critérios de Sucesso|Atender à necessidade das partes interessadas|
 |Envolvimento|Desenvolvimento e gestão do projeto|
 |Entregas| Documentação |
-|Comentários ou Problemas||
 
 | Representante| Fernando|
 |:-:|:-:|
@@ -163,7 +153,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Critérios de Sucesso|Ter uma plataforma que facilite a administração e a manutenção dos contratos da faculdade|
 |Envolvimento|PO|
 |Entregas|Protótipo, Features da aplicação|
-|Comentários ou Problemas||
 
 ####	3.5 Perfis do Usuário
 
@@ -176,8 +165,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 |Envolvimento|PO|
 |Entregas|Protótipo, Features da aplicação|
 
-|Comentários ou Problemas||
-
 ####	3.6 Principais Necessidades da Parte Interessada ou do Usuário:
 
 |Necessidade|Prioridade|Interesses|Solução atual|Solução proposta|
@@ -185,8 +172,6 @@ Esta seção fornece um perfil das partes interessadas e usuários que estão en
 | Monitorar problemas relacionados a UnB | 1 | Melhorar o monitoramento dos contratos | Monitoramento por servidores | Utilizar a aplicação para ter uma melhor e mais ampla visualização dos dados |
 | Facilitar Tomada de decisão | 1 | Apresentação de indicadores| Decisão a partir de relatórios | Utilizar a aplicação para fornecer indicadores |
 | Apresentar feedback dos processos | 1 | Mostrar para a comunidade acadêmica o andamento do processo de resolução| Notícias no site da UnB | Alimentar feed da Aplicação mobile como notícias|
-
-
  	 	 	 	 
 ####	3.7 Alternativas e Concorrência:
  A principal alternativa ao nosso produto, que é a alternativa utilizada atualmente, é a de dispor do trabalho de servidores para inspecionar a universidade procurando por defeitos na infraestrutura, ou quaisquer outras falhas no funcionamento da universidade. E além disso, dispor do feedback da comunidade acadêmica que se disponham a relatar problemas, diretamente para o decanato.

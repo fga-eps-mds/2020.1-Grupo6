@@ -16,6 +16,7 @@
 ### Versão Atual do Roadmap de Produto 
 
 ![Roadmap de Papéis](product/roadmap_product.png)
+[Roadmap de Produto](https://fga-eps-mds.github.io/2020.1-Grupo6/roadmaps/product/roadmap_product.png)
 
 
 ## Roadmap de Papéis
@@ -33,6 +34,8 @@
 ### Versão Atual do Roadmap de Papéis 
 
 ![Roadmap de Papéis](roles/roadmap_roles.png)
+[Roadmap de Papéis](https://fga-eps-mds.github.io/2020.1-Grupo6/roadmaps/roles/roadmap_roles.png)
+
 
 ## EAP
 
@@ -50,17 +53,20 @@
 #### Visão de Projeto
 
 ![EAP - Visão de Projeto](eap/eap-Page-3.png)
+[EAP - Visão de Projeto](https://fga-eps-mds.github.io/2020.1-Grupo6/roadmaps/eap/eap-Page-3.png)
 
 #### Visão de Gerenciamento do Projeto
 
-![EAP - Visão de Projeto](eap/eap-Page-1.png)
+![EAP - Visão de Gerenciamento](eap/eap-Page-1.png)
+[EAP - Visão de Gerenciamento](https://fga-eps-mds.github.io/2020.1-Grupo6/roadmaps/eap/eap-Page-1.png)
 
 #### Visão de Produto
 
-![EAP - Visão de Projeto](eap/eap-Page-2.png)
+![EAP - Visão de Produto](eap/eap-Page-2.png)
+[EAP - Visão de Produto](https://fga-eps-mds.github.io/2020.1-Grupo6/roadmaps/eap/eap-Page-2.png)
 
 #### Cronograma
 
-<iframe src="https://docs.google.com/spreadsheets/d/1wJz0MrBT_tbNyonNBHvUJQh341VMtfk1oleZHJD31_A/edit?usp=sharing" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHWI_lgW8IbOo_c9bJPZjKAob_8vlCISYfX4PY8RSQN9FANkxlHdecxZMwq6so1ymc0guLGOguO0VY/pubhtml?gid=1115838130&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
 
-[Acesse aqui!](https://docs.google.com/spreadsheets/d/1wJz0MrBT_tbNyonNBHvUJQh341VMtfk1oleZHJD31_A/edit?usp=sharing)
+[Cronograma](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHWI_lgW8IbOo_c9bJPZjKAob_8vlCISYfX4PY8RSQN9FANkxlHdecxZMwq6so1ymc0guLGOguO0VY/pubhtml?gid=1115838130&single=true)

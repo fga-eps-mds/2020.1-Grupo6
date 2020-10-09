@@ -76,6 +76,7 @@ Data de Término: 28/09/2020 <br>
 - Integração Contínua do Back-end  [Issue 90](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/90)
 
 **Dívidas**
+
 - Refatorar documento de Arquitetura
 - Entregar User Storys planejadas na Sprint
   - [Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)

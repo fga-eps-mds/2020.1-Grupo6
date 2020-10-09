@@ -1,4 +1,4 @@
-#	Plano de Comunicação Interna e Externa
+#	Plano de Treinamento
 
 ## Histórico de Revisão
 

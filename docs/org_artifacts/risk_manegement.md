@@ -67,18 +67,18 @@ O grau dos riscos é definido pela multiplicação da probabilidade de ocorrênc
 
 O risco foi definido da seguinte forma:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=759299233&single=true" width="100%" height="550px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=759299233&single=true" width="95%" height="250px"></iframe>
 
 ### Quadro de Riscos
 
 Seguindo um dos pilares do Scrum que diz respeito à transparência e baseando-se em um dos artefatos utilizados, todos os riscos estão explicitados (e pontuados) na tabela abaixo.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=869326400&single=true" width="100%" height="550px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=869326400&single=true" width="100%" height="570px"></iframe>
 
 
 ### Burndown de Riscos
 
 As informações coletadas durante a avaliação de risco podem ser usadas para criar um Gráfico de Risco Burndown. Isto descreve a gravidade de risco do projeto cumulativo ao longo do tempo.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=796969171&single=true" width="100%" height="550px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLb3lE3sxjpEGw9bj2BjB9fAkXbtI0tB6OP0w0xl5YT3yLAqh5DrINCXVH00uIeNnAgwgsvmnH7OcB/pubhtml?gid=796969171&single=true" width="100%" height="1500px"></iframe>
 

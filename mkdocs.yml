@@ -12,7 +12,7 @@ nav:
     - Engenharia de Requisitos: org_artifacts/requirements_engineering.md
     - Termo de Abertura do Projeto: org_artifacts/tap.md
     - Documento de Qualidade: org_artifacts/quality_doc.md
-    - Protótipo: prototype.md
+    - Protótipo: ./prototype.md
     - Políticas do Repositório:
       - Políticas de Branch: policies/branches.md
       - Políticas de Commit: policies/commits.md
@@ -32,6 +32,8 @@ nav:
       - Monitoramento do Time: org_artifacts/team_monitoring.md
       - Plano de Comunicação: org_artifacts/communication_plan.md
       - Plano de Treinamento: org_artifacts/trainning_plan.md
+    - Apresentações:
+      - Release 1: presentations/release_1.md
 
 
 theme: 

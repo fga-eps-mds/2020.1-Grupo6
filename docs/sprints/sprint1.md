@@ -7,10 +7,32 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |11/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
 |12/09/2020|   0.2   | Adição do histórico    |   Guilherme Aguiar |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
 
 Número da Sprint: 1 <br>
 Data de Início:  25/08/2020 <br>
 Data de Término: 31/08/2020 <br>
+
+## Estrutura de Papéis na Equipe
+
+### Scrum Master:
+- Mateus Augusto
+
+### Arquiteto:
+- Gabriel
+
+### Product Owner:
+- Guilherme
+
+### Time de Desenvolvimento
+
+- Hércules
+- Ariel
+- Bruno
+- Tomás
+- Vitor
+- Juliana
+
 ## Objetivos
 
 - Definir tema do projeto e definição do escopo

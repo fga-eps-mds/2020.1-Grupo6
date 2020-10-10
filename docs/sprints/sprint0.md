@@ -6,12 +6,29 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |11/09/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
 |12/09/2020|   0.2   | Adição do histórico    |   Guilherme Aguiar |
+|25/09/2020|   0.3   | Adição da Estrutura de Papéis    |   Mateus Sousa  |
 
 Número da Sprint: 0 <br>
 Data de Início:  17/08/2020 <br>
 Data de Término: 24/08/2020 <br>
 Pontos Planejados:  <br>
 Pontos Entregues:  <br>
+
+## Estrutura de Papéis na Equipe
+
+### Gestão do Projeto:
+- Mateus Augusto
+- Gabriel
+- Guilherme
+
+### Time de Desenvolvimento
+
+- Hércules
+- Ariel
+- Bruno
+- Tomás
+- Vitor
+- Juliana
 
 ## Objetivos
 

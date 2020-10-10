@@ -57,7 +57,8 @@ Bruno Carmo Nunes              | [brunocmo](https://github.com/brunocmo)
 Hércules Ismael de Abreu Santos  | [ismaelg456g](https://github.com/ismaelg456g)
 Juliana Pereira Valle Gonçalves  | [julianavalle](https://github.com/julianavalle)           
 Vitor Jacinto Sulzbach           | [Vitorsulzbach](https://github.com/Vitorsulzbach)       
-Tomás Veloso Peixoto Matutino | [tomasvelos0](https://github.com/tomasvelos0)           
+Tomás Veloso Peixoto Matutino | [tomasvelos0](https://github.com/tomasvelos0) 
+Ariel | -           
 
 ###	6. Riscos
 
@@ -77,9 +78,12 @@ Nesse fator, são considerados os seguintes tópicos: custos de equipamentos, pr
 
 Equipamento | Quantidade | Finalidade | Valor unitário | Valor Total *
 -|-|-|-|-
-Notebooks | 9 Unidades | Planejamento e Desenvolvimento | R$ 3.500 | R$ 31.500
-Alimentação | 1 Dia | Alimentação | R$ 32,94 ** | R$ 33.203,52 
-Conta de Luz | 1 mês | Conta de Luz | R$ 280 | R$ 9.273,6
+Notebooks | 9 Unidades | Planejamento e Desenvolvimento | R$ 3.500,00 | R$ 31.500,00
+Alimentação | 3 refeições por dia, para 9 pessoas | Alimentação | R$ 32,94** cada refeição | R$ 85.380,48 
+Conta de Luz | 4 meses | Conta de Luz | R$ 280,00 por mês | R$ 10.080,00
+Internet | 4 meses | Conta de Internet | R$  114,15 por mês | R$ 4.109,40
+Total ||| R$ 131.069.88|
+
 
 * *Valor total contando com as 16 sprints, onde cada sprint é 1 semana para todos os 9 integrantes*
 * *Preço médio retirado do site da [alelo](http://www.pesquisaprecomedio.com.br/preco-medio-refeicao.php) em setembro de 2020*
@@ -90,32 +94,33 @@ Nesse caso, foram levados em conta o valor médio por hora de um desenvolvedor J
 
 Cargo | Quantidade | Salário mensal (160h) | Total  *
 -|-|-|-
-Javascript Júnior | 6 | R$ 3.019 ** | R$ 66.659
-Scrum Master, PO e DevOps | 3 | R$ 6000 ** | R$ 66.240
+Javascript Júnior | 6 | R$ 3.019,00 ** | R$ 72.456,00
+Scrum Master, PO e DevOps | 3 | R$ 6000,00 ** | R$ 72.000,00
+Total ||| R$ 144.456,00
 
 * *Valor total contando com as 16 sprints, onde cada sprint é 1 semana para todos os 9 integrantes*
 * *Fonte da média salarial é o site [glassdor](https://www.glassdoor.com.br/Sal%C3%A1rios/desenvolvedor-javascript-sal%C3%A1rio-SRCH_KO0,24.htm) em setembro de 2020.*
 
 #### Custo de Ferramentas
-Ferramenta | Finalidade | Preço Final
+Ferramenta e Serviços | Finalidade | Preço Final
 -|-|-
 Google Drive | Compartilhamento de arquivos | R$ 0
 Editor de Texto | Elaboração de documentos e código | R$ 0
 Google Drive | Compartilhamento de arquivos | R$ 0
 GitHub | Versionamento de arquivos | R$ 0
 MS Teams | Reuniões de Sprint Planning | R$ 0
-Friday | Daily | R$ 0
 Telegram | Comunicação da equipe | R$ 0
 Javascript, React, Nodejs, Banco de Dados | Tecnologias utilizadas para desenvolvimento | R$ 0
+Servidor do Sistema | Hospedar aplicação e dependências |  R$ 0
 
 #### Custo total
 Custo | Valor Total
 -|-
-Aquisição | R$ 73.977,12
-Pessoal | R$ 132.899
+Aquisição | R$ 131.069.88
+Pessoal | R$ 144.456,00
 Ferramentas | R$ 0
 
-Portanto, o custo final é de **R$ 206.876,12**
+Portanto, o custo final é de **R$ 275.525.88**
 
 ### 8. Patrocinador
 Nome | Email

@@ -7,6 +7,11 @@
 |09/09/2020|   0.1    | Criação do Documento e Elicitação Adicionada        |   Guilherme  |
 |10/09/2020|   0.2    | Adição do Backlog do Produto        |   Guilherme  |
 |10/09/2020|   0.3    | Adição de uma nova história de usuário | Guilherme |
+|15/09/2020|   1.0    | Criação do Backlog (versão completa) | Gabriel |
+|25/09/2020|   1.1    | Adição de novos épicos | Gabriel |
+|30/09/2020|   1.2    | Atualização do Backlog com os novos épicos | Gabriel |
+|07/10/2020|   1.3    | Atualização dos Requisitos | Gabriel |
+|08/10/2020|   1.4    | Adiciona referências | Gabriel |
 
 # Sumário
 ----------------
@@ -50,34 +55,20 @@
 ID|Requisito
 -|-
 RF001| A aplicação deve permitir que o usuário efetue o login mediante suas credênciais.
-RF002| A aplicação deve permitir que permitir que o usuário navegue por meio do meun lateral.
-RF003| A aplicação deve permitir que o usuário visualize o relatório geral.
-RF004| A aplicação deve permitir que o usuário visualize o relatório por área
-RF005| A aplicação deve permitir que o usuário visualize o relatório por dia
-RF006| A aplicação deve permitir que o usuário visualize o relatório por localização
-RF008| A aplicação deve permitir que o usuário visualize posts mais votados
-RF009| A aplicação deve permitir que o usuário visualize categorias mais apoiadas
-RF010| A aplicação deve permitir que o usuário visualize o número de posts por intervalos de tempo
-RF012| A aplicação deve permitir que o usuário visualize o número de posts por categoria
-RF013| A aplicação deve permitir que o usuário visualize o número de posts criados
-RF014| A aplicação deve permitir que o usuário visualize o número de posts criados anonimamente
-RF015| A aplicação deve permitir que o usuário visualize o número de posts resolvidos
-RF016| A aplicação deve permitir que o usuário visualize o número de novos usuários
-RF017| A aplicação deve permitir que o usuário visualize o status das metas
-RF018| A aplicação deve permitir que o usuário visualize o uso do App por intervalos de tempo
-RF019| A aplicação deve permitir que o usuário visualize os posts com ocorrências semelhantes
-RF020| A aplicação deve permitir que o usuário crie notícias
-RF021| A aplicação deve permitir que o usuário edite notícias
-RF022| A aplicação deve permitir que o usuário delete notícias
-RF023| A aplicação deve permitir que o usuário liste notícias
-RF024| A aplicação deve permitir que o usuário crie benefícios
-RF025| A aplicação deve permitir que o usuário delete benefícios
-RF026| A aplicação deve permitir que o usuário crie anúncios
-RF027| A aplicação deve permitir que o usuário delete anúncios
-RF028| A aplicação tem que permitir que o usuário entre nela apenas se efetuar o login.
-RF029| A aplicação tem que guardar as informações de login do usuário.
-RF030| O usuário deve criar uma notícia com titulo, texto, imagem e tags.
-RF031| O usuário deve criar um benefício com titulo, nome da empresa e custo de pontos.
+RF002| A aplicação deve permitir que o usuário efetue o logout de sua conta.
+RF003| A aplicação deve permitir que o usuário possa mudar sua senha.
+RF004| A aplicação deve permitir que o usuário possa recuperar sua senha.
+RF005| A aplicação deve permitir que permitir que o usuário navegue por meio do menu lateral.
+RF006| A aplicação deve permitir que o usuário crie notícias.
+RF007| A aplicação deve permitir que o usuário gerencie as notícias.
+RF008| A aplicação deve permitir que o usuário crie benefícios.
+RF009| A aplicação deve permitir que o usuário gerencie os benefícios.
+RF010| A aplicação deve permitir que o usuário gerencie as postagens.
+RF011| A aplicação deve permitir que o usuário envie dados de alta qualidade para o app do VCU.
+RF012| A aplicação deve permitir que o usuário receba dados de alta qualidade para o app do VCU.
+RF013| A aplicação deve permitir que o usuário visualize dados relacionados às postagens.
+RF014| A aplicação deve permitir que o usuário visualize dados relacionados aos status das postagens.
+RF015| A aplicação deve permitir que o usuário visualize gráficos relacionados às postagens.
 
 </br>
 
@@ -94,7 +85,7 @@ RNF002| A aplicação deve ter boa usabilidade e tempo rápido de resposta.
 
 ### 3.1 <a name="3_1"> Épicos</a>
 
-#### EP01: Sistema de contas
+#### EP01: Perfis
 Funcionalidades da aplicação ligadas á login & navegação.
 
 #### EP02: Dados
@@ -106,16 +97,26 @@ Funcionalidades da aplicação ligadas ao gerenciamento de notícias e suas func
 #### EP04: Benefícios
 Funcionalidades da aplicação ligadas ao gerenciamento de benefícios e suas funcionalidades.
 
-#### EP05: Anúncios
+#### EP05: Postagens
 Funcionalidades da aplicação ligadas ao gerenciamento de anúncios e suas funcionalidades.
 
-#### EP06: App
+#### EP06: Navegação
 Funcionalidades da aplicação ligadas às funcionalidades que propiciam uma boa navegação no app.
+
+#### EP07: Integração
+Funcionalidades da aplicação ligadas à integração do VCU com o VCG.
 
 ### 3.2 <a name="3_2"> Histórias de Usuário</a>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIhwtJk-kRXEPWQFnGBw6V3KFDq9TuldGQ_liFcLGGcEK9KsnhaRRFCi_wKIeNCXkF27gg07pZiRql/pubhtml?gid=0&single=true" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIhwtJk-kRXEPWQFnGBw6V3KFDq9TuldGQ_liFcLGGcEK9KsnhaRRFCi_wKIeNCXkF27gg07pZiRql/pubhtml?gid=1655850659&single=true" width="150%" height="825px"></iframe>
+Acesse aqui o documento: [Backlog](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIhwtJk-kRXEPWQFnGBw6V3KFDq9TuldGQ_liFcLGGcEK9KsnhaRRFCi_wKIeNCXkF27gg07pZiRql/pubhtml?gid=1655850659&single=true)
 
 ### 3.3 <a name="3_3"> Critérios de aceitação</a>
 
 Definir especificidades, como qual tipo de gráfico utilizar.
+
+### Referências
+
+* Over26. Disponível em <https://fga-eps-mds.github.io/2019.2-Over26/#/>
+* Lino. Disponível em <https://github.com/BotLino/Lino>
+* Backlog do Produto - Passo a passo como construir e priorizar - Cultura Ágil. Disponível em <https://www.gp4us.com.br/backlog-do-produto/>

@@ -15,8 +15,15 @@
 
 ## Instalação
 
-> * ``` git clone https://github.com/fga-eps-mds/2020.1-Grupo6.git``` <br> <br>
+
+#### Clone repositório:
+
+> * ``` git clone https://github.com/fga-eps-mds/2020.1-Grupo6.git``` <br> 
+
+#### Instale o mkdocs e o mkdocs-material 
+
 > * ``` pip install mkdocs```
+> * ``` pip install mkdocs-material```
 
 ### Guia de Instalção e outros comandos do MkDocs
 - [MkDocs Guide](https://www.mkdocs.org/#installation)

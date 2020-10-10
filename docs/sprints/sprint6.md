@@ -10,7 +10,7 @@
 
 Número da Sprint: 6 <br>
 Data de Início:  29/09/2020 <br>
-Data de Término: 05/10/2020 <br>
+Data de Término: 09/10/2020 <br>
 
 ## Estrutura de Papéis na Equipe
 
@@ -59,6 +59,7 @@ Data de Término: 05/10/2020 <br>
   - US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
 - Entregar User Storys da Sprint
 - Finalizar Protótipo
+- Apresentação da R1
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
@@ -74,28 +75,30 @@ Data de Término: 05/10/2020 <br>
 - Refatorar Roadmap [Issue 95](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/95)
 - Refatorar EAP [Issue 96](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/96)
 - Elaborar Cronograma [Issue 98](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/98)
-- Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
 - Plano de Qualidade de Código [Issue 100](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/100)
-
-
-**Dívidas**
-
-- Sanar Dívidas Técnicas
-  - US01 - Login.[Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
-  - US02 - Logout.[Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)
-  - US30 - Alterar status[Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
-  - US31 - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
-  - Protótipo. [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
-  - US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
-  - US24 - Criar benefícios [Issue 89](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/89)
-  - US27 - visualizar benefícios 
-  - US32 - filtrar lista por status 
-  - US33 - filtrar lista por anonimato 
 - Finalizar Protótipo
 - Plano de Riscos
 - Refatorar o documento de Arquitetura
 - Plano de Monitoramento de custos(EVM)
 - Plano de Treinamento
+
+- US30 - Alterar status[Issue 80](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/80)
+- US31 - [Issue 81](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/81)
+- Protótipo. [Issue 74](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/74)
+- US34 - Sidebar. [Issue 73](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/73)
+- US24 - Criar benefícios [Issue 89](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/89)
+
+**Dívidas**
+
+- Sanar Dívidas Técnicas
+  - US01 - Login.[Issue 76](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/76)
+  - US02 - Logout.[Issue 77](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/77)  
+  - US27 - visualizar benefícios [Issue 110](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/110)
+  
+  - US32 - filtrar lista por status 
+  - US33 - filtrar lista por anonimato 
+  - Plano de Qualidade de Documentos [Issue 101](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/101)
+
 
 ## Relato do Scrum Master
 

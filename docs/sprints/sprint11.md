@@ -52,7 +52,7 @@ Data de Término: 16/11/2020 <br>
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
-- [Reunião Review da Sprint 11 e Planejamento Sprint 12](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/)
+- [Reunião Review da Sprint 11 e Planejamento Sprint 12](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/146)
 
 
 ## Resultados

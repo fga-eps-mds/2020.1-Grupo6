@@ -6,8 +6,6 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |04/11/2020|   0.1    | Criação do Documento        |   Mateus Sousa   |
-|09/11/2020|   0.2    | Finalização do Documento        |   Mateus Sousa   |
-
 
 Número da Sprint: 11 <br>
 Data de Início:  10/11/2020 <br>

@@ -15,10 +15,10 @@ Data de Término: 26/10/2020 <br>
 ## Estrutura de Papéis na Equipe
 
 ### Scrum Master:
-- Gabriel
+- Mateus A.
 
 ### Product Owner:
-- Mateus A.
+- Gabriel
 
 ### DevOps:
 - Guilherme

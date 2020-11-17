@@ -10,8 +10,8 @@
 
 
 Número da Sprint: 11 <br>
-Data de Início:  10/11/2020 <br>
-Data de Término: 16/11/2020 <br>
+Data de Início:  04/11/2020 <br>
+Data de Término: 09/11/2020 <br>
 
 ## Estrutura de Papéis na Equipe
 
@@ -68,11 +68,14 @@ Data de Término: 16/11/2020 <br>
 - Treinamento de Testes [Issue 123](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/123)
 
 - Aplicação de Testes na feature de gestão do perfil do gestor[Issue ##]()
-- Aplicação de Testes no épico de benefícios[Issue 145](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/145)
+- Aplicação de Testes no épico de Notícias[Issue 145](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/145)
 
-- US 05,06,07,08 - visualizar número de postagens [Issue 144](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/144)
+- US 05 visualizar número de postagens [Issue 144](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/144)
 
-- US 09 visualizar lista rankeada [##](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/)
+- US 09 visualizar lista rankeada [Issue 150](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/150)
+
+**Tarefas Adicionais**
+- Adicionar ao projeto ferramenta Sonarqube
 
 
 ## Relato do Scrum Master

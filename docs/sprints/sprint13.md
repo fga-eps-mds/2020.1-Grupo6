@@ -46,7 +46,7 @@ US's
 
 ## Ata da Reunião de Review da Sprint e Planejamento da Sprint seguinte
 
-- [Reunião Review da Sprint 12 e Planejamento Sprint 13](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/)
+- [Reunião Review da Sprint 13 e Planejamento Sprint 14](https://github.com/fga-eps-mds/2020.1-Grupo6/issues/)
 
 
 ## Resultados

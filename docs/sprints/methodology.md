@@ -26,15 +26,15 @@ Basicamente, os métodos ágeis são um conjunto de práticas eficazes que se de
 São consideradas métodos ou frameworks ágeis [3][4]:
 
 - SCRUM;
-- *Scaled Agile Framework* (SAFe);
-- *Feature Driven-Development* (FDD);
-- *Test Driven Development* (TDD);
-- *eXtreme Programming* (XP);
-- *IBM Rational Unified Process* (IRUP);
-- *Dynamic Systems Development Method* (DSDM);
-- *Microsoft Solutions Framework* (MSF);
-- *Adaptative Software Development (ASD)*;
-- Entre outros...
+- *Scaled Agile Framework* (SAFe);  
+- *Feature Driven-Development* (FDD);  
+- *Test Driven Development* (TDD);  
+- *eXtreme Programming* (XP);  
+- *IBM Rational Unified Process* (IRUP);  
+- *Dynamic Systems Development Method* (DSDM);  
+- *Microsoft Solutions Framework* (MSF);  
+- *Adaptative Software Development (ASD)*;  
+- Entre outros...  
 
 ## 3) Métodos ágeis adaptáveis
 
@@ -44,10 +44,10 @@ Pesquisas empíricas mostram que métodos tradicionais usados no desenvolvimento
 
 Fazendo coro às afirmações acima e levando em consideração as necessidades do nosso projeto, foi-se necessário adaptar alguns métodos, escolhendo-se apenas algumas partes específicas de cada, a fim de se encontrar um "método X" no qual o nosso time atingisse uma eficiência e produtividade satisfatória. Dos métodos utilizados (e adaptados) foram : 
 
-- SCRUM;
-- *eXtreme Programming* (XP);
-- *IBM Rational Unified Process* (IRUP);
-- Kanban;
+- SCRUM;  
+- *eXtreme Programming* (XP);  
+- *IBM Rational Unified Process* (IRUP);  
+- Kanban;  
 
 Cada um dos métodos acima será brevemente descrito abaixo e, em seguida, apontaremos o que for utilizado de cada um deles.
 
@@ -67,29 +67,29 @@ Dentro de uma equipe de projeto que atua no ambiente SCRUM, há vários papéis 
 
 #### 3.1.1) Eventos do método:
 
-- *Sprints (com duração bem definida)*;
+- *Sprints (com duração bem definida)*;  
 
-- *Daily SCRUM*;
+- *Daily SCRUM*;  
 
-- *Sprint Planning*;
+- *Sprint Planning*;  
 
-- *Sprint Review*;
+- *Sprint Review*;  
 
-- *Sprint Retrospective*;
+- *Sprint Retrospective*;  
 
-- *Time-box meetings*;
+- *Time-box meetings*;  
 
 #### 3.1.2) Eventos do método utilizados no projeto:
 
-- *Sprints* (de 1 semana);
+- *Sprints* (de 1 semana);  
 
-- *Daily SCRUM* **;
+- *Daily SCRUM* **;  
 
-- *Sprint Planning*;
+- *Sprint Planning*;  
 
-- *Sprint Retrospective*;
+- *Sprint Retrospective*;  
 
-** No começo do desenvolvimento do projeto adotamos o uso das *dailies* rigorasamente. Todavia, com o decorrer do projeto, foi identificado que o time estava com bastante dificuldade de manter a sua prática e, por isso, um pouco antes da R2, passou a não ser mais realizada.
+**** No começo do desenvolvimento do projeto adotamos o uso das *dailies* rigorasamente. Todavia, com o decorrer do projeto, foi identificado que o time estava com bastante dificuldade de manter a sua prática e, por isso, um pouco antes da R2, passou a não ser mais realizada.
 
 ### 3.2) *eXtreme Programming* (XP):
 
@@ -99,52 +99,52 @@ Criada em 1997, o XP é um método de desenvolvimento de software, leve, não é
 
 O objetivo principal do XP é levar ao extremo um conjunto de práticas que são ditas como boas na engenharia de software e suas práticas são fundamentadas nos valores abaixo:
 
-- Comunicação
-- Coragem
-- Feedback
-- Respeito
-- Simplicidade
+- Comunicação  
+- Coragem  
+- Feedback  
+- Respeito  
+- Simplicidade  
 
 #### 3.2.1) Práticas do método:
 
 O XP foi descrito como tendo 12 práticas, agrupadas em quatro áreas [11]:
 
-***Fine-scale feedback***
-- *Pair programming*;
-- *Planning game*;
-- *Test-driven development*;
-- *Whole team*;
+***Fine-scale feedback***  
+- *Pair programming*;  
+- *Planning game*;  
+- *Test-driven development*;  
+- *Whole team*;  
 
-***Continuous process***
-- *Continuous integration*;
-- *Refactoring or design improvement*;
-- *Small releases*;
+***Continuous process***  
+- *Continuous integration*;  
+- *Refactoring or design improvement*;  
+- *Small releases*;  
 
-***Shared understanding***
-- *Coding standards*;
-- *Collective code ownership*;
-- *Simple design*;
-- *System metaphor*;
+***Shared understanding***  
+- *Coding standards*;  
+- *Collective code ownership*;  
+- *Simple design*;  
+- *System metaphor*;  
 
-***Programmer welfare***
-- *Sustainable pace*;
+***Programmer welfare***  
+- *Sustainable pace*;  
 
 #### 3.2.2) Práticas do método utilizados no projeto:
 
 Das 12 práticas acima descritas, 7 foram utilizadas. São elas:
 
-***Fine-scale feedback***
-- *Pair programming*;
-- *Planning game*;
-- *Whole team*;
+***Fine-scale feedback***  
+- *Pair programming*;  
+- *Planning game*;  
+- *Whole team*;  
 
-***Continuous process***
-- *Continuous integration*;
-- *Refactoring or design improvement*;
+***Continuous process***  
+- *Continuous integration*;  
+- *Refactoring or design improvement*;  
 
 ***Shared understanding***
-- *Coding standards*;
-- *Collective code ownership*;
+- *Coding standards*;  
+- *Collective code ownership*;  
 
 
 ### 3.3) IBM Rational Unified Process (IRUP):
@@ -161,31 +161,31 @@ O IRUP usa a abordagem da orientação a objetos em sua concepção e é projeta
 
 Dentre as principais práticas do RUP podemos citar:
 
-- Gestão de Requisitos;
+- Gestão de Requisitos;  
 
-- Uso de Arquitetura Baseada em Componentes;
+- Uso de Arquitetura Baseada em Componentes;  
 
-- Uso de Software de Modelos Visuais
+- Uso de Software de Modelos Visuais;  
 
-- Verificação da Qualidade do Software;
+- Verificação da Qualidade do Software;  
 
-- Gestão e Controle de Mudanças do Software;
+- Gestão e Controle de Mudanças do Software;  
 
 #### 3.3.2) Práticas do método utilizados no projeto:
 
 Em nosso projeto, todas as 5 acima foram utilizadas:
 
-- Gestão de Requisitos;
+- Gestão de Requisitos;  
 
-- Uso de Arquitetura Baseada em Componentes;
+- Uso de Arquitetura Baseada em Componentes;  
 
-- Uso de Software de Modelos Visuais **;
+- Uso de Software de Modelos Visuais **;  
 
-- Verificação da Qualidade do Software;
+- Verificação da Qualidade do Software;  
 
-- Gestão e Controle de Mudanças do Software;
+- Gestão e Controle de Mudanças do Software;  
 
-** Sobre o uso de modelos visuais de software, vale ressaltar que a carga completa proporcionada pelo UML (*Unified Modeling Language*) é bastante alta e, por isso, foram escolhidas apenas as representações que o time do projeto identificou como mais didáticas.
+**** Sobre o uso de modelos visuais de software, vale ressaltar que a carga completa proporcionada pelo UML (*Unified Modeling Language*) é bastante alta e, por isso, foram escolhidas apenas as representações que o time do projeto identificou como mais didáticas.
 
 
 ### 3.4) Kanban:
@@ -200,13 +200,13 @@ Utilizando o Kanban para visualizar o trabalho de novas formas, um "*Time Scrum*
 
 #### 3.4.1) Práticas do método:
 
-- Visualização do Fluxo de Trabalho;
+- Visualização do Fluxo de Trabalho;  
 
-- Limitando o Trabalho em Progresso (WIP);
+- Limitando o Trabalho em Progresso (WIP);  
 
-- Gerenciamento ativo dos itens de trabalho em andamento;
+- Gerenciamento ativo dos itens de trabalho em andamento;  
 
-- Inspecionando e adaptando sua definição de “Fluxo de Trabalho”;
+- Inspecionando e adaptando sua definição de “Fluxo de Trabalho”;  
 
 
 #### 3.4.2) Práticas do método utilizados no projeto:
@@ -228,38 +228,38 @@ Em sua sexta edição (2017), o PMBOK reconhece 49 processos que recaem em 5 gru
 
 Dentre os 49 processos reconhecidos pela sexta edição do guia PMBOK, o time se preocupou em utilizar somente os que foram identificado como cabíveis ao projeto e, alguns deles, são mostrados nos tópicos abaixo:
 
-- Desenvolver o termo de abertura do projeto;
-- Desenvolver o plano de gerenciamento do projeto;
-- Orientar e gerenciar o trabalho do projeto;
-- Monitorar e controlar o trabalho do projeto;
-- Realizar o controle integrado de mudanças;
-- Encerrar o projeto;
-- Coletar os requisitos;
-- Criar a EAP;
-- Validar o escopo;
-- Controlar o escopo;
-- Planejar o gerenciamento do Cronograma;
-- Definir as atividades;
-- Sequenciar atividades;
-- Estimar os recursos das atividades;
-- Estimar as durações das atividades;
-- Desenvolver o cronograma;
-- Controlar o cronograma;
-- Planejar o gerenciamento da qualidade;
-- Controlar a qualidade;
-- Mobilizar a equipe do projeto;
-- Desenvolver a equipe do projeto;
-- Gerenciar a equipe do projeto;
-- Planejar o gerenciamento das comunicações;
-- Gerenciar as comunicações;
-- Planejar o gerenciamento dos riscos;
-- Identificar os riscos;
-- Realizar a análise quantitativa dos riscos;
-- Planejar as respostas aos riscos;
-- Controlar os riscos;
-- Identificar partes interessadas;
-- Gerenciar o envolvimento das partes interessadas;
-- Controlar o envolvimento das partes interessadas;
+- Desenvolver o termo de abertura do projeto;  
+- Desenvolver o plano de gerenciamento do projeto;  
+- Orientar e gerenciar o trabalho do projeto;  
+- Monitorar e controlar o trabalho do projeto;  
+- Realizar o controle integrado de mudanças;  
+- Encerrar o projeto;  
+- Coletar os requisitos;  
+- Criar a EAP;  
+- Validar o escopo;  
+- Controlar o escopo;  
+- Planejar o gerenciamento do Cronograma;  
+- Definir as atividades;  
+- Sequenciar atividades;  
+- Estimar os recursos das atividades;  
+- Estimar as durações das atividades;  
+- Desenvolver o cronograma;  
+- Controlar o cronograma;  
+- Planejar o gerenciamento da qualidade;  
+- Controlar a qualidade;  
+- Mobilizar a equipe do projeto;  
+- Desenvolver a equipe do projeto;  
+- Gerenciar a equipe do projeto;  
+- Planejar o gerenciamento das comunicações;  
+- Gerenciar as comunicações;  
+- Planejar o gerenciamento dos riscos;  
+- Identificar os riscos;  
+- Realizar a análise quantitativa dos riscos;  
+- Planejar as respostas aos riscos;  
+- Controlar os riscos;  
+- Identificar partes interessadas;  
+- Gerenciar o envolvimento das partes interessadas;  
+- Controlar o envolvimento das partes interessadas;  
 
 ## 5) Análises de Desempenho do Time
 

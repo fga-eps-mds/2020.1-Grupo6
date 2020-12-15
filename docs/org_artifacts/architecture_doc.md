@@ -117,37 +117,13 @@ PostgreSQL é um sistema de banco de dados relacional de objeto de código abert
 
 <p align='justify'>A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.</p>
 
-### 3.1 Usabilidade
+### 3.1 Metas
 
-Aplicação Web (site), com interface de um dashboad de fácil entendimento de suas informações e dados visuais intuitivos. Responsivo para se adequar as diferentes formas de acessá-lo.
+ A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa gerenciar e acompanhar os processos de forma imediata. Para que o usuário gestor cumpra o objetivo de visualizar os dados e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
 
-### 3.2 Manutenibilidade
+### 3.2 Restrições
 
-Um software com alta capacidade de ser modificado para adequar-se a novos requisitos solicitado.
-
-### 3.3 Escalabilidade
-
-Capaz de suportar o crescimento no número de usuários que utilizarem a plataforma.
-
-### 3.4 Portabilidade
-
-Poderá ter acesso à aplicação web, com acesso a internet, por qualquer navegador web.
-
-### 3.5 Segurança
-
-O acesso à aplicação será seguro ao usuário, sendo uma ferramenta confiável para o acesso.
-
-### 3.6 Restrições de design
-
-As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento de software. A elaboração do projeto será realizada utilizando JavaScript, ReactJS, HTML, CSS, Kibana, Logstash, Docker e PostgreSQL.
-
-### 3.7 Restrições operacionais
-
-Para as restrições operacionais referentes à aplicação, está o fato que a tecnologia desenvolvida para sua operação necessita da interação com um servidor disponibilizado por terceiros.
-
-### 3.8 Restrições compatibilidade
-
-A tecnologia será desenvolvida em parceria com outro desenvolvimento de software, portanto, o software devem está de acordo com outro projeto para que a interação entre as tecnologias funcionem corretamente, sem problemas de compatibilidade entre elas.
+ As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento do software. A elaboração do projeto, website, utilizando JavaScript, ReactJS, HTML, CSS, NodeJS, Docker e PostgreSQL. Existem restrições operacionais referentes à aplicação, o fato que a tecnologia desenvolvida para sua operação necessita da interação com um servidor de hospedagem disponibilizado por terceiros. A tecnologia será desenvolvida em parceria com outro desenvolvimento de software, portanto, o software deve está de acordo com outro projeto para consumir seus dados e gerá-los no site, em que a interação entre as tecnologias funcionem corretamente, sem problemas de compatibilidade entre elas.
 
 
 ## 4. Visão Lógica

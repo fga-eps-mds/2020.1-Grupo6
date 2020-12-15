@@ -17,10 +17,10 @@ Este documento apresenta o monitorameno dos custos do projeto. Os calculos apres
 
 
 ### Tabela Agile EVM
-<iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubhtml?gid=665362712&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubhtml?gid=665362712&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="371"></iframe>
 
 ### Gráfico EVM
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubchart?oid=210714943&amp;format=interactive"></iframe>
+<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubchart?oid=210714943&amp;format=interactive" width="600" height="371"></iframe>
 
 ## Referências
 1. AgileEVM [https://drive.google.com/file/d/1m-7rGOdZb1ZuHTcPdPlvMLunZY56Cpd_/view?usp=sharing](https://drive.google.com/file/d/1m-7rGOdZb1ZuHTcPdPlvMLunZY56Cpd_/view?usp=sharing)

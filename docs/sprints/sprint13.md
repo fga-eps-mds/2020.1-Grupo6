@@ -57,4 +57,4 @@ US's
 
 ## Relato do Scrum Master
 
-Nesta sprint era planejado a integração entre o VCU e o VCG. Porém, não foi possível finaliza-la. Além disso, foram feitos os Teste de Benefício, e a implementação do CI.
+Nesta sprint foi planejado a integração entre o VCU e o VCG. Porém, não foi possível finaliza-la. Além disso, foram feitos os Teste de Benefício, e a implementação do CI.

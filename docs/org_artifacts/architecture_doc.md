@@ -7,6 +7,7 @@
 | 14/09/2020 | 0.1 | Criação do Documento e Adição do template e do sumário | Guilherme Aguiar |
 | 18/09/2020 | 0.2 | Criação da visão de casos de uso | Bruno Nunes |
 | 21/09/2020 | 0.3 | Criação das Metas e Restrições Arquiteturais | Tomás Veloso |
+| 14/12/2020 | 0.4 | Reestruturação Visão Lógica | Bruno e Hércules |
 
 ## Sumário
 
@@ -27,11 +28,11 @@
 [2.2.6 Adverts](#226-adverts) <br>
 [2.3 Banco de Dados](#23-banco-de-dados) <br>
 [3. Restrições e Metas Arquiteturais](#3-restricoes-e-metas-arquiteturais) <br>
-[4. Visão de Casos de Uso](#4-visao-de-casos-de-uso) <br>
-[4.1 Atores](#41-atores) <br>
-[4.2 Diagrama UC](#42-diagrama-uc) <br>
-[4.3 Descrição dos Casos de Uso](#43-descricao-dos-casos-de-uso) <br>
-[5. Visão Lógica](#5-visao-logica) <br>
+[4. Visão Lógica](#4-Visão-Lógica) <br>
+[4.2.1 Back-End](#421-back-end) <br>
+[4.2.2 Front-End](#422-front-end) <br>
+[4.3 Modelagem de dados](#43-modelagem-de-dados) <br>
+[5. Visão de Implementação](#5-Visão-de-Implementação) <br>
 
 
 
@@ -112,109 +113,31 @@ f
 
 PostgreSQL é um sistema de banco de dados relacional de objeto de código aberto com mais de 30 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho. O banco é divido em schemas, cada microserviço irá interagir com um único esquema, o que contribui para a independência dos microserviços e a diminuição do acoplamento. A seguir serão representadas o diagrama dos esquemas.
 
-#### 2.3.1  Postagem
-
-[![reactjs](img/bd_post_1.png)](img/bd_post_1.png)
-
-#### 2.3.1  Usuário
-
-[![reactjs](img/bd_user_1.png)](img/bd_user_1.png)
-
-#### 2.3.1  Notícias
-
-[![reactjs](img/bd_news_1.png)](img/bd_news_1.png)
-
-#### 2.3.1  Benefícios
-
-[![reactjs](img/bd_benefit_1.png)](img/bd_benefit_1.png)
-
-
-
-
-
-
 ## 3. Restrições e Metas Arquiteturais
 
 <p align='justify'>A tomada de decisão pela arquitetura de pequena escala (software), foi tomada a partir da Engenharia de Requisitos conciliado com o levantamento de restrições para o desenvolvimento do software e o usuário de destino. Entretanto, existem restrições no funcionamento do software, restrições de design, operacionais e de compatibilidade. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.</p>
 
-### 3.1 Usabilidade
+### 3.1 Metas
 
-Aplicação Web (site), com interface de um dashboad de fácil entendimento de suas informações e dados visuais intuitivos. Responsivo para se adequar as diferentes formas de acessá-lo.
+ A usabilidade da aplicação website, podendo ser acessada pelos navegadores modernos, terá interface de um dashboad para fácil entendimento de suas informações em dados visuais intuitivos. Por tanto, a eficiência do site será conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa gerenciar e acompanhar os processos de forma imediata. Para que o usuário gestor cumpra o objetivo de visualizar os dados e operar suas informações de forma clara e simples, tendo como meta uma aplicação eficiente. A manutenibilidade do software será a capacidade de ser modificado para adequa-se a novos requisitos solicitados, para melhorias de funcionalidades ou incrementos de novas funções. Para a execução de suas funções de forma eficiente, as funcionalidades devem ser submetidas a testes, para verificação e validação do seu comportamento e assim possuir um produto de software eficiente e com qualidade.
 
-### 3.2 Manutenibilidade
+### 3.2 Restrições
 
-Um software com alta capacidade de ser modificado para adequar-se a novos requisitos solicitado.
-
-### 3.3 Escalabilidade
-
-Capaz de suportar o crescimento no número de usuários que utilizarem a plataforma.
-
-### 3.4 Portabilidade
-
-Poderá ter acesso à aplicação web, com acesso a internet, por qualquer navegador web.
-
-### 3.5 Segurança
-
-O acesso à aplicação será seguro ao usuário, sendo uma ferramenta confiável para o acesso.
-
-### 3.6 Restrições de design
-
-As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento de software. A elaboração do projeto será realizada utilizando JavaScript, ReactJS, HTML, CSS, Kibana, Logstash, Docker e PostgreSQL.
-
-### 3.7 Restrições operacionais
-
-Para as restrições operacionais referentes à aplicação, está o fato que a tecnologia desenvolvida para sua operação necessita da interação com um servidor disponibilizado por terceiros.
-
-### 3.8 Restrições compatibilidade
-
-A tecnologia será desenvolvida em parceria com outro desenvolvimento de software, portanto, o software devem está de acordo com outro projeto para que a interação entre as tecnologias funcionem corretamente, sem problemas de compatibilidade entre elas.
-
-## 4. Visão de Casos de Uso
-
-### 4.1 Atores
-
-| Atores | Descrição |
-|:--------:|:--------:|
-| Gestor | O administrador da plataforma que gerencia a aplicação Vamos Cuidar  |
-| NodeJS API  | A interface de programação de aplicações que irá se comunicar com outra plataforma  |
-
-## 4.2 Diagramas UC
-
-[![architecture_diagram](img/use_case_diagram.png)](img/use_case_diagram.png)
-
-### 4.3 Descrição dos Casos de Uso
-
-| Caso de uso | Descrição do caso de uso |
-|:--------|:--------:|
-| UC01 - Visualizar dashboard | Este caso de uso ocorrerá quando o gestor acessar a página principal ou seção Dashboard  |
-| UC02 - Listar situação do problema | Este caso de uso poderá ocorrer quando o gestor entrar na seção de situações e receber as informações |
-| UC03 - Visualizar situação do problema | Este caso de uso ocorrerá quando o NodeJS API solicitar as situações |
-| UC04 - Atualizar situação do problema | Este caso de uso ocorrerá quando o gestor acessar uma situação |
-| UC05 - Carregar informações | Este caso de uso ocorrerá quando o NodeJS API submeter uma situação |
-| UC06 - Criar anúncios | Este caso de uso ocorrerá quando o gestor clicar na criação de anúncio e inserir dados sobre o anúncio |
-| UC07 - Editar anúncios | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um anúncio |
-| UC08 - Deletar anúncios | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um anúncio |
-| UC09 - Listar anúncios | Este caso de uso ocorrerá quando o gestor entrar no seção de anúncios |
-| UC10 - Visualizar anúncios | Este caso de uso ocorrerá quando o NodeJS API requisitar os anúncios |
-| UC11 - Criar notícia | Este caso de uso ocorrerá quando o gestor clicar na criação de notícias e inserir dados sobre o mesmo |
-| UC12 - Editar notícia | Este caso de uso ocorrerá quando o gestor já tiver criado previamente uma notícia |
-| UC13 - Deletar notícia | Este caso de uso ocorrerá quando o gestor já tiver criado previamente uma notícia |
-| UC14 - Listar notícias | Este caso de uso poderá ocorrer quando o gestor entrar no seção de notícia |
-| UC15 - Visualizar notícia | Este caso de uso ocorrerá quando o NodeJS API requisitar as notícias |
-| UC16 - Criar benefício | Este caso de uso ocorrerá quando o gestor clicar na criação de um benefício e inserir dados sobre o mesmo |
-| UC17 - Editar benefício | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um benefício |
-| UC18 - Deletar benefício | Este caso de uso ocorrerá quando o gestor já tiver criado previamente um benefício |
-| UC19 - Listar benefícios | Este caso de uso ocorrerá quando o gestor entrar no seção de benefícios |
-| UC20 - Visualizar benefício | Este caso de uso ocorrerá quando o NodeJS API requisitar os benefícios |
+ As restrições de design estão relacionadas às ferramentas e tecnologias escolhidas para para o desenvolvimento do software. A elaboração do projeto, website, utilizando JavaScript, ReactJS, HTML, CSS, NodeJS, Docker e PostgreSQL. Existem restrições operacionais referentes à aplicação, o fato que a tecnologia desenvolvida para sua operação necessita da interação com um servidor de hospedagem disponibilizado por terceiros. A tecnologia será desenvolvida em parceria com outro desenvolvimento de software, portanto, o software deve está de acordo com outro projeto para consumir seus dados e gerá-los no site, em que a interação entre as tecnologias funcionem corretamente, sem problemas de compatibilidade entre elas.
 
 
-## 5. Visão Lógica
+## 4. Visão Lógica
 
-### 5.1 NodeJS
+### 4.1 Visão Geral
 
-#### 5.1.1 Visão Geral
+Mostra a seguir a hierarquia dos pacotes, onde tem-se a decomposição do back-end, e juntamente o front-end. Em conjunto, a distribuição dos microserviços.
+
+### 4.2 Diagrama de pacotes
+#### 4.2.1 Back-End
 
 Para o back end, cada microserviço tem sua visão geral composta de quatro pacotes:
+
+[![nodejs_package](img/nodejs_package.jpg)](img/nodejs_package.jpg)
 
 
 * Controller <br>
@@ -227,16 +150,12 @@ A camada de roteamento define a maneira como as solicitações do cliente são t
 Pacote da aplicação onde são realizados os testes unitários da lógica da aplicação (controllers) e da estrutura da model.
 
 
-#### 5.1.2 Diagrama de Pacotes
-
-[![nodejs_package](img/nodejs_package.jpg)](img/nodejs_package.jpg)
-
-
-### 5.2 ReactJS
-
-#### 5.2.1 Visão Geral
+#### 4.2.2 Front-End
 
 Para o front end, cada microserviço tem sua visão geral composta de quatro pacotes:
+
+[![reactjs_package](img/reactjs_package.jpg)](img/reactjs_package.jpg)
+
 
 * Public <br>
 É onde residem seus arquivos estáticos. Se o arquivo não for importado por seu aplicativo JavaScript e precisar manter seu nome de arquivo, coloque-o aqui.
@@ -249,6 +168,9 @@ A pasta pages possuem componentes constituidos por vários componentes, que form
 * Utils <br>
 Esta é uma pasta cheia de funções auxiliares que são usadas globalmente. Mantenha seu código DRY (Don Don't Repeat Yourself) exportando a lógica repetida para um único local e importando-o onde for usado.
 
-#### 5.2.2 Diagrama de Pacotes
+### 4.3 Modelagem de dados
 
-[![reactjs_package](img/reactjs_package.jpg)](img/reactjs_package.jpg)
+[![DiagramaClasse](img/ClassDiagram.png)](img/ClassDiagram.png)
+
+## 5. Visão de Implantação
+

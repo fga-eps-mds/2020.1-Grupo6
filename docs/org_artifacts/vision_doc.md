@@ -255,14 +255,14 @@ O sistema desenvolvido terá auxilio ativo dos membros por todas as fases e disc
 ####	6.6 Restrições de regulamentares
 Existem atualmente lei que protegem e patronizam os dados dos usuários, como principal objetivo, garantir transparência no uso de dados das pessoas físicas em quaisquer meios. Em consequência disso, o projeto estará em conformidade com a Lei de proteção de Dados (Lei nº 13.709), LGPD.
 
-### 7: Paleta de cores
+### 7 Paleta de cores
 
 Como o Vamos Cuidar Gestor faz parte de um departamento da UnB, temos que seguir as regras de padronização de cores da mesma.
 
 Segue no link a seguir o arquivo com as paletas de cores da UnB :
 <http://www.marca.unb.br/arquivosdigitais/files/guia_pratico/guia_pratico.pdf>. Acessado em: 15 de Dezembro de 2020.
 
-### 8: Referências
+### 8 Referências
 
  **Vision document.** Disponível em:
   <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.

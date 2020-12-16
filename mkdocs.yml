@@ -46,6 +46,7 @@ nav:
       - EVM: org_artifacts/evm.md
     - Apresentações:
       - Release 1: presentations/release_1.md
+      - Release 2: presentations/release_2.md
 
 theme: 
   name: material

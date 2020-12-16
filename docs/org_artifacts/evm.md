@@ -20,7 +20,9 @@ Este documento apresenta o monitorameno dos custos do projeto. Os calculos apres
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubhtml?gid=665362712&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="371"></iframe>
 
 ### Gráfico EVM
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubchart?oid=210714943&amp;format=interactive" width="600" height="371"></iframe>
+<iframe width="617" height="404" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubchart?oid=210714943&amp;format=interactive"></iframe>
+
+[Gráfico Agile EVM](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCRGbq-eyWL86tUAxWFEaoUHKLS36ee1HteGiVGZ-smNajMe8bs7e8NkXjkvOkP4einJTSF8lhXKW6/pubchart?oid=210714943&format=interactive)
 
 ## Referências
 1. AgileEVM [https://drive.google.com/file/d/1m-7rGOdZb1ZuHTcPdPlvMLunZY56Cpd_/view?usp=sharing](https://drive.google.com/file/d/1m-7rGOdZb1ZuHTcPdPlvMLunZY56Cpd_/view?usp=sharing)

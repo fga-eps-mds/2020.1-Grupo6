@@ -1,0 +1,855 @@
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 25 },
+  "baseComponent": {
+    "id": "AXZYFoPNxN7ftST5ai9L",
+    "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd",
+    "name": "2020.1-VC_Gestor-FrontEnd",
+    "qualifier": "TRK",
+    "measures": [
+      { "metric": "complexity", "value": "86" },
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      { "metric": "functions", "value": "65" },
+      { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+      { "metric": "bugs", "value": "2", "bestValue": false },
+      { "metric": "ncloc", "value": "945" },
+      { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "comment_lines_density", "value": "3.6", "bestValue": false },
+      { "metric": "comment_lines", "value": "35" },
+      { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+      { "metric": "files", "value": "17" },
+      { "metric": "open_issues", "value": "12", "bestValue": false }
+    ]
+  },
+  "components": [
+    {
+      "id": "AXZt8XCGYcENODe_e71Z",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/services/api.js",
+      "name": "api.js",
+      "qualifier": "FIL",
+      "path": "src/services/api.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8r",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/app",
+      "name": "app",
+      "qualifier": "DIR",
+      "path": "src/components/app",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "2" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "66" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "3" },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8q",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/app/App.css",
+      "name": "App.css",
+      "qualifier": "FIL",
+      "path": "src/components/app/App.css",
+      "language": "css",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "33" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71h",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/app/App.js",
+      "name": "App.js",
+      "qualifier": "FIL",
+      "path": "src/components/app/App.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8p",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/app/App.test.js",
+      "name": "App.test.js",
+      "qualifier": "FIL",
+      "path": "src/components/app/App.test.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "8" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8Z",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages/BeneficiosCriar.js",
+      "name": "BeneficiosCriar.js",
+      "qualifier": "FIL",
+      "path": "src/components/pages/BeneficiosCriar.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "20" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "1", "bestValue": false },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71f",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/component-name",
+      "name": "component-name",
+      "qualifier": "DIR",
+      "path": "src/components/component-name",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "2" },
+        { "metric": "open_issues", "value": "1", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71d",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/component-name/component-name.css",
+      "name": "component-name.css",
+      "qualifier": "FIL",
+      "path": "src/components/component-name/component-name.css",
+      "language": "css",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "1", "bestValue": false },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71e",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/component-name/component-name.js",
+      "name": "component-name.js",
+      "qualifier": "FIL",
+      "path": "src/components/component-name/component-name.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8w",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components",
+      "name": "components",
+      "qualifier": "DIR",
+      "path": "src/components",
+      "measures": [
+        { "metric": "complexity", "value": "85" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "65" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "2", "bestValue": false },
+        { "metric": "ncloc", "value": "904" },
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.3",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "12" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "14" },
+        { "metric": "open_issues", "value": "12", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8R",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/components",
+      "name": "components",
+      "qualifier": "DIR",
+      "path": "src/components/components",
+      "measures": [
+        { "metric": "complexity", "value": "35" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "22" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "1", "bestValue": false },
+        { "metric": "ncloc", "value": "340" },
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "4" },
+        { "metric": "open_issues", "value": "7", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8P",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/components/estiloPostagem.css",
+      "name": "estiloPostagem.css",
+      "qualifier": "FIL",
+      "path": "src/components/components/estiloPostagem.css",
+      "language": "css",
+      "measures": [
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "1", "bestValue": false },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "70" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "1", "bestValue": false },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8O",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/components/Forms.js",
+      "name": "Forms.js",
+      "qualifier": "FIL",
+      "path": "src/components/components/Forms.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "10" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "99" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "3", "bestValue": false },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8y",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/index.css",
+      "name": "index.css",
+      "qualifier": "FIL",
+      "path": "src/index.css",
+      "language": "css",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "12" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt89",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:public/index.html",
+      "name": "index.html",
+      "qualifier": "FIL",
+      "path": "public/index.html",
+      "language": "web",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "48.9",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "23" },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8i",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages",
+      "name": "pages",
+      "qualifier": "DIR",
+      "path": "src/components/pages",
+      "measures": [
+        { "metric": "complexity", "value": "48" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "41" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "1", "bestValue": false },
+        { "metric": "ncloc", "value": "498" },
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.4",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "12" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "5" },
+        { "metric": "open_issues", "value": "4", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71a",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages/Postagem.js",
+      "name": "Postagem.js",
+      "qualifier": "FIL",
+      "path": "src/components/pages/Postagem.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "53" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71g",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/components/PostagemMenu.js",
+      "name": "PostagemMenu.js",
+      "qualifier": "FIL",
+      "path": "src/components/components/PostagemMenu.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "13" },
+        { "metric": "functions", "value": "10" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "62" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt8-",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:public",
+      "name": "public",
+      "qualifier": "DIR",
+      "path": "public",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "48.9",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "23" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8D",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/services",
+      "name": "services",
+      "qualifier": "DIR",
+      "path": "src/services",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "5" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8K",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/components/Sidebar.js",
+      "name": "Sidebar.js",
+      "qualifier": "FIL",
+      "path": "src/components/components/Sidebar.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "12" },
+        { "metric": "functions", "value": "8" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "109" },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "3", "bestValue": false },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XodivmdyxiKt81",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src",
+      "name": "src",
+      "qualifier": "DIR",
+      "path": "src",
+      "measures": [
+        { "metric": "complexity", "value": "85" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "65" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "2", "bestValue": false },
+        { "metric": "ncloc", "value": "921" },
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.3",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "12" },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "files", "value": "16" },
+        { "metric": "open_issues", "value": "12", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71c",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages/tabela.css",
+      "name": "tabela.css",
+      "qualifier": "FIL",
+      "path": "src/components/pages/tabela.css",
+      "language": "css",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "ncloc", "value": "86" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZt8XCGYcENODe_e71b",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages/tabela.js",
+      "name": "tabela.js",
+      "qualifier": "FIL",
+      "path": "src/components/pages/tabela.js",
+      "language": "js",
+      "measures": [
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "7.0",
+          "bestValue": false
+        },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "5" },
+        { "metric": "ncloc", "value": "66" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXZYF1XndivmdyxiKt8a",
+      "key": "Guilherme-Aguiar_2020.1-VC_Gestor-FrontEnd:src/components/pages/TabelaPosts.js",
+      "name": "TabelaPosts.js",
+      "qualifier": "FIL",
+      "path": "src/components/pages/TabelaPosts.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "41" },
+        { "metric": "functions", "value": "34" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "bugs", "value": "1", "bestValue": false },
+        { "metric": "ncloc", "value": "273" },
+        { "metric": "reliability_rating", "value": "3.0", "bestValue": false },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.5",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "7" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "3", "bestValue": false },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    }
+  ]
+}

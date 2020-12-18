@@ -15,6 +15,7 @@
 |18/09/2020|   1.0   | Revisão    |  Mateus Augusto  |
 |18/09/2020|   1.1   | Atualização do item 4.2    |  Bruno  |\
 |21/09/2020|   1.2   | Atualização dos recursos    |  Vitor  |
+|15/12/2020|   1.3   | Adição regras para a paleta de cores  |  Bruno  |
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
@@ -23,7 +24,8 @@
 [4. Visão Geral do Produto](#4-visao-geral-do_produto) <br>
 [5. Recursos do Produto](#5-recursos-do-produto) <br>
 [6. Restrições](#6-restriçoes) <br>
-[7.  Referências](#7-referencias) <br>
+[7. Paleta de cores](#7-paleta-de-cores) <br>
+[8.  Referências](#8-referencias) <br>
 
 
 ###	1: Introdução
@@ -253,7 +255,14 @@ O sistema desenvolvido terá auxilio ativo dos membros por todas as fases e disc
 ####	6.6 Restrições de regulamentares
 Existem atualmente lei que protegem e patronizam os dados dos usuários, como principal objetivo, garantir transparência no uso de dados das pessoas físicas em quaisquer meios. Em consequência disso, o projeto estará em conformidade com a Lei de proteção de Dados (Lei nº 13.709), LGPD.
 
-### 7: Referências
+### 7 Paleta de cores
+
+Como o Vamos Cuidar Gestor faz parte de um departamento da UnB, temos que seguir as regras de padronização de cores da mesma.
+
+Segue no link a seguir o arquivo com as paletas de cores da UnB :
+<http://www.marca.unb.br/arquivosdigitais/files/guia_pratico/guia_pratico.pdf>. Acessado em: 15 de Dezembro de 2020.
+
+### 8 Referências
 
  **Vision document.** Disponível em:
   <https://www.ibm.com/support/knowledgecenter/en/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html>. Acessado em: 10 de Setembro de 2020.

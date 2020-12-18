@@ -221,7 +221,7 @@
 
 <p align = "justify">Durante a execução alguns problemas de rede ocorreram, porém não foram impedimento para a conclusão da avaliação. Sons externos também atrapalharam em alguns momentos dificultando o diálogo, porém nada que viesse a impedir o prosseguimento da avaliação.</p>
 
-<p align = "justify">Alguns problemas em relação a interface e mau funcionamento das funcionalidades foram identificados durante o teste. Apenas um dos bugs foi mais grave, neste caso a funcionalidade de criação de um notícia não funcionou no momento, mas para contornar a siituação o avaliador executou essa mesma funcionalidade com êxito na sua máquina e daí foi compartilhada a tela. Estes problemas foram anotados e entraram como sprint backlog da [Sprint 16](sprint16.md) de refatoração e correção de erros. Além disso o feedback do cliente contou com a validação de todas a funcionalidades, que atenderam sua expectativa por estarem realizando o esperado.</p>
+<p align = "justify">Alguns problemas em relação a interface e mau funcionamento das funcionalidades foram identificados durante o teste. Apenas um dos bugs foi mais grave, neste caso a funcionalidade de criação de um notícia não funcionou no momento, mas para contornar a siituação o avaliador executou essa mesma funcionalidade com êxito na sua máquina e daí foi compartilhada a tela. Estes problemas foram anotados e entraram como sprint backlog da Sprint 16 de refatoração e correção de erros. Além disso o feedback do cliente contou com a validação de todas a funcionalidades, que atenderam sua expectativa por estarem realizando o esperado.</p>
 
 <p align = "justify">Por fim foi aplicado o questionário SUS. A suas respostas se encontram a seguir, assim como o indicador de qualidade de uso do sistema.</p>
 
@@ -259,6 +259,8 @@ Resultado final do SUS: 80
 Score: B
 
 O Formulário com as respostas se encontram neste [link](https://docs.google.com/spreadsheets/d/1YeWOcvaPyNhVHlDKcohAWxHr-8geNIsGKQUZPNJ-y1Y/edit?usp=sharing)
+
+Link para relatório da [Sprint 16](../sprints/sprint16.md).
 
 ### Referências
 

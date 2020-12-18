@@ -1,0 +1,1613 @@
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 45 },
+  "baseComponent": {
+    "id": "AXWvpZ9gpmov4aJr_2A7",
+    "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages",
+    "name": "packages",
+    "qualifier": "DIR",
+    "path": "packages",
+    "measures": [
+      {
+        "metric": "duplicated_lines_density",
+        "value": "13.0",
+        "bestValue": false
+      },
+      { "metric": "functions", "value": "91" },
+      { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "comment_lines", "value": "45" },
+      { "metric": "files", "value": "31" },
+      { "metric": "complexity", "value": "128" },
+      { "metric": "bugs", "value": "0", "bestValue": true },
+      { "metric": "ncloc", "value": "1822" },
+      { "metric": "coverage", "value": "91.7", "bestValue": false },
+      { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+      { "metric": "comment_lines_density", "value": "2.4", "bestValue": false },
+      { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+      { "metric": "open_issues", "value": "2", "bestValue": false }
+    ]
+  },
+  "components": [
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ag",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/AuthenticateUserService.js",
+      "name": "AuthenticateUserService.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/AuthenticateUserService.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "11" },
+        { "metric": "coverage", "value": "0.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "8.3",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "1" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10v",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/AuthResolve.js",
+      "name": "AuthResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/AuthResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "22" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "4.3",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "1" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2At",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/models/benefit.js",
+      "name": "benefit.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/models/benefit.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "30" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ao",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/BenefitController.js",
+      "name": "BenefitController.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/BenefitController.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "44" },
+        { "metric": "coverage", "value": "28.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "29.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "18" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Av",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src",
+      "name": "benefits/src",
+      "qualifier": "DIR",
+      "path": "packages/benefits/src",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "25" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "18" },
+        { "metric": "files", "value": "10" },
+        { "metric": "complexity", "value": "38" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "446" },
+        { "metric": "coverage", "value": "91.5", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "3.9",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAQ",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/test/BenefitsController.spec.js",
+      "name": "BenefitsController.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/test/BenefitsController.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "12" },
+        { "metric": "functions", "value": "12" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "251" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10z",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/ChangePasswordResolve.js",
+      "name": "ChangePasswordResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/ChangePasswordResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "29" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10w",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/CheckCodeResolve.js",
+      "name": "CheckCodeResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/CheckCodeResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "23" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A2",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/config",
+      "name": "config",
+      "qualifier": "DIR",
+      "path": "packages/news/src/config",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "10" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2As",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/config",
+      "name": "config",
+      "qualifier": "DIR",
+      "path": "packages/benefits/src/config",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "10" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A4",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "packages/news/src/controller",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "10" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "14" },
+        { "metric": "files", "value": "6" },
+        { "metric": "complexity", "value": "20" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "120" },
+        { "metric": "coverage", "value": "78.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "10.4",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ah",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "packages/user/src/controller",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "13" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "13" },
+        { "metric": "files", "value": "8" },
+        { "metric": "complexity", "value": "27" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "213" },
+        { "metric": "coverage", "value": "75.5", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "5.8",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "2", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ap",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "packages/benefits/src/controller",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "10" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "18" },
+        { "metric": "files", "value": "6" },
+        { "metric": "complexity", "value": "23" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "130" },
+        { "metric": "coverage", "value": "78.3", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "12.2",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAd",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/test/ControllerTesting.spec.js",
+      "name": "ControllerTesting.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/test/ControllerTesting.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "13" },
+        { "metric": "functions", "value": "13" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "316" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd102",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/test/ControllerTesting.spec.js",
+      "name": "ControllerTesting.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/test/ControllerTesting.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "files", "value": "1" },
+        { "metric": "ncloc", "value": "575" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "functions", "value": "24" },
+        { "metric": "complexity", "value": "24" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "33.4",
+          "bestValue": false
+        },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAT",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/CreateBenefitResolve.js",
+      "name": "CreateBenefitResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/CreateBenefitResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "16" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAc",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/CreateResolve.js",
+      "name": "CreateResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/CreateResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "23" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A1",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/config/database.js",
+      "name": "database.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/config/database.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "10" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ar",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/config/database.js",
+      "name": "database.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/config/database.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "10" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAU",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/DeleteBenefitResolve.js",
+      "name": "DeleteBenefitResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/DeleteBenefitResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "20" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAZ",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/DeleteNewsResolve.js",
+      "name": "DeleteNewsResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/DeleteNewsResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "12" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10x",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/EditUserResolve.js",
+      "name": "EditUserResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/EditUserResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "28" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "20.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "7" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAW",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/FindAllBenefitsResolve.js",
+      "name": "FindAllBenefitsResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/FindAllBenefitsResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "7" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAY",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/FindAllResolve.js",
+      "name": "FindAllResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/FindAllResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "7" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAX",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/FindByIdBenefitResolve.js",
+      "name": "FindByIdBenefitResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/FindByIdBenefitResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "15" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAb",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/FindByIdResolve.js",
+      "name": "FindByIdResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/FindByIdResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "10" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10y",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/GetUserByTokenResolve.js",
+      "name": "GetUserByTokenResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/GetUserByTokenResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "2" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "23" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAR",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/test/ModelBenefits.spec.js",
+      "name": "ModelBenefits.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/test/ModelBenefits.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A0",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/models",
+      "name": "models",
+      "qualifier": "DIR",
+      "path": "packages/news/src/models",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "72.5",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "45" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ab",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/models",
+      "name": "models",
+      "qualifier": "DIR",
+      "path": "packages/user/src/models",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "52.8",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "47" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Au",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/models",
+      "name": "models",
+      "qualifier": "DIR",
+      "path": "packages/benefits/src/models",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "30" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAe",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/test/ModelTesting.spec.js",
+      "name": "ModelTesting.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/test/ModelTesting.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd101",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/test/ModelTesting.spec.js",
+      "name": "ModelTesting.spec.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/test/ModelTesting.spec.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "3" },
+        { "metric": "functions", "value": "3" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "25" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Az",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/models/news.js",
+      "name": "news.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/models/news.js",
+      "language": "js",
+      "measures": [
+        { "metric": "files", "value": "1" },
+        { "metric": "ncloc", "value": "45" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "functions", "value": "0" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "72.5",
+          "bestValue": false
+        },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A6",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src",
+      "name": "news/src",
+      "qualifier": "DIR",
+      "path": "packages/news/src",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "5.5",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "26" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "14" },
+        { "metric": "files", "value": "10" },
+        { "metric": "complexity", "value": "36" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "516" },
+        { "metric": "coverage", "value": "91.7", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.6",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2A3",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/NewsController.js",
+      "name": "NewsController.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/NewsController.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "44" },
+        { "metric": "coverage", "value": "28.0", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "24.1",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "14" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd10u",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/SendEmailResolve.js",
+      "name": "SendEmailResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/SendEmailResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "4" },
+        { "metric": "functions", "value": "2" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "30" },
+        { "metric": "coverage", "value": "57.1", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAf",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/test",
+      "name": "test",
+      "qualifier": "DIR",
+      "path": "packages/news/src/test",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "16" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "16" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "341" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXY1UO6DY9RSw7rfd103",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/test",
+      "name": "test",
+      "qualifier": "DIR",
+      "path": "packages/user/src/test",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "32.1",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "27" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "27" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "600" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAS",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/test",
+      "name": "test",
+      "qualifier": "DIR",
+      "path": "packages/benefits/src/test",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "functions", "value": "15" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "2" },
+        { "metric": "complexity", "value": "15" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "276" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAV",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/benefits/src/controller/UpdateBenefitResolve.js",
+      "name": "UpdateBenefitResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/benefits/src/controller/UpdateBenefitResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "9" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "28" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXYmZ3u3g_L_Mt6l2uAa",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/news/src/controller/UpdateNewsResolve.js",
+      "name": "UpdateNewsResolve.js",
+      "qualifier": "FIL",
+      "path": "packages/news/src/controller/UpdateNewsResolve.js",
+      "language": "js",
+      "measures": [
+        { "metric": "complexity", "value": "5" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Aa",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/models/user.js",
+      "name": "user.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/models/user.js",
+      "language": "js",
+      "measures": [
+        { "metric": "files", "value": "1" },
+        { "metric": "ncloc", "value": "47" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "functions", "value": "0" },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "52.8",
+          "bestValue": false
+        },
+        { "metric": "open_issues", "value": "0", "bestValue": true },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Ak",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src",
+      "name": "user/src",
+      "qualifier": "DIR",
+      "path": "packages/user/src",
+      "measures": [
+        {
+          "metric": "duplicated_lines_density",
+          "value": "24.4",
+          "bestValue": false
+        },
+        { "metric": "functions", "value": "40" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "13" },
+        { "metric": "files", "value": "11" },
+        { "metric": "complexity", "value": "54" },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        { "metric": "ncloc", "value": "860" },
+        { "metric": "coverage", "value": "91.7", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.5",
+          "bestValue": false
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        { "metric": "open_issues", "value": "2", "bestValue": false }
+      ]
+    },
+    {
+      "id": "AXWvpZ9gpmov4aJr_2Af",
+      "key": "fga-eps-mds_2020.1-VC_Gestor-BackEnd:packages/user/src/controller/UserController.js",
+      "name": "UserController.js",
+      "qualifier": "FIL",
+      "path": "packages/user/src/controller/UserController.js",
+      "language": "js",
+      "measures": [
+        { "metric": "functions", "value": "5" },
+        { "metric": "sqale_rating", "value": "1.0", "bestValue": true },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "comment_lines", "value": "4" },
+        { "metric": "files", "value": "1" },
+        { "metric": "complexity", "value": "5" },
+        { "metric": "ncloc", "value": "47" },
+        { "metric": "coverage", "value": "23.1", "bestValue": false },
+        { "metric": "reliability_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "7.8",
+          "bestValue": false
+        },
+        { "metric": "open_issues", "value": "2", "bestValue": false },
+        { "metric": "bugs", "value": "0", "bestValue": true },
+        {
+          "metric": "test_success_density",
+          "value": "100.0",
+          "bestValue": true
+        },
+        { "metric": "vulnerabilities", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    }
+  ]
+}
